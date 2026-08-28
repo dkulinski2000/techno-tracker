@@ -1,0 +1,5 @@
+# Runtime deps for the scrapers + build. Keep this list short (CLAUDE.md).
+httpx==0.28.1          # HTTP client for every scraper
+selectolax==0.4.11     # fast HTML parsing — reserved for the next HTML-only
+                       # source (kicket/biletomat); no parser used yet
+tzdata==2026.3         # zoneinfo has no system tz database on Windows / slim CI

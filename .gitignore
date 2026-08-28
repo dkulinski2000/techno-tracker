@@ -1,0 +1,23 @@
+# raw scraper responses + on-disk detail cache — debugging only, never committed
+raw/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# one-off probes from the recon phase (kept locally, not part of the pipeline)
+probe_*.py
+test1.py
+response.html
+
+# claude files
+CLAUDE.md

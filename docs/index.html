@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Techno w Polsce</title>
+<meta name="description" content="Agregator imprez techno, hard techno, schranz, acid i industrial w Polsce.">
+<style>
+  :root{
+    --bg:#0b0b0d; --surface:#141417; --surface-2:#1c1c21; --line:#2a2a31;
+    --text:#f4f4f5; --muted:#a1a1aa; --accent:#4ade80; --accent-ink:#04120a;
+    --radius:12px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    background:var(--bg);color:var(--text);
+    font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    padding:16px;max-width:900px;margin:0 auto;
+  }
+  a{color:inherit}
+  h1{font-size:1.5rem;letter-spacing:-.02em}
+  header{display:flex;flex-direction:column;gap:4px;margin-bottom:16px}
+  .updated{color:var(--muted);font-size:.8rem}
+  .updated.stale{color:#fbbf24}
+
+  .filters{
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    padding:12px;display:grid;gap:10px;margin-bottom:14px;
+  }
+  .row{display:flex;gap:8px;flex-wrap:wrap}
+  .field{display:flex;flex-direction:column;gap:4px;flex:1;min-width:130px}
+  label{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+  input,select{
+    background:var(--surface-2);color:var(--text);border:1px solid var(--line);
+    border-radius:8px;padding:8px 10px;font:inherit;width:100%;
+  }
+  input[type=range]{padding:0}
+  .genres{display:flex;flex-wrap:wrap;gap:6px}
+  .chip{
+    background:var(--surface-2);border:1px solid var(--line);color:var(--muted);
+    border-radius:999px;padding:5px 11px;font-size:.8rem;cursor:pointer;user-select:none;
+  }
+  .chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
+  .presets{display:flex;flex-wrap:wrap;gap:6px}
+  .bar{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}
+  .bar-actions{display:flex;align-items:center;gap:10px;margin-left:auto}
+  .count{color:var(--muted);font-size:.85rem}
+  button.link{background:none;border:none;color:var(--accent);cursor:pointer;font:inherit;text-decoration:underline}
+  button.share{
+    background:var(--accent);color:var(--accent-ink);border:none;border-radius:8px;
+    padding:7px 14px;font:inherit;font-size:.82rem;font-weight:600;cursor:pointer;
+    display:flex;align-items:center;gap:6px;white-space:nowrap;
+  }
+  button.share:hover{filter:brightness(1.08)}
+  button.share.done{background:var(--surface-2);color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+
+  .list{display:grid;gap:10px}
+  .card{
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    padding:12px;display:grid;gap:6px;
+  }
+  .card .when{color:var(--accent);font-weight:600;font-size:.85rem}
+  .card h2{font-size:1.02rem;line-height:1.35}
+  .card .where{color:var(--muted);font-size:.88rem}
+  /* lineup disclosure — native <details> so it works without JS and is keyboard-accessible */
+  .lineup{border:1px solid var(--line);border-radius:8px;background:var(--surface-2);overflow:hidden}
+  .lineup > summary{
+    cursor:pointer;list-style:none;padding:7px 10px;font-size:.82rem;color:var(--accent);
+    display:flex;align-items:center;gap:6px;user-select:none;
+  }
+  .lineup > summary::-webkit-details-marker{display:none}
+  .lineup > summary::before{
+    content:"";border:solid var(--accent);border-width:0 1.6px 1.6px 0;
+    padding:2.5px;transform:rotate(-45deg);transition:transform .15s;flex:none;margin-top:-2px;
+  }
+  .lineup[open] > summary::before{transform:rotate(45deg);margin-top:2px}
+  .lineup > summary:hover{background:rgba(74,222,128,.07)}
+  .lineup .names{display:flex;flex-wrap:wrap;gap:5px;padding:2px 10px 10px}
+  .who{
+    background:var(--surface);border:1px solid var(--line);border-radius:6px;
+    padding:3px 9px;font-size:.8rem;color:var(--text);cursor:pointer;
+  }
+  .who:hover{border-color:var(--accent);color:var(--accent)}
+
+  .card .meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:2px}
+  .tag{background:var(--surface-2);border:1px solid var(--line);border-radius:999px;padding:2px 9px;font-size:.72rem;color:var(--muted)}
+  .price{margin-left:auto;font-size:.85rem;color:var(--text)}
+  .card .go{
+    justify-self:start;margin-top:4px;background:var(--accent);color:var(--accent-ink);
+    text-decoration:none;font-weight:600;font-size:.85rem;padding:7px 14px;border-radius:8px;
+  }
+  .empty{color:var(--muted);text-align:center;padding:40px 0}
+
+  footer{color:var(--muted);font-size:.78rem;text-align:center;margin:24px 0 8px}
+  @media(min-width:620px){ body{padding:24px} }
+</style>
+</head>
+<body>
+<header>
+  <h1>Techno Radar</h1>
+  <div class="updated" id="updated">ładowanie…</div>
+</header>
+
+<section class="filters" id="filters" hidden>
+  <div class="row">
+    <div class="field">
+      <label for="city">Miasto</label>
+      <select id="city"><option value="">wszystkie</option></select>
+    </div>
+    <div class="field">
+      <label for="from">Od</label>
+      <input type="date" id="from">
+    </div>
+    <div class="field">
+      <label for="to">Do</label>
+      <input type="date" id="to">
+    </div>
+  </div>
+  <div class="presets" id="presets">
+    <button class="chip" data-range="today"   aria-pressed="false">Dziś</button>
+    <button class="chip" data-range="weekend" aria-pressed="false">Ten weekend</button>
+    <button class="chip" data-range="next31"  aria-pressed="false">Najbliższe 31 dni</button>
+  </div>
+  <div class="row">
+    <div class="field">
+      <label for="artist">Artysta / nazwa</label>
+      <input type="search" id="artist" placeholder="np. Shlømo, warehouse…" autocomplete="off">
+    </div>
+    <div class="field">
+      <label for="price">Max cena: <span id="priceVal">bez limitu</span></label>
+      <input type="range" id="price" min="0" max="400" step="10" value="400">
+    </div>
+  </div>
+  <div class="field">
+    <label>Gatunek</label>
+    <div class="genres" id="genres"></div>
+  </div>
+  <div class="bar">
+    <span class="count" id="count"></span>
+    <span class="bar-actions">
+      <button class="link" id="reset">wyczyść filtry</button>
+      <button class="share" id="share">Udostępnij</button>
+    </span>
+  </div>
+</section>
+
+<div class="list" id="list"></div>
+
+<!-- GoatCounter: cookieless, no personal data, so no consent banner needed.
+     Their docs give src as "//gc.zgo.at/count.js"; explicit https:// only
+     saves a 301 hop when the page itself is served over http (local testing).
+     Either form works. Expect this to be blocked for a share of visitors —
+     gc.zgo.at is on common blocklists — so treat counts as a lower bound. -->
+<script data-goatcounter="https://rahuu.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script>
+(async function(){
+  const $ = s => document.querySelector(s);
+  const listEl = $('#list'), countEl = $('#count');
+  let events = [], fuse = null;
+
+  const state = {
+    city:'', from:'', to:'', artist:'', price:400,
+    genres:new Set(),
+    // Set only by clicking a name in a line-up. Typing is fuzzy (for "Shlømo"
+    // vs "Shlomo"); a click means "this exact act", so it must not go through
+    // Fuse — at threshold 0.4 "MIKASO" also returns "Reni Jusis".
+    exactArtist:'',
+  };
+
+  function fmtDate(iso){
+    const d = new Date(iso);
+    return d.toLocaleDateString('pl-PL',{weekday:'short',day:'numeric',month:'short'}) +
+           ', ' + d.toLocaleTimeString('pl-PL',{hour:'2-digit',minute:'2-digit'});
+  }
+
+  try {
+    const res = await fetch('events.json',{cache:'no-cache'});
+    const data = await res.json();
+    events = data.events || [];
+    renderUpdated(data.updated);
+  } catch(e){
+    $('#updated').textContent = 'Nie udało się wczytać danych.';
+    return;
+  }
+
+  $('#filters').hidden = false;
+
+  // --- populate city + genre controls from the data ------------------------
+  const cities = [...new Set(events.map(e=>e.city).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pl'));
+  for (const c of cities){
+    const o = document.createElement('option'); o.value = c; o.textContent = c;
+    $('#city').append(o);
+  }
+  const genres = [...new Set(events.flatMap(e=>e.genres))].sort();
+  for (const g of genres){
+    const b = document.createElement('button');
+    b.className = 'chip'; b.textContent = g; b.setAttribute('aria-pressed','false');
+    b.onclick = () => {
+      if (state.genres.has(g)){ state.genres.delete(g); b.setAttribute('aria-pressed','false'); }
+      else { state.genres.add(g); b.setAttribute('aria-pressed','true'); }
+      render();
+    };
+    $('#genres').append(b);
+  }
+
+  // Local date as YYYY-MM-DD. NOT toISOString() — that converts to UTC, and
+  // Poland is ahead of it, so at 00:30 local "today" would come back as
+  // yesterday. This app gets used at 1am, so that matters.
+  function localISO(d){
+    return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`
+         + `-${String(d.getDate()).padStart(2,'0')}`;
+  }
+
+  // Date presets. Returns [from, to] as YYYY-MM-DD.
+  function presetRange(name){
+    const now = new Date();
+    if (name === 'today') return [localISO(now), localISO(now)];
+    if (name === 'next31'){
+      // A rolling 31 days, deliberately NOT the calendar month — on the 28th
+      // "this month" would have meant three days, which is useless.
+      const end = new Date(now);
+      end.setDate(now.getDate() + 31);
+      return [localISO(now), localISO(end)];
+    }
+    // weekend = Fri–Sun of the current week. getDay(): 0=Sun … 6=Sat.
+    // On Sunday the weekend is ending, so look back to Friday, not forward.
+    const dow = now.getDay();
+    const fri = new Date(now);
+    fri.setDate(now.getDate() + (dow === 0 ? -2 : 5 - dow));
+    const sun = new Date(fri);
+    sun.setDate(fri.getDate() + 2);
+    // never start the range in the past
+    return [localISO(fri < now ? now : fri), localISO(sun)];
+  }
+
+  const today = localISO(new Date());
+  $('#from').value = today; state.from = today;
+
+  fuse = new Fuse(events, {
+    keys:['title','artists','venue'], threshold:0.4, ignoreLocation:true,
+  });
+
+  // --- wire inputs -------------------------------------------------------
+  $('#city').onchange  = e => { state.city = e.target.value; render(); };
+  $('#from').onchange  = e => { state.from = e.target.value; render(); };
+  $('#to').onchange    = e => { state.to = e.target.value; render(); };
+  // typing always means fuzzy search — drop any exact-artist lock
+  $('#artist').oninput = e => {
+    state.artist = e.target.value.trim();
+    state.exactArtist = '';
+    render();
+  };
+  $('#price').oninput  = e => {
+    state.price = +e.target.value;
+    $('#priceVal').textContent = state.price >= 400 ? 'bez limitu' : state.price + ' zł';
+    render();
+  };
+  $('#reset').onclick = () => { clearState(); stateToControls(); render(); };
+
+  // --- shareable URLs --------------------------------------------------
+  // Filter state lives in the location hash so a filtered view can be pasted
+  // into a chat. Written on every render, read once on load.
+
+  function writeHash(){
+    const p = new URLSearchParams();
+    if (state.city) p.set('city', state.city);
+    if (state.from && state.from !== today) p.set('from', state.from);
+    if (state.to) p.set('to', state.to);
+    // exact (clicked a name) and fuzzy (typed) are different searches, so they
+    // get different keys — otherwise a shared link changes what it matches.
+    if (state.exactArtist) p.set('artist', state.exactArtist);
+    else if (state.artist) p.set('q', state.artist);
+    if (state.price < 400) p.set('price', state.price);
+    if (state.genres.size) p.set('genres', [...state.genres].join(','));
+
+    const hash = p.toString();
+    // replaceState, not location.hash — no history entry per keystroke, and
+    // an empty filter set leaves a clean URL with no trailing "#".
+    // pathname+search keeps any ?utm_… a shared link arrived with.
+    const base = location.pathname + location.search;
+    try {
+      history.replaceState(null, '', hash ? '#' + hash : base);
+    } catch {
+      // Safari rate-limits replaceState (~100 calls / 30s). Losing a URL
+      // update while someone types fast is harmless — never break render().
+    }
+  }
+
+  function clearState(){
+    state.city=''; state.from=today; state.to=''; state.artist='';
+    state.exactArtist=''; state.price=400; state.genres.clear();
+  }
+
+  // state -> controls. The one place the DOM is written from state.
+  function stateToControls(){
+    $('#city').value = state.city;
+    $('#from').value = state.from;
+    $('#to').value = state.to;
+    $('#artist').value = state.artist;
+    $('#price').value = state.price;
+    $('#priceVal').textContent = state.price >= 400 ? 'bez limitu' : state.price + ' zł';
+    document.querySelectorAll('#genres .chip').forEach(c =>
+      c.setAttribute('aria-pressed', String(state.genres.has(c.textContent))));
+  }
+
+  function readHash(){
+    if (!location.hash) return;
+    const p = new URLSearchParams(location.hash.slice(1));
+    const known = new Set(genres);
+
+    if (p.has('city') && cities.includes(p.get('city'))) state.city = p.get('city');
+    if (p.has('from')) state.from = p.get('from');
+    if (p.has('to')) state.to = p.get('to');
+    if (p.has('artist')) state.artist = state.exactArtist = p.get('artist');
+    else if (p.has('q')) state.artist = p.get('q');
+    if (p.has('price')){
+      const n = +p.get('price');
+      if (Number.isFinite(n) && n >= 0 && n <= 400) state.price = n;
+    }
+    // ignore unknown genre names rather than filtering to nothing
+    for (const g of (p.get('genres') || '').split(',').filter(Boolean))
+      if (known.has(g)) state.genres.add(g);
+
+    stateToControls();
+  }
+
+  // A hash-only change does NOT reload the page, so opening a shared link
+  // while already on the site would otherwise do nothing. replaceState (what
+  // writeHash uses) doesn't fire this, so there's no feedback loop.
+  window.addEventListener('hashchange', () => {
+    clearState();
+    readHash();
+    stateToControls();
+    render();
+  });
+
+  $('#share').onclick = async () => {
+    const btn = $('#share'), url = location.href;
+    // On a phone this opens the real share sheet, which is what you actually
+    // want when sending a line-up to a group chat.
+    if (navigator.share){
+      try { await navigator.share({title: document.title, url}); return; }
+      catch { /* user dismissed — fall through to copy */ }
+    }
+    try { await navigator.clipboard.writeText(url); }
+    catch { prompt('Skopiuj link:', url); return; }
+    const label = btn.textContent;
+    btn.textContent = 'Skopiowano ✓';
+    btn.classList.add('done');
+    setTimeout(() => { btn.textContent = label; btn.classList.remove('done'); }, 1600);
+  };
+
+  // --- date presets ------------------------------------------------------
+  $('#presets').addEventListener('click', ev => {
+    const btn = ev.target.closest('[data-range]');
+    if (!btn) return;
+    const [from, to] = presetRange(btn.dataset.range);
+    // clicking an active preset clears it
+    const active = state.from === from && state.to === to;
+    state.from = active ? today : from;
+    state.to   = active ? ''    : to;
+    $('#from').value = state.from;
+    $('#to').value = state.to;
+    render();
+  });
+
+  function syncPresets(){
+    document.querySelectorAll('#presets [data-range]').forEach(b => {
+      const [f, t] = presetRange(b.dataset.range);
+      b.setAttribute('aria-pressed', String(state.from === f && state.to === t));
+    });
+  }
+
+  // --- analytics ---------------------------------------------------------
+  // GoatCounter custom events. Loaded async, so it may not be there yet (or at
+  // all, behind an ad blocker) — never let a missing counter break the page.
+  function track(name, title){
+    try { window.goatcounter?.count?.({path:name, title: title || name, event:true}); }
+    catch { /* analytics must never affect the app */ }
+  }
+
+  // Which events people actually want tickets for.
+  listEl.addEventListener('click', ev => {
+    const link = ev.target.closest('a.go');
+    if (!link) return;
+    const card = link.closest('.card');
+    track('ticket-click', card?.querySelector('h2')?.textContent || '?');
+  });
+
+  // What people search for. Debounced — otherwise every keystroke is an event.
+  // Zero-result searches are the useful signal: they name the artists and
+  // promoters the scrapers are still missing.
+  let searchTimer;
+  $('#artist').addEventListener('input', e => {
+    clearTimeout(searchTimer);
+    const q = e.target.value.trim();
+    if (q.length < 3) return;
+    searchTimer = setTimeout(() => {
+      const hits = countEl.textContent.split(' ')[0];
+      track('search', `${q} (${hits} wyników)`);
+    }, 1200);
+  });
+
+  // Click a name in a line-up to search for that artist. Delegated, so it
+  // keeps working as cards are re-rendered.
+  listEl.addEventListener('click', ev => {
+    const chip = ev.target.closest('.who');
+    if (!chip) return;
+    state.artist = state.exactArtist = chip.dataset.artist;
+    $('#artist').value = state.artist;
+    render();
+    track('lineup-artist-click', state.artist);
+    $('#artist').scrollIntoView({behavior:'smooth', block:'center'});
+  });
+
+  // --- filtering + render ----------------------------------------------
+  function render(){
+    let rows;
+    if (state.exactArtist){
+      const want = state.exactArtist.toLowerCase();
+      rows = events.filter(e => e.artists.some(a => a.toLowerCase() === want));
+    } else if (state.artist){
+      rows = fuse.search(state.artist).map(r=>r.item);
+    } else {
+      rows = events.slice();
+    }
+
+    rows = rows.filter(e=>{
+      if (state.city && e.city !== state.city) return false;
+      const day = e.date.slice(0,10);
+      if (state.from && day < state.from) return false;
+      if (state.to && day > state.to) return false;
+      if (state.price < 400 && e.price_min != null && e.price_min > state.price) return false;
+      if (state.genres.size && !e.genres.some(g=>state.genres.has(g))) return false;
+      return true;
+    });
+
+    if (!state.artist || state.exactArtist) rows.sort((a,b)=>a.date.localeCompare(b.date));
+    countEl.textContent = rows.length + ' / ' + events.length + ' imprez';
+    // render() is the one chokepoint every filter change passes through, so
+    // the URL and the preset highlighting are kept in sync from here.
+    writeHash();
+    syncPresets();
+
+    listEl.innerHTML = '';
+    if (!rows.length){
+      listEl.innerHTML = '<div class="empty">Brak imprez dla tych filtrów.</div>';
+      return;
+    }
+    const frag = document.createDocumentFragment();
+    for (const e of rows) frag.append(card(e));
+    listEl.append(frag);
+  }
+
+  function lineupHtml(artists){
+    if (!artists.length) return '';
+    // 1–2 names fit inline; a disclosure for one name would be silly.
+    if (artists.length < 3)
+      return `<div class="where">${esc(artists.join(', '))}</div>`;
+    return `
+      <details class="lineup">
+        <summary>Line-up (${artists.length})</summary>
+        <div class="names">
+          ${artists.map(a=>`<span class="who" data-artist="${esc(a)}">${esc(a)}</span>`).join('')}
+        </div>
+      </details>`;
+  }
+
+  function card(e){
+    const el = document.createElement('article');
+    el.className = 'card';
+    const where = [e.venue, e.city].filter(Boolean).join(' · ') || '—';
+    const price = e.price_min != null ? `od ${e.price_min} zł` : '';
+    el.innerHTML = `
+      <div class="when">${fmtDate(e.date)}</div>
+      <h2>${esc(e.title)}</h2>
+      <div class="where">${esc(where)}</div>
+      ${lineupHtml(e.artists)}
+      <div class="meta">
+        ${e.genres.map(g=>`<span class="tag">${esc(g)}</span>`).join('')}
+        <span class="price">${price}</span>
+      </div>
+      ${safeUrl(e.url) ? `<a class="go" href="${esc(e.url)}" target="_blank" rel="noopener noreferrer">Bilety →</a>` : ''}`;
+    return el;
+  }
+
+  function esc(s){ return String(s).replace(/[&<>"']/g, c => (
+    {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+  // build.py already allow-lists the scheme; repeated here because escaping
+  // alone would not stop a `javascript:` href, and the page should not have to
+  // trust the JSON it was handed.
+  function safeUrl(u){
+    return typeof u === 'string' && /^https?:\/\/[^/\\]/i.test(u.replace(/[\x00-\x20]/g,''));
+  }
+
+  function renderUpdated(iso){
+    const el = $('#updated');
+    if (!iso){ el.textContent=''; return; }
+    const when = new Date(iso);
+    const hrs = (Date.now() - when) / 36e5;
+    el.textContent = 'Zaktualizowano ' + when.toLocaleString('pl-PL',
+      {day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'});
+    if (hrs > 24) el.classList.add('stale');
+  }
+
+  // Restore any shared filter state, then draw. Must run after the city and
+  // genre controls exist, since readHash() validates against them.
+  readHash();
+  render();
+})();
+</script>
+</body>
+</html>

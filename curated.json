@@ -1,0 +1,34 @@
+{
+  "_readme": [
+    "Hand-curated knowledge that the source data does not contain.",
+    "Edit this file by hand; build.py picks it up on the next run. No code changes needed.",
+    "Run `python curate.py` to see which events still need attention, ranked by impact.",
+    "",
+    "artists        {name: [genres]}  Genres are ADDED to whatever the text matcher found.",
+    "                                 Matching is fuzzy+diacritic-insensitive (Shlomo == Shlomo)",
+    "                                 and also matches the artist name appearing in the title.",
+    "not_electronic [names]           Artists who are simply not in this scene. An event whose",
+    "                                 only signal is one of these is dropped from the dataset.",
+    "events         {url: {genres}}   Final say for one specific event, keyed by its ticket URL",
+    "                                 (copy it from the app). REPLACES all detected genres.",
+    "                                 Use [] to drop a single event.",
+    "",
+    "Valid genre labels are listed in normalise.KNOWN_GENRES; build.py warns on typos.",
+    "This seed is deliberately small - only entries that are clearly correct. Extend it."
+  ],
+
+  "artists": {
+    "holy priest": ["hard-techno", "hardcore"],
+    "charlotte de witte": ["techno"],
+    "verknipt": ["hard-techno"]
+  },
+
+  "not_electronic": [
+    "jmsn",
+    "son lux",
+    "ghostly kisses",
+    "nouvelle vague"
+  ],
+
+  "events": {}
+}

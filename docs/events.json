@@ -1,0 +1,2845 @@
+{
+  "updated": "2026-08-28T16:34:01+02:00",
+  "count": 153,
+  "events": [
+    {
+      "title": "🧭 ZEW WYDM - DARŁÓWKO WSCHODNIE - Plastelina On The Beach",
+      "date": "2026-08-28T17:00:00+02:00",
+      "city": "Darłówko Wschodnie",
+      "venue": "PLAŻA WSCHODNIA wejście nr 11",
+      "artists": [
+        "Kalicky"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/gigi-mazi-fran-parky-plastelinowy-piksu-adrian-nux-jude-kalicky-skoczi-vade-mind-fx-aka-jasinski-belinda-korver-plaza-wschodnia-wejscie-nr-11-8781",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "KROKODYL Festiwal",
+      "date": "2026-08-28T19:00:00+02:00",
+      "city": "Kamienica Szlachecka",
+      "venue": null,
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/krokodyl-festiwal-8845",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Reni Jusis (DJ set) x The Very Polish Cut Outs | Kraków",
+      "date": "2026-08-28T22:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "The Very Polish Cut Outs"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/reni-jusis-the-very-polish-cut-outs-miedzymiastowa-8457",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "sanktuarium | rubedo",
+      "date": "2026-08-29T20:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Sky7 Cracow",
+      "artists": [
+        "Claudio Cardinale"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/sanktuarium-rubedo-8854",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Underground Dub Club - Mejdej Sound System All Night Long",
+      "date": "2026-08-29T20:00:00+02:00",
+      "city": "Tychy",
+      "venue": "Underground Pub",
+      "artists": [],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/underground-pub-8848",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Ciało: Zima Stulecia – 36,6°C Album Release Party",
+      "date": "2026-08-29T20:30:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Zima Stulecia"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": 70.0,
+      "url": "https://goingapp.pl/wydarzenie/cialo-zima-stulecia-36-60c-album-release-party/wroclaw-sierpien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Catz 'n Dogz & VJ Emiko @ W/W Rooftop",
+      "date": "2026-08-29T21:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Wdech/Wydech Rooftop",
+      "artists": [
+        "Catz 'n Dogz"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/catz-n-dogz-wdechwydech-rooftop-8976",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "DRUM HIGH",
+      "date": "2026-08-29T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "Wojtek Sitnik"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/pequeno-marc-wojtek-sitnik-slodownia-club-9084",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: WONDERLAND",
+      "date": "2026-08-29T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "OBSESSION"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stf-obsession-miedzymiastowa-9342",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "DWA10 | Daytime House Music Experirnce",
+      "date": "2026-08-30T14:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "HotSpot Beach Bar Wrocław",
+      "artists": [
+        "DJ Duch",
+        "Patryk Niedziela"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": 25.0,
+      "url": "https://goingapp.pl/wydarzenie/dwa10-daytime-house-music-experirnce/wroclaw-sierpien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "RAVE PILATES — SUMMER SEASON CLOSING | SPECIAL EDITION | WARSAW",
+      "date": "2026-08-30T17:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Fisherman",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/przyjazn-8787",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Hype Summer Festiwal 2026: Akcent, O-Zone, Morandi, Lucenzo",
+      "date": "2026-08-30T18:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Letnia Scena Progresji",
+      "artists": [
+        "AKCENT",
+        "Gromee",
+        "Lucenzo",
+        "Morandi",
+        "O-Zone"
+      ],
+      "genres": [
+        "electronic",
+        "house"
+      ],
+      "price_min": 159.0,
+      "url": "https://goingapp.pl/wydarzenie/hype-summer-festiwal-2026-akcent-o-zone-morandi-lucenzo/warszawa-sierpien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "GFOTY + monia.mp3 + anymati + DJOTY | 3.09 | WARSZAWA",
+      "date": "2026-09-03T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "VooDoo Club",
+      "artists": [
+        "GFOTY"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/gfoty-moniamp3-anymati-djoty-voodoo-club-8740",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "WYSPOWA BASSOWA vol. 7",
+      "date": "2026-09-04T15:00:00+02:00",
+      "city": "Stróża",
+      "venue": "Wyspowa Dolina",
+      "artists": [
+        "DJ Aphrodite",
+        "Ginee",
+        "Jabbadub",
+        "MR FLOPPY",
+        "Radikal Guru"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 390.0,
+      "url": "https://goingapp.pl/wydarzenie/wyspowa-bassowa-vol-7/stroza-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "PpW: Hardcore Friday - Żeby Było Ci Dobrze | HARDCORE WRESTLING",
+      "date": "2026-09-04T19:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "2KOŁA",
+      "artists": [
+        "PpW Ewenement"
+      ],
+      "genres": [
+        "hardcore"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ppw-ewenement-2kola-8578",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "D&B | live & DJ party",
+      "date": "2026-09-04T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "BARdzo bardzo",
+      "artists": [],
+      "genres": [
+        "drum-and-bass",
+        "rave",
+        "house"
+      ],
+      "price_min": 50.0,
+      "url": "https://goingapp.pl/wydarzenie/d-b-live-dj-party/warszawa-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "FIRST CLASS: PRIVATE AIRFIELD with HOTLAP @ PRZYJAŹN",
+      "date": "2026-09-04T21:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Przyjaźń",
+      "artists": [
+        "HotLap",
+        "Mike Konstanty",
+        "Sincz"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "price_min": 80.0,
+      "url": "https://goingapp.pl/wydarzenie/first-class-private-airfield-with-hotlap-at-przyjazn/warszawa-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Hannah Laing",
+      "date": "2026-09-04T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Hannah Laing"
+      ],
+      "genres": [
+        "trance",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/hannah-laing-oczki-8517",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Ciało: In Verruf",
+      "date": "2026-09-04T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "In Verruf"
+      ],
+      "genres": [
+        "rave",
+        "techno"
+      ],
+      "price_min": 70.0,
+      "url": "https://goingapp.pl/wydarzenie/cialo-in-verruf-2/wroclaw-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "PROZAK ON THE ROOF: SEASON FINALE w/ JÄGERMEISTER",
+      "date": "2026-09-05T17:00:00+02:00",
+      "city": "Kraków",
+      "venue": "HOTEL POLESKI",
+      "artists": [
+        "Naked Relaxing"
+      ],
+      "genres": [
+        "trance",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/kuriozum-naked-relaxing-truant-hotel-poleski-9138",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RE:SPACE 2026 | Open Air | Kraków",
+      "date": "2026-09-05T18:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Kombinat (Nowa Huta / Budynek Z)",
+      "artists": [
+        "Frankey&Sandrino"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/einmusik-frankeyandsandrino-matador-musumeci-lulu-malina-plus2-nowe-centrum-administracyjne-kombinat-8520",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MIRAŻ XXX — CHLOE CAILLET",
+      "date": "2026-09-05T18:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Taras Widokowy PKiN",
+      "artists": [],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "price_min": 220.0,
+      "url": "https://goingapp.pl/wydarzenie/miraz-xxx-chloe-caillet/warszawa-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Rooftop Party at LOLA",
+      "date": "2026-09-05T20:00:00+02:00",
+      "city": "Poznań",
+      "venue": "LOLA Chinese Extravaganza, 15 piętro",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/lola-rooftop-party-9320",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Euforia Dźwięku - Paul Van Dyk",
+      "date": "2026-09-05T20:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "A2 - Centrum Koncertowe",
+      "artists": [],
+      "genres": [
+        "trance",
+        "house",
+        "techno"
+      ],
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/ed-t-euforia-dzwieku/wroclaw-wrzesien-2026-2",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Jassmine 6th Birthday: Błoto plays Detroit Techno",
+      "date": "2026-09-05T20:30:00+02:00",
+      "city": "Warszawa",
+      "venue": "Klub Jassmine",
+      "artists": [
+        "Błoto"
+      ],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/jassmine-6th-birthday-bloto-plays-detroit-techno/warszawa-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "SCHISSMA: POZNAŃ (SCHRON) – 05.09.2026",
+      "date": "2026-09-05T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Schron Poznań",
+      "artists": [
+        "Schellt"
+      ],
+      "genres": [
+        "bounce",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/knife-pact-jozef-keuner-schellt-vraxx-xcessive-kameha-monster-rewa-schron-poznan-9140",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "KRAKÓW W TRANSIE 💿 STK47 WAREHOUSE RAVE",
+      "date": "2026-09-05T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [
+        "Wixapol"
+      ],
+      "genres": [
+        "acid",
+        "trance",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/krakowwtransie-9313",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: PARADISO",
+      "date": "2026-09-05T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "DIRTY RUSH"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/dirty-rush-paxtone-miedzymiastowa-9343",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SUNDANCE: HOTLAP",
+      "date": "2026-09-06T14:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Ulica Elektryków",
+      "artists": [
+        "Adana Twins",
+        "HotLap",
+        "Laurence Guy",
+        "Nicola Cruz",
+        "Paula Tape"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "price_min": 20.0,
+      "url": "https://goingapp.pl/wydarzenie/sundance/gdansk-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "CLAPTONE — WARSAW",
+      "date": "2026-09-11T18:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Browar Warszawski",
+      "artists": [
+        "Claptone"
+      ],
+      "genres": [
+        "rave",
+        "house",
+        "techno"
+      ],
+      "price_min": 150.0,
+      "url": "https://goingapp.pl/wydarzenie/claptone-warsaw/warszawa-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Tajemniczy Domek Open Air",
+      "date": "2026-09-11T18:30:00+02:00",
+      "city": "Czatachowa",
+      "venue": "Czatachowa",
+      "artists": [],
+      "genres": [
+        "psytrance"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/czatachowa-8408",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MARAFEST",
+      "date": "2026-09-12T14:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Scena Tarasy - Aquapark Sopot",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/marafest-sopot-8070",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Deep In My Soul - Boat Party",
+      "date": "2026-09-12T18:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "STATEK NEREIDA",
+      "artists": [],
+      "genres": [
+        "house",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/deepinmysoul-8569",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "GROOVE practice",
+      "date": "2026-09-12T18:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Pergamin 2.0 Lounge & Skybar",
+      "artists": [],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "price_min": 50.0,
+      "url": "https://goingapp.pl/wydarzenie/groove-practice-5/krakow-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TRANCE FRIENDS FESTIVAL",
+      "date": "2026-09-12T18:30:00+02:00",
+      "city": "Kraków",
+      "venue": "HYPE PARK",
+      "artists": [],
+      "genres": [
+        "trance"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/hype-parkfestival-8321",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ED:T - Euforia Dźwięku: Lilly Palmer",
+      "date": "2026-09-12T20:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "B90",
+      "artists": [
+        "Lilly Palmer",
+        "LIVVY",
+        "Space 92"
+      ],
+      "genres": [
+        "trance",
+        "techno",
+        "house"
+      ],
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/ed-t-euforia-dzwieku/gdansk-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "MAIN SPOT",
+      "date": "2026-09-12T20:00:00+02:00",
+      "city": "Bydgoszcz",
+      "venue": "Wakepark Bydgoszcz",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": 25.0,
+      "url": "https://goingapp.pl/wydarzenie/main-spot/bydgoszcz-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "BAYONNE | Warszawa",
+      "date": "2026-09-12T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "BARdzo bardzo",
+      "artists": [
+        "Bayonne"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 85.0,
+      "url": "https://goingapp.pl/wydarzenie/bayonne/warszawa-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Kollektiv Turmstrasse | Tytonie Lublin",
+      "date": "2026-09-12T21:00:00+02:00",
+      "city": "Lublin",
+      "venue": "LZT Lubelskie Zakłady Tytoniowe",
+      "artists": [
+        "Kollektiv Turmstrasse"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/kollektiv-turmstrasse-lzt-lubelskie-zaklady-tytoniowe-8373",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Deep In My Soul @ Wdech/Wydech Rooftop",
+      "date": "2026-09-12T22:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Wdech/Wydech Rooftop",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wdechwydech-rooftop-8925",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "HARD NIGHT WAREHOUSE KRK DR. OBLITERANE",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [
+        "J-GRO"
+      ],
+      "genres": [
+        "industrial",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: AMAZONICA",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "CRUZZ"
+      ],
+      "genres": [
+        "trance",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "DUALISM PRES. TH;EN | 12.09",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "TH;EN"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Ciało: Eli Brown",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Eli Brown"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": 140.0,
+      "url": "https://goingapp.pl/wydarzenie/cialo-eli-brown/wroclaw-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TECHNO YOGA WE WROCŁAWIU W KLUBIE CIAŁO (DZIEDZINIEC)",
+      "date": "2026-09-13T15:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało (Dziedziniec)",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/cialo-dziedziniec-8901",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "III Urodziny Oczki - Dzień 1",
+      "date": "2026-09-18T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [],
+      "genres": [
+        "trance",
+        "techno",
+        "house",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/oczki-8546",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SCHISSMA x RYYM: KRAKÓW (STK WAREHOUSE) – 18.09.2026",
+      "date": "2026-09-18T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [
+        "TISKIMIKKO"
+      ],
+      "genres": [
+        "industrial",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/tiskimikko-dj-ricky-zagroza-ernst-marcelitumelis-stk-47-warehouse-9227",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Ciało: Jazzy",
+      "date": "2026-09-18T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "hard-techno",
+        "schranz",
+        "industrial",
+        "techno"
+      ],
+      "price_min": 85.0,
+      "url": "https://goingapp.pl/wydarzenie/cialo-jazzy/wroclaw-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "CASCADA",
+      "date": "2026-09-19T20:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Stary Maneż",
+      "artists": [
+        "Cascada"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 169.0,
+      "url": "https://goingapp.pl/wydarzenie/cascada/gdansk-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "GIUSEPPE OTTAVIANI",
+      "date": "2026-09-19T21:30:00+02:00",
+      "city": "Katowice",
+      "venue": "Energy 2000 Katowice",
+      "artists": [
+        "Giuseppe Ottaviani"
+      ],
+      "genres": [
+        "trance"
+      ],
+      "price_min": 73.0,
+      "url": "https://goingapp.pl/wydarzenie/giuseppe-ottaviani-2/katowice-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "III Urodziny Oczki - Dzień 2",
+      "date": "2026-09-19T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/oczki-8547",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: WONDERLAND",
+      "date": "2026-09-19T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "ST:F"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "2 YEAR ANNIVERSARY OF PARANØIA",
+      "date": "2026-09-19T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "schranz",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "TECHNO YOGA — SUMMER SEASON CLOSING | SPECIAL EDITION | WARSAW",
+      "date": "2026-09-20T15:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/fisherman-8788",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Full Moon Art Fest 2026 - VI edycja",
+      "date": "2026-09-25T20:00:00+02:00",
+      "city": "Chorzów",
+      "venue": "Leśniczówka Rock'n'Roll Cafe",
+      "artists": [],
+      "genres": [
+        "psytrance",
+        "techno",
+        "house",
+        "electro"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/lesniczowka-rocknroll-cafe-8911",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Roots Experience | Charlie H",
+      "date": "2026-09-25T20:00:00+02:00",
+      "city": "Katowice",
+      "venue": "Królestwo",
+      "artists": [
+        "Charlie H"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": 80.0,
+      "url": "https://goingapp.pl/wydarzenie/roots-experience-charlie-h/katowice-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "EXIST pres. Charlotte De Witte",
+      "date": "2026-09-25T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "SEKTOR6D",
+      "artists": [
+        "Charlotte De Witte"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 150.0,
+      "url": "https://www.exist.pl/events/exist-charlotte-de-witte-bilety-2026-warsaw",
+      "source": "exist",
+      "sources": [
+        "exist"
+      ]
+    },
+    {
+      "title": "SCHISSMA: WROCŁAW (CIAŁO) – 25.09.2026 | STASZKØ, BOBAIO, STARA",
+      "date": "2026-09-25T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "DJ FA**OT"
+      ],
+      "genres": [
+        "bounce",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/staszko-bobaio-schellt-xcessive-stara-ernst-dj-faot-marcelitumelis-cialo-9315",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "DWA10 | KRAKÓW - Daytime House Music Experirence",
+      "date": "2026-09-26T14:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Forum Horyzonty",
+      "artists": [
+        "La Giang",
+        "Patryk Niedziela"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": 79.0,
+      "url": "https://goingapp.pl/wydarzenie/dwa10-krakow-daytime-house-music-experirence/krakow-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "HOYM The Last Dance",
+      "date": "2026-09-26T18:00:00+02:00",
+      "city": "Rybnik",
+      "venue": "Klub Odyseja",
+      "artists": [
+        "Larmo"
+      ],
+      "genres": [
+        "industrial"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/agima-sun-dusseldorf-human-steel-larmo-klub-odyseja-8469",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "PpW: Chaos Na Rewirach | HARDCORE WRESTLING",
+      "date": "2026-09-26T19:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Zaklęte Rewiry",
+      "artists": [
+        "PpW Ewenement"
+      ],
+      "genres": [
+        "hardcore"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ppw-ewenement-zaklete-rewiry-8518",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ED:T - Euforia Dźwięku: HI LO",
+      "date": "2026-09-26T20:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Duss",
+        "HI-LO",
+        "Tai Woffinden"
+      ],
+      "genres": [
+        "trance",
+        "house",
+        "techno"
+      ],
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/ed-t-euforia-dzwieku/wroclaw-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Euforia Dźwięku",
+      "date": "2026-09-26T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [
+        "Daxson",
+        "Jeffrey Sutorius",
+        "Markus Schulz",
+        "Matt Bukovski",
+        "Matys",
+        "Orjan Nilsen",
+        "Sander van Doorn"
+      ],
+      "genres": [
+        "trance",
+        "house",
+        "techno"
+      ],
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/ed-t-euforia-dzwieku/warszawa-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "NOVA KLUBOVA 4TH ANNIVERSARY",
+      "date": "2026-09-26T21:00:00+02:00",
+      "city": "Kraków",
+      "venue": "NOVA KLUBOVA",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/nova-klubova-9286",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "BOILER RUSH VI: BLACKOUT RAVE",
+      "date": "2026-09-26T22:00:00+02:00",
+      "city": "Rudna Mała",
+      "venue": "Baza Bunkier Rudna Mała",
+      "artists": [
+        "mc_d"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/baza-bunkier-9112",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: MYKONOS MUSE",
+      "date": "2026-09-26T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "IAN"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/sincz-ian-miedzymiastowa-9345",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "PARANØIA SHOWCASE 26.09.2026 | POZNAŃ",
+      "date": "2026-09-26T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Schron Poznań",
+      "artists": [
+        "ags"
+      ],
+      "genres": [
+        "bounce",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/taaga-grazyna-ags-alexsarna-h8me-synthia-gibalski-juleesoh-hdsn-inferno-schron-poznan-9007",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Existence & We Love Trance present, Victims Of Trance",
+      "date": "2026-09-27T00:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Klub Transformator",
+      "artists": [
+        "Mike Moor"
+      ],
+      "genres": [
+        "trance"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/existencewltvot-7425",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "NACHTMAHR | Wrocław",
+      "date": "2026-10-01T20:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Klub Łącznik",
+      "artists": [
+        "Nachtmahr"
+      ],
+      "genres": [
+        "industrial",
+        "techno"
+      ],
+      "price_min": 105.0,
+      "url": "https://goingapp.pl/wydarzenie/nachtmahr/wroclaw-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "NACHTMAHR | Poznań",
+      "date": "2026-10-02T19:50:00+02:00",
+      "city": "Poznań",
+      "venue": "Klub Pod Minogą",
+      "artists": [
+        "Nachtmahr"
+      ],
+      "genres": [
+        "industrial",
+        "techno"
+      ],
+      "price_min": 105.0,
+      "url": "https://goingapp.pl/wydarzenie/nachtmahr/poznan-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Forced To Mode - The Devotional Tribute To Depeche Mode",
+      "date": "2026-10-02T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [
+        "Forced to Mode"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 120.0,
+      "url": "https://goingapp.pl/wydarzenie/forced-to-mode-3/warszawa-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "hoshii LOVE THERAPY | Scena MONK",
+      "date": "2026-10-02T20:30:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Scena MONK",
+      "artists": [
+        "hoshii"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 110.0,
+      "url": "https://goingapp.pl/wydarzenie/hoshii-love-therapy-scena-monk/gdansk-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TRIBUTE TO CRYSTAL CASTLES - Katowice",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Katowice",
+      "venue": "CEL",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ttcc-katowice-8661",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ART GROOVE",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "PSY-CLAN: Avalon I Hype Park Kraków",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Hype Park",
+      "artists": [
+        "Avalon"
+      ],
+      "genres": [
+        "psytrance",
+        "trance"
+      ],
+      "price_min": 85.0,
+      "url": "https://goingapp.pl/wydarzenie/avalon-i-02-10-2026-i-hype-park-krakow/krakow-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "ARK: TIGA | Poznań",
+      "date": "2026-10-02T23:30:00+02:00",
+      "city": "Poznań",
+      "venue": "Tama",
+      "artists": [
+        "Tiga"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "price_min": 119.0,
+      "url": "https://goingapp.pl/wydarzenie/tiga-3/poznan-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Raveowisko - Pierwszy rodzinny RAVE w Polsce- WROCŁAW",
+      "date": "2026-10-03T15:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Centrum Kultury i Edukacji Bakara",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/rodzinny-kids-rave-wroclaw-8972",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Before Ambientalny",
+      "date": "2026-10-03T19:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Wrocławski Klub Formaty",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 89.0,
+      "url": "https://goingapp.pl/wydarzenie/before-ambientalny-6/wroclaw-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "NACHTMAHR | Warszawa",
+      "date": "2026-10-03T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "VooDoo Club",
+      "artists": [
+        "Nachtmahr"
+      ],
+      "genres": [
+        "industrial",
+        "techno"
+      ],
+      "price_min": 105.0,
+      "url": "https://goingapp.pl/wydarzenie/nachtmahr/warszawa-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
+      "date": "2026-10-03T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [
+        "ERNST"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
+      "date": "2026-10-03T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/cialo-8853",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "TRIBUTE TO CRYSTAL CASTLES - Wrocław",
+      "date": "2026-10-03T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ttcc-wroclaw-8662",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ARK: TIGA | Warszawa",
+      "date": "2026-10-03T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Tiga"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "price_min": 119.0,
+      "url": "https://goingapp.pl/wydarzenie/tiga-3/warszawa-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "We Draw A | READY FOR THE PEOPLE tour | Protokultura | Wrocław",
+      "date": "2026-10-09T19:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Protokultura Wrocław",
+      "artists": [
+        "We Draw A"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/we-draw-a-protokultura-wroclaw-8621",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "DUB PISTOLS | Warszawa",
+      "date": "2026-10-09T19:30:00+02:00",
+      "city": "Warszawa",
+      "venue": "Klub Hydrozagadka",
+      "artists": [
+        "Dub Pistols"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 109.0,
+      "url": "https://goingapp.pl/wydarzenie/dub-pistols-warszawa-2/warszawa-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "ARK: Lane 8 | Warszawa",
+      "date": "2026-10-09T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "GLOWAL",
+        "Lane 8"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": 159.0,
+      "url": "https://goingapp.pl/wydarzenie/ark-lane8-warszawa/warszawa-pazdziernik-2026-2",
+      "source": "going",
+      "sources": [
+        "going",
+        "stage24"
+      ]
+    },
+    {
+      "title": "Verknipt Poland 2026",
+      "date": "2026-10-09T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "SEKTOR6D",
+      "artists": [],
+      "genres": [
+        "hard-techno"
+      ],
+      "price_min": 150.0,
+      "url": "https://www.exist.pl/events/verknipt-warsaw-bilety-2026",
+      "source": "exist",
+      "sources": [
+        "exist"
+      ]
+    },
+    {
+      "title": "TRIBUTE TO CRYSTAL CASTLES - Warszawa",
+      "date": "2026-10-09T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "VooDoo Club",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ttcc-warszawa-8663",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "DUB PISTOLS / Białystok, Zmiana Klimatu / 10.10.2026",
+      "date": "2026-10-10T18:00:00+02:00",
+      "city": "Białystok",
+      "venue": "Zmiana Klimatu",
+      "artists": [
+        "DUB PISTOLS"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/dub-pistols-zmiana-klimatu-4827",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "PpW: Brutality | HARDCORE WRESTLING",
+      "date": "2026-10-10T19:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Mińska 65",
+      "artists": [
+        "PpW Ewenement"
+      ],
+      "genres": [
+        "hardcore"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ppw-ewenement-minska-65-8629",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Euforia Dźwięku",
+      "date": "2026-10-10T20:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "B90",
+      "artists": [
+        "Hardy Hard",
+        "Matys",
+        "MOGUAI",
+        "UMEK",
+        "Westbam"
+      ],
+      "genres": [
+        "trance",
+        "house",
+        "techno"
+      ],
+      "price_min": 139.0,
+      "url": "https://goingapp.pl/wydarzenie/ed-t-euforia-dzwieku/gdansk-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "BASSHUNTER",
+      "date": "2026-10-10T20:00:00+02:00",
+      "city": "Przytkowice",
+      "venue": "Energy 2000 Przytkowice",
+      "artists": [
+        "Basshunter"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 109.0,
+      "url": "https://goingapp.pl/wydarzenie/basshunter-2/przytkowice-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "We Draw A | READY FOR THE PEOPLE tour | w_sercu | Poznań",
+      "date": "2026-10-10T21:00:00+02:00",
+      "city": "Poznań",
+      "venue": "w sercu",
+      "artists": [
+        "We Draw A"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/we-draw-a-w-sercu-8614",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "TRIBUTE TO CRYSTAL CASTLES - Kraków",
+      "date": "2026-10-10T22:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Klub Spotkań Poczta Główna",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ttcc-krakow-8664",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RAVEDRON X FERAL I 10.10.26 I CIAŁO WROCŁAW",
+      "date": "2026-10-10T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/cialo-9003",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Momoko Gill",
+      "date": "2026-10-11T20:30:00+02:00",
+      "city": "Warszawa",
+      "venue": "Klub Jassmine",
+      "artists": [
+        "Momoko Gill"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 147.0,
+      "url": "https://goingapp.pl/wydarzenie/momoko-gill/warszawa-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "James Holden & Wacław Zimpel",
+      "date": "2026-10-14T20:30:00+02:00",
+      "city": "Warszawa",
+      "venue": "Pardon, To Tu",
+      "artists": [
+        "James Holden",
+        "Wacław Zimpel"
+      ],
+      "genres": [
+        "trance"
+      ],
+      "price_min": 99.0,
+      "url": "https://goingapp.pl/wydarzenie/james-holden-waclaw-zimpel/warszawa-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "15. Fonomo Music & Film Festival 2026",
+      "date": "2026-10-15T17:00:00+02:00",
+      "city": "Bydgoszcz",
+      "venue": "Bydgoszcz - różne lokalizacje",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 170.0,
+      "url": "https://goingapp.pl/wydarzenie/15-fonomo-music-film-festival-2026/bydgoszcz-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "CZELUŚĆ GDA: SKELER / LXST CXNTURY / JUTRØ / TBA / SAGE / MRJAY / YTHO",
+      "date": "2026-10-16T23:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "B90",
+      "artists": [
+        "CZELUŚĆ",
+        "JUTRØ",
+        "LXST CXNTURY",
+        "MRJAY",
+        "SAGE",
+        "SAY3AM",
+        "Skeler",
+        "Ytho"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 120.0,
+      "url": "https://goingapp.pl/wydarzenie/czelusc-eternal-tour-skeler-tba-jutroe-say3am-sage-mrjay-ytho/gdansk-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "ARK: HI-LO | Warszawa",
+      "date": "2026-10-16T23:30:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [
+        "HI-LO"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/ark-hi-lo-warszawa/warszawa-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "BEAUZ | 17.10",
+      "date": "2026-10-17T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "EDVVIN"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/beauz-kliarska-edvvin-oczki-9237",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "FLYMEON | TRANSFORMATOR - WROCŁAW | 17.10",
+      "date": "2026-10-17T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Klub Transformator",
+      "artists": [
+        "FLYMEON"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/flymeon-klub-transformator-9295",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "CZELUŚĆ KRK: SKELER / LXST CXNTURY / JUTRØ / SAY3AM / SAGE / MRJAY / YTHO",
+      "date": "2026-10-17T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Hype Park",
+      "artists": [
+        "CZELUŚĆ",
+        "JUTRØ",
+        "LXST CXNTURY",
+        "MRJAY",
+        "SAGE",
+        "SAY3AM",
+        "Skeler",
+        "Ytho"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 140.0,
+      "url": "https://goingapp.pl/wydarzenie/czelusc-eternal-tour-skeler-tba-jutroe-say3am-sage-mrjay-ytho/krakow-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "We Draw A | READY FOR THE PEOPLE tour | Mechanik | Warszawa",
+      "date": "2026-10-22T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Klub Mechanik",
+      "artists": [
+        "We Draw A"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/we-draw-a-klub-mechanik-8615",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Soundedit'26 - Maszynowa, Obywatelka K.L., Howie B",
+      "date": "2026-10-23T18:00:00+02:00",
+      "city": "Łódź",
+      "venue": "Klub Wytwórnia",
+      "artists": [
+        "Howie B.",
+        "Kasia Lins",
+        "Maszynowa"
+      ],
+      "genres": [
+        "electro"
+      ],
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/soundedit-26-maszynowa-obywatelka-k-l-howie-b/lodz-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "We Draw A | READY FOR THE PEOPLE tour | Dwie Zmiany | Sopot",
+      "date": "2026-10-23T20:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Dwie Zmiany",
+      "artists": [
+        "We Draw A"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/we-draw-a-dwie-zmiany-8616",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Soundedit '26 - Marc Almond, The Wolfgang Press, Wolfgang Flur",
+      "date": "2026-10-24T18:00:00+02:00",
+      "city": "Łódź",
+      "venue": "Klub Wytwórnia",
+      "artists": [
+        "Marc Almond",
+        "The Wolfgang Press",
+        "Wolfgang Flür"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 249.0,
+      "url": "https://goingapp.pl/wydarzenie/soundedit-26-marc-almond-the-wolfgang-press-wolfgang-flur/lodz-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Euforia Dźwięku",
+      "date": "2026-10-24T20:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "A2 - Centrum Koncertowe",
+      "artists": [
+        "Mauro Picotto",
+        "MOGUAI",
+        "Westbam"
+      ],
+      "genres": [
+        "trance",
+        "house",
+        "techno"
+      ],
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/ed-t-euforia-dzwieku/worclaw-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "COSMIC GATE",
+      "date": "2026-10-24T21:00:00+02:00",
+      "city": "Przytkowice",
+      "venue": "Energy 2000 Przytkowice",
+      "artists": [
+        "Cosmic Gate"
+      ],
+      "genres": [
+        "trance"
+      ],
+      "price_min": 65.0,
+      "url": "https://goingapp.pl/wydarzenie/cosmic-gate-2/przytkowice-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "EXIST pres. HOLY PRIEST",
+      "date": "2026-10-24T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "SEKTOR6D",
+      "artists": [
+        "HOLY PRIEST"
+      ],
+      "genres": [
+        "hard-techno",
+        "hardcore"
+      ],
+      "price_min": 150.0,
+      "url": "https://www.exist.pl/events/exist-holy-priest-bilety-warsaw-2026",
+      "source": "exist",
+      "sources": [
+        "exist"
+      ]
+    },
+    {
+      "title": "PLATFORM: HALLOWEEN",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "BOBAIO",
+        "CHANGES",
+        "CRYZADORA",
+        "DROS [NL]",
+        "IKKHI [AR]",
+        "INFEED [IT]",
+        "JÓZEF KEUNER",
+        "KNYAZEXD",
+        "MIKASO",
+        "SANTØS [NL]",
+        "STAF EV"
+      ],
+      "genres": [
+        "industrial",
+        "hardstyle",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/platform-halloween-oczki-8772",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "AfterDark",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "electro",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "PSY-CLAN: Juno Reactor",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Tama",
+      "artists": [
+        "Juno Reactor"
+      ],
+      "genres": [
+        "industrial",
+        "psytrance",
+        "trance"
+      ],
+      "price_min": 105.0,
+      "url": "https://goingapp.pl/wydarzenie/psy-clan-juno-reactor/poznan-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Hyphen Dash",
+      "date": "2026-10-29T20:30:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Jassmine",
+      "artists": [
+        "Hyphen Dash"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 119.0,
+      "url": "https://goingapp.pl/wydarzenie/hyphen-dash/warszawa-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TRIBUTE TO CRYSTAL CASTLES - Sopot",
+      "date": "2026-10-30T22:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "Klub Pretzel",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ttcc-sopot-8665",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ELY OAKS | 30.10.2026 | GDAŃSK, CRACKHOUSE",
+      "date": "2026-10-30T23:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "Crackhouse",
+      "artists": [
+        "ely oaks"
+      ],
+      "genres": [
+        "bounce"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ely-oaks-crackhouse-9294",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
+      "date": "2026-10-30T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "CTRL."
+      ],
+      "genres": [
+        "psytrance",
+        "electro"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "We Draw A | READY FOR THE PEOPLE tour | Piąty Dom | Katowice",
+      "date": "2026-10-31T20:30:00+01:00",
+      "city": "Katowice",
+      "venue": "Piąty Dom",
+      "artists": [
+        "We Draw A"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/we-draw-a-piaty-dom-8617",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Bal Dzikich w Zamku Leśnica",
+      "date": "2026-10-31T21:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
+      "artists": [
+        "Scyntero"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/dj-duch-dyyune-scyntero-vvydra-osrodek-postaw-tworczych-zamek-zamek-w-lesnicy-7712",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "THE M",
+      "date": "2026-10-31T21:00:00+01:00",
+      "city": "Przytkowice",
+      "venue": "Energy 2000 Przytkowice",
+      "artists": [
+        "Daniel Majewski",
+        "The M"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 55.0,
+      "url": "https://goingapp.pl/wydarzenie/the-m-2/przytkowice-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TRIBUTE TO CRYSTAL CASTLES - Poznań",
+      "date": "2026-10-31T23:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Klub 2progi",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ttcc-poznan-8666",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MUTUAL RYTM SHOWCASE",
+      "date": "2026-10-31T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "PROGRESJA",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 100.0,
+      "url": "https://www.exist.pl/events/mutual-rytm-showcase-bilety-2026",
+      "source": "exist",
+      "sources": [
+        "exist"
+      ]
+    },
+    {
+      "title": "LIQUID SYMPHONY: London Elektricity / Makoto / Nu:Tone | Wrocław",
+      "date": "2026-11-07T22:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Nu:Tone"
+      ],
+      "genres": [
+        "drum-and-bass"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/london-elektricity-makoto-nutone-cialo-9324",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "BOILER ROOM WARSAW 2026",
+      "date": "2026-11-07T22:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "SEKTOR6D",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": 150.0,
+      "url": "https://www.exist.pl/events/boiler-room-warsaw-2026-bilety",
+      "source": "exist",
+      "sources": [
+        "exist"
+      ]
+    },
+    {
+      "title": "MAYDAY Poland \"ICONIC\"",
+      "date": "2026-11-10T17:00:00+01:00",
+      "city": "Katowice",
+      "venue": "Spodek",
+      "artists": [],
+      "genres": [
+        "rave",
+        "techno"
+      ],
+      "price_min": 339.0,
+      "url": "https://goingapp.pl/wydarzenie/mayday-poland-iconic/katowice-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "AcidSitter + Sexy Cutts",
+      "date": "2026-11-12T19:30:00+01:00",
+      "city": "Warszawa",
+      "venue": "CHMURY",
+      "artists": [
+        "sexy cutts"
+      ],
+      "genres": [
+        "acid"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/acidsitter-sexy-cutts-chmury-9117",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Łódź",
+      "date": "2026-11-13T22:00:00+01:00",
+      "city": "Łódź",
+      "venue": "WILLA",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "acid",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/trainspotting-lodz-9335",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "CTRL. pres. BENNETT @ Oczki, Warszawa | 13.11",
+      "date": "2026-11-13T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "BENNETT"
+      ],
+      "genres": [
+        "trance",
+        "bounce",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/bennett-oczki-9160",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Kraków",
+      "date": "2026-11-14T22:00:00+01:00",
+      "city": "Kraków",
+      "venue": "Klub Spotkań Poczta Główna",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "acid",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/trainspotting-krakow-9334",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Spike Fuck (AU)",
+      "date": "2026-11-17T20:00:00+01:00",
+      "city": "Kraków",
+      "venue": "Klub RE",
+      "artists": [
+        "Spike Fuck"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": 40.0,
+      "url": "https://goingapp.pl/wydarzenie/spike-fuck-au/krakow-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "L1VE: MIND ENTERPRISES",
+      "date": "2026-11-20T18:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Mind Enterprises"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/mind-enterprises-oczki-8300",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Poznań",
+      "date": "2026-11-20T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Dom Technika",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "acid",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/trianspotting-poznan-9336",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Błoto + Ion D",
+      "date": "2026-11-21T20:30:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Jassmine",
+      "artists": [
+        "Błoto"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 129.0,
+      "url": "https://goingapp.pl/wydarzenie/bloto-ion-d/warszawa-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "DJ SASH 21.11 ☆ ECUADOR",
+      "date": "2026-11-21T21:00:00+01:00",
+      "city": "Przytkowice",
+      "venue": "Energy 2000 Przytkowice",
+      "artists": [],
+      "genres": [
+        "trance"
+      ],
+      "price_min": 55.0,
+      "url": "https://goingapp.pl/wydarzenie/dj-sash-21-11-ecuador/przytkowice-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Gdańsk",
+      "date": "2026-11-21T22:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "Czudner SPOT",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "acid",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/trainspotting-gdansk-9337",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "CTRL. pres. SWIMMING PAUL @ Oczki, Warszawa | 21.11",
+      "date": "2026-11-21T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "SWIMMING PAUL"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/swimming-paul-oczki-9135",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ARK: JANUS RASMUSSEN | Warszawa",
+      "date": "2026-11-27T19:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "BARdzo bardzo",
+      "artists": [
+        "Janus Rasmussen"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "price_min": 119.0,
+      "url": "https://goingapp.pl/wydarzenie/ark-janus-rasmussen-warszawa/warszawa-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "ARK: GOODBOYS LIVE | Warszawa",
+      "date": "2026-11-27T19:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Niebo",
+      "artists": [
+        "Goodboys"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": 99.0,
+      "url": "https://goingapp.pl/wydarzenie/ark-goodboys-live-warszawa/warszawa-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Electro Slow 2.0",
+      "date": "2026-11-27T20:00:00+01:00",
+      "city": "Katowice",
+      "venue": "Królestwo",
+      "artists": [],
+      "genres": [
+        "electro"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/krolestwo-9249",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "CLAN OF XYMOX",
+      "date": "2026-11-27T20:00:00+01:00",
+      "city": "Zabrze",
+      "venue": "Klub CK Wiatrak",
+      "artists": [
+        "Clan of Xymox"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 120.0,
+      "url": "https://goingapp.pl/wydarzenie/clan-of-xymox-10/zabrze-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Roomer (DE)",
+      "date": "2026-11-27T20:00:00+01:00",
+      "city": "Kraków",
+      "venue": "Klub RE",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 40.0,
+      "url": "https://goingapp.pl/wydarzenie/roomer-de/krakow-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "acid",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/trainspotting-wroclaw-9333",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "AcidSitter + The Surfin' Souls",
+      "date": "2026-11-28T19:30:00+01:00",
+      "city": "Poznań",
+      "venue": "Dragon Social Club",
+      "artists": [
+        "AcidSitter"
+      ],
+      "genres": [
+        "acid"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/acidsitter-the-surfin-souls-dragon-social-club-9116",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Euforia Dźwięku",
+      "date": "2026-11-28T20:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "B90",
+      "artists": [
+        "Billy Gillies",
+        "Craig Connelly",
+        "David Gravell",
+        "Jeffrey Sutorius",
+        "John O'Callaghan",
+        "Orjan Nilsen",
+        "Sander van Doorn"
+      ],
+      "genres": [
+        "trance",
+        "house",
+        "techno"
+      ],
+      "price_min": 139.0,
+      "url": "https://goingapp.pl/wydarzenie/ed-t-euforia-dzwieku/gdansk-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Katowice",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Katowice",
+      "venue": "CEL",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "acid",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "JAZZ PO POLSKU: Meeting by Chance",
+      "date": "2026-12-06T20:30:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Jassmine",
+      "artists": [
+        "Meeting by Chance"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 90.0,
+      "url": "https://goingapp.pl/wydarzenie/jazz-po-polsku-meeting-by-chance/warszawa-grudzien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "ARK: MYD | Warszawa",
+      "date": "2026-12-11T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Hydrozagadka",
+      "artists": [
+        "Myd"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": 79.0,
+      "url": "https://goingapp.pl/wydarzenie/ark-myd-warszawa/warszawa-grudzien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "NORTHCORE pres. A NIGHT WITH NIGHTCRAFT",
+      "date": "2026-12-19T20:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "DOKI1",
+      "artists": [
+        "Regain"
+      ],
+      "genres": [
+        "hardstyle",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/nightcraftnorthcore-8574",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Raveowisko - Pierwszy rodzinny RAVE SYLWESTER w Polsce- KRAKÓW",
+      "date": "2026-12-31T14:30:00+01:00",
+      "city": "Kraków",
+      "venue": "Klub Podwawelski",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/rodzinny-kids-rave-sylwester-krakow-8286",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Jakub Kluś Quartet. Koncert sylwestrowy",
+      "date": "2026-12-31T16:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Teatr Kamienica",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 330.0,
+      "url": "https://goingapp.pl/wydarzenie/jakub-klus-quartet-koncert-sylwestrowy/warszawa-grudzien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Tranceformations 2027 - 10 edycja",
+      "date": "2027-01-30T18:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Hala Stulecia",
+      "artists": [],
+      "genres": [
+        "trance"
+      ],
+      "price_min": 259.0,
+      "url": "https://goingapp.pl/wydarzenie/tranceformations-2027-10-edycja/wroclaw-styczen-2027",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Time Gates Trance Festiwal",
+      "date": "2027-03-20T20:00:00+01:00",
+      "city": "Jelenia Góra",
+      "venue": "Time Gates - Wrota Czasu 200 letnie podziemia Jeleniej Góry",
+      "artists": [],
+      "genres": [
+        "trance",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/time-gates-wrota-czasu-200-letnie-podziemia-jeleniej-gory-7688",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "farmar // w_sercu, Poznań",
+      "date": "2027-03-26T19:30:00+01:00",
+      "city": "Poznań",
+      "venue": "w sercu",
+      "artists": [
+        "farmar"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/farmar-w-sercu-8483",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    }
+  ]
+}
