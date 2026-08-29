@@ -1,97 +1,7 @@
 {
-  "updated": "2026-08-29T14:42:38+02:00",
-  "count": 153,
+  "updated": "2026-08-29T22:56:22+02:00",
+  "count": 148,
   "events": [
-    {
-      "title": "Underground Dub Club - Mejdej Sound System All Night Long",
-      "date": "2026-08-29T20:00:00+02:00",
-      "city": "Tychy",
-      "venue": "Underground Pub",
-      "artists": [],
-      "genres": [
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/underground-pub-8848",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "sanktuarium | rubedo",
-      "date": "2026-08-29T20:00:00+02:00",
-      "city": "Kraków",
-      "venue": "Sky7 Cracow",
-      "artists": [
-        "Claudio Cardinale"
-      ],
-      "genres": [
-        "techno",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sanktuarium-rubedo-8854",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Ciało: Zima Stulecia – 36,6°C Album Release Party",
-      "date": "2026-08-29T20:30:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "Zima Stulecia"
-      ],
-      "genres": [
-        "techno",
-        "house"
-      ],
-      "price_min": 70.0,
-      "url": "https://goingapp.pl/wydarzenie/cialo-zima-stulecia-36-60c-album-release-party/wroclaw-sierpien-2026",
-      "source": "going",
-      "sources": [
-        "going"
-      ]
-    },
-    {
-      "title": "Catz 'n Dogz & VJ Emiko @ W/W Rooftop",
-      "date": "2026-08-29T21:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Wdech/Wydech Rooftop",
-      "artists": [
-        "Catz 'n Dogz"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/catz-n-dogz-wdechwydech-rooftop-8976",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "DRUM HIGH",
-      "date": "2026-08-29T22:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "pequeño"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/pequeno-marc-wojtek-sitnik-slodownia-club-9084",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
     {
       "title": "MM: WONDERLAND",
       "date": "2026-08-29T23:00:00+02:00",
@@ -311,7 +221,7 @@
       "city": "Kraków",
       "venue": "HOTEL POLESKI",
       "artists": [
-        "Naked Relaxing"
+        "TRUANT"
       ],
       "genres": [
         "trance",
@@ -330,7 +240,7 @@
       "city": "Kraków",
       "venue": "Kombinat (Nowa Huta / Budynek Z)",
       "artists": [
-        "Plus2"
+        "Frankey&Sandrino"
       ],
       "genres": [
         "techno",
@@ -691,7 +601,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "DR.OBLITERANE"
+        "AIZA"
       ],
       "genres": [
         "industrial",
@@ -700,25 +610,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: AMAZONICA",
-      "date": "2026-09-12T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "CRUZZ"
-      ],
-      "genres": [
-        "trance",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -738,6 +629,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: AMAZONICA",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "CRUZZ"
+      ],
+      "genres": [
+        "trance",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -905,24 +815,6 @@
       ]
     },
     {
-      "title": "MM: WONDERLAND",
-      "date": "2026-09-19T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "WHIZZER"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "2 YEAR ANNIVERSARY OF PARANØIA",
       "date": "2026-09-19T23:00:00+02:00",
       "city": "Wrocław",
@@ -934,6 +826,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: WONDERLAND",
+      "date": "2026-09-19T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "ST:F"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1016,7 +926,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "marcelitumelis"
+        "ERNST"
       ],
       "genres": [
         "bounce",
@@ -1055,7 +965,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "Agima Sun"
+        "Larmo"
       ],
       "genres": [
         "industrial"
@@ -1168,6 +1078,25 @@
       ]
     },
     {
+      "title": "PARANØIA SHOWCASE 26.09.2026 | POZNAŃ",
+      "date": "2026-09-26T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Schron Poznań",
+      "artists": [
+        "SYNTHIA"
+      ],
+      "genres": [
+        "bounce",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/taaga-grazyna-ags-alexsarna-h8me-synthia-gibalski-juleesoh-hdsn-inferno-schron-poznan-9007",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "MM: MYKONOS MUSE",
       "date": "2026-09-26T23:00:00+02:00",
       "city": "Kraków",
@@ -1180,25 +1109,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/sincz-ian-miedzymiastowa-9345",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "PARANØIA SHOWCASE 26.09.2026 | POZNAŃ",
-      "date": "2026-09-26T23:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Schron Poznań",
-      "artists": [
-        "INFERNO"
-      ],
-      "genres": [
-        "bounce",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/taaga-grazyna-ags-alexsarna-h8me-synthia-gibalski-juleesoh-hdsn-inferno-schron-poznan-9007",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1426,7 +1336,7 @@
       "city": "Warszawa",
       "venue": "Progresja",
       "artists": [
-        "SCHELLT"
+        "xcessive"
       ],
       "genres": [
         "techno"
@@ -1811,6 +1721,24 @@
       ]
     },
     {
+      "title": "BEAUZ | 17.10",
+      "date": "2026-10-17T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "EDVVIN"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/beauz-kliarska-edvvin-oczki-9237",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "FLYMEON | TRANSFORMATOR - WROCŁAW | 17.10",
       "date": "2026-10-17T23:00:00+02:00",
       "city": "Wrocław",
@@ -1823,24 +1751,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/flymeon-klub-transformator-9295",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "BEAUZ | 17.10",
-      "date": "2026-10-17T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "CTRL."
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/beauz-kliarska-edvvin-oczki-9237",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2191,7 +2101,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "VVYDRA"
+        "Scyntero"
       ],
       "genres": [
         "house"
@@ -2262,7 +2172,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Sinther"
+        "Anadelle"
       ],
       "genres": [
         "electronic"
@@ -2280,7 +2190,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "Makoto"
+        "London Elektricity"
       ],
       "genres": [
         "drum-and-bass"
@@ -2470,7 +2380,7 @@
       "genres": [
         "electronic"
       ],
-      "price_min": null,
+      "price_min": 148.0,
       "url": "https://goingapp.pl/wydarzenie/bloto-ion-d/warszawa-listopad-2026",
       "source": "going",
       "sources": [
