@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T03:46:13+02:00",
-  "count": 151,
+  "updated": "2026-08-29T14:42:38+02:00",
+  "count": 153,
   "events": [
     {
       "title": "Underground Dub Club - Mejdej Sound System All Night Long",
@@ -24,7 +24,7 @@
       "city": "Kraków",
       "venue": "Sky7 Cracow",
       "artists": [
-        "SINCZ"
+        "Claudio Cardinale"
       ],
       "genres": [
         "techno",
@@ -80,7 +80,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "MARC"
+        "pequeño"
       ],
       "genres": [
         "electronic"
@@ -330,7 +330,7 @@
       "city": "Kraków",
       "venue": "Kombinat (Nowa Huta / Budynek Z)",
       "artists": [
-        "Musumeci"
+        "Plus2"
       ],
       "genres": [
         "techno",
@@ -419,7 +419,7 @@
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "KAMEHA"
+        "Monster"
       ],
       "genres": [
         "bounce",
@@ -427,6 +427,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/knife-pact-jozef-keuner-schellt-vraxx-xcessive-kameha-monster-rewa-schron-poznan-9140",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: PARADISO",
+      "date": "2026-09-05T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "DIRTY RUSH"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/dirty-rush-paxtone-miedzymiastowa-9343",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -447,24 +465,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/krakowwtransie-9313",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: PARADISO",
-      "date": "2026-09-05T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "DIRTY RUSH"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dirty-rush-paxtone-miedzymiastowa-9343",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -686,31 +686,12 @@
       ]
     },
     {
-      "title": "MM: AMAZONICA",
-      "date": "2026-09-12T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "ST:F"
-      ],
-      "genres": [
-        "trance",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "HARD NIGHT WAREHOUSE KRK DR. OBLITERANE",
       "date": "2026-09-12T23:00:00+02:00",
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "J-GRO"
+        "DR.OBLITERANE"
       ],
       "genres": [
         "industrial",
@@ -719,6 +700,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: AMAZONICA",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "CRUZZ"
+      ],
+      "genres": [
+        "trance",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -803,7 +803,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "marcelitumelis"
+        "DJ RICKY"
       ],
       "genres": [
         "industrial",
@@ -834,6 +834,22 @@
       "source": "going",
       "sources": [
         "going"
+      ]
+    },
+    {
+      "title": "AFROHOUSEPL X REAL TALK",
+      "date": "2026-09-19T19:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Zwodowani Bar",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/zwodowani-bar-9348",
+      "source": "stage24",
+      "sources": [
+        "stage24"
       ]
     },
     {
@@ -1518,8 +1534,8 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "Lane 8",
-        "VACOS"
+        "GLOWAL",
+        "Lane 8"
       ],
       "genres": [
         "techno",
@@ -2241,12 +2257,30 @@
       ]
     },
     {
+      "title": "Strefa Zamknięta",
+      "date": "2026-11-06T22:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Piękno",
+      "artists": [
+        "Sinther"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/anadelle-grazyna-insan3-mila-oriole-sinther-vraxx-malevolento-piekno-9350",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "LIQUID SYMPHONY: London Elektricity / Makoto / Nu:Tone | Wrocław",
       "date": "2026-11-07T22:00:00+01:00",
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "Nu:Tone"
+        "Makoto"
       ],
       "genres": [
         "drum-and-bass"
@@ -2436,7 +2470,7 @@
       "genres": [
         "electronic"
       ],
-      "price_min": 129.0,
+      "price_min": null,
       "url": "https://goingapp.pl/wydarzenie/bloto-ion-d/warszawa-listopad-2026",
       "source": "going",
       "sources": [
@@ -2610,7 +2644,7 @@
       "city": "Poznań",
       "venue": "Dragon Social Club",
       "artists": [
-        "The Surfin' Souls"
+        "AcidSitter"
       ],
       "genres": [
         "acid"
@@ -2710,7 +2744,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "Nightcraft"
+        "Regain"
       ],
       "genres": [
         "hardstyle",
