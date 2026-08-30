@@ -1,73 +1,14 @@
 {
-  "updated": "2026-08-30T13:55:58+02:00",
-  "count": 147,
+  "updated": "2026-08-30T23:07:40+02:00",
+  "count": 145,
   "events": [
-    {
-      "title": "DWA10 | Daytime House Music Experirnce",
-      "date": "2026-08-30T14:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "HotSpot Beach Bar Wrocław",
-      "artists": [
-        "DJ Duch",
-        "Patryk Niedziela"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": 25.0,
-      "url": "https://goingapp.pl/wydarzenie/dwa10-daytime-house-music-experirnce/wroclaw-sierpien-2026",
-      "source": "going",
-      "sources": [
-        "going"
-      ]
-    },
-    {
-      "title": "RAVE PILATES — SUMMER SEASON CLOSING | SPECIAL EDITION | WARSAW",
-      "date": "2026-08-30T17:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Fisherman",
-      "artists": [],
-      "genres": [
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/przyjazn-8787",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Hype Summer Festiwal 2026: Akcent, O-Zone, Morandi, Lucenzo",
-      "date": "2026-08-30T18:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Letnia Scena Progresji",
-      "artists": [
-        "AKCENT",
-        "Gromee",
-        "Lucenzo",
-        "Morandi",
-        "O-Zone"
-      ],
-      "genres": [
-        "electronic",
-        "house"
-      ],
-      "price_min": 159.0,
-      "url": "https://goingapp.pl/wydarzenie/hype-summer-festiwal-2026-akcent-o-zone-morandi-lucenzo/warszawa-sierpien-2026",
-      "source": "going",
-      "sources": [
-        "going"
-      ]
-    },
     {
       "title": "GFOTY + monia.mp3 + anymati + DJOTY | 3.09 | WARSZAWA",
       "date": "2026-09-03T20:00:00+02:00",
       "city": "Warszawa",
       "venue": "VooDoo Club",
       "artists": [
-        "anymati"
+        "monia.mp3"
       ],
       "genres": [
         "electronic"
@@ -306,18 +247,38 @@
       ]
     },
     {
-      "title": "MM: PARADISO",
-      "date": "2026-09-05T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
+      "title": "BACK TO oldSCHOOL",
+      "date": "2026-09-05T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
       "artists": [
-        "DIRTY RUSH"
+        "Kulterman"
       ],
       "genres": [
         "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dirty-rush-paxtone-miedzymiastowa-9343",
+      "url": "https://stage24.pl/wydarzenia/kulterman-flor-slodownia-club-9353",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "KRAKÓW W TRANSIE 💿 STK47 WAREHOUSE RAVE",
+      "date": "2026-09-05T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [
+        "Wixapol"
+      ],
+      "genres": [
+        "acid",
+        "trance",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/krakowwtransie-9313",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -329,7 +290,7 @@
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "VRAXX"
+        "RE/WA"
       ],
       "genres": [
         "bounce",
@@ -343,20 +304,18 @@
       ]
     },
     {
-      "title": "KRAKÓW W TRANSIE 💿 STK47 WAREHOUSE RAVE",
+      "title": "MM: PARADISO",
       "date": "2026-09-05T23:00:00+02:00",
       "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
+      "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "DJ QBC"
+        "PAXTONE"
       ],
       "genres": [
-        "acid",
-        "trance",
-        "rave"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/krakowwtransie-9313",
+      "url": "https://stage24.pl/wydarzenia/dirty-rush-paxtone-miedzymiastowa-9343",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -598,25 +557,6 @@
       ]
     },
     {
-      "title": "MM: AMAZONICA",
-      "date": "2026-09-12T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "ST:F"
-      ],
-      "genres": [
-        "trance",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "DUALISM PRES. TH;EN | 12.09",
       "date": "2026-09-12T23:00:00+02:00",
       "city": "Warszawa",
@@ -630,6 +570,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: AMAZONICA",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "ST:F"
+      ],
+      "genres": [
+        "trance",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -695,7 +654,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "DJ RICKY"
+        "ZAGROZA"
       ],
       "genres": [
         "industrial",
@@ -797,6 +756,23 @@
       ]
     },
     {
+      "title": "2 YEAR ANNIVERSARY OF PARANØIA",
+      "date": "2026-09-19T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "schranz",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "MM: WONDERLAND",
       "date": "2026-09-19T23:00:00+02:00",
       "city": "Kraków",
@@ -809,23 +785,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "2 YEAR ANNIVERSARY OF PARANØIA",
-      "date": "2026-09-19T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [],
-      "genres": [
-        "schranz",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -908,7 +867,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "xcessive"
+        "ERNST"
       ],
       "genres": [
         "bounce",
@@ -947,7 +906,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "Agima Sun"
+        "Düsseldorf"
       ],
       "genres": [
         "industrial"
@@ -1047,7 +1006,7 @@
       "city": "Rudna Mała",
       "venue": "Baza Bunkier Rudna Mała",
       "artists": [
-        "QCZI"
+        "Booguta"
       ],
       "genres": [
         "rave"
@@ -1060,12 +1019,30 @@
       ]
     },
     {
+      "title": "MM: MYKONOS MUSE",
+      "date": "2026-09-26T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "SINCZ"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/sincz-ian-miedzymiastowa-9345",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "PARANØIA SHOWCASE 26.09.2026 | POZNAŃ",
       "date": "2026-09-26T23:00:00+02:00",
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "taaga"
+        "ALEXSARNA"
       ],
       "genres": [
         "bounce",
@@ -1079,30 +1056,12 @@
       ]
     },
     {
-      "title": "MM: MYKONOS MUSE",
-      "date": "2026-09-26T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "IAN"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sincz-ian-miedzymiastowa-9345",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "Existence & We Love Trance present, Victims Of Trance",
       "date": "2026-09-27T00:00:00+02:00",
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "0Gravity"
+        "Tass"
       ],
       "genres": [
         "trance"
@@ -1318,13 +1277,30 @@
       "city": "Warszawa",
       "venue": "Progresja",
       "artists": [
-        "marcelitumelis"
+        "VIEZE ASBAK"
       ],
       "genres": [
         "techno"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
+      "date": "2026-10-03T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/cialo-8853",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1343,23 +1319,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-wroclaw-8662",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
-      "date": "2026-10-03T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [],
-      "genres": [
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/cialo-8853",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1708,7 +1667,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "CTRL."
+        "KLIARSKA"
       ],
       "genres": [
         "techno"
@@ -2023,6 +1982,25 @@
       ]
     },
     {
+      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
+      "date": "2026-10-30T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "CTRL."
+      ],
+      "genres": [
+        "psytrance",
+        "electro"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "ELY OAKS | 30.10.2026 | GDAŃSK, CRACKHOUSE",
       "date": "2026-10-30T23:00:00+01:00",
       "city": "Trójmiasto",
@@ -2035,25 +2013,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ely-oaks-crackhouse-9294",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
-      "date": "2026-10-30T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Infected Mushroom"
-      ],
-      "genres": [
-        "psytrance",
-        "electro"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2083,7 +2042,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dj Duch"
+        "VVYDRA"
       ],
       "genres": [
         "house"
@@ -2154,7 +2113,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "oriole"
+        "Insan3"
       ],
       "genres": [
         "electronic"
@@ -2172,7 +2131,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "London Elektricity"
+        "Nu:Tone"
       ],
       "genres": [
         "drum-and-bass"
@@ -2223,7 +2182,7 @@
       "city": "Warszawa",
       "venue": "CHMURY",
       "artists": [
-        "sexy cutts"
+        "AcidSitter"
       ],
       "genres": [
         "acid"
@@ -2536,7 +2495,7 @@
       "city": "Poznań",
       "venue": "Dragon Social Club",
       "artists": [
-        "AcidSitter"
+        "The Surfin' Souls"
       ],
       "genres": [
         "acid"
@@ -2636,7 +2595,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "Nightcraft"
+        "Regain"
       ],
       "genres": [
         "hardstyle",
