@@ -136,8 +136,8 @@
   </div>
   <div class="row">
     <div class="field">
-      <label for="artist">Artysta / nazwa</label>
-      <input type="search" id="artist" placeholder="np. Shlømo, warehouse…" autocomplete="off">
+      <label for="artist">Szukaj</label>
+      <input type="search" id="artist" placeholder="np. Shlømo, hard techno, Kraków, warehouse…" autocomplete="off">
     </div>
     <div class="field">
       <label for="price">Max cena: <span id="priceVal">bez limitu</span></label>
@@ -177,11 +177,23 @@
   const state = {
     city:'', from:'', to:'', artist:'', price:400,
     genres:new Set(),
-    // Set only by clicking a name in a line-up. Typing is fuzzy (for "Shlømo"
-    // vs "Shlomo"); a click means "this exact act", so it must not go through
-    // Fuse — at threshold 0.4 "MIKASO" also returns "Reni Jusis".
+    // Set only by clicking a name in a line-up: "this exact act", never a
+    // near-miss. Typed search may fall back to fuzzy; a click must not.
     exactArtist:'',
   };
+
+  // Fold text for matching: lowercase, drop diacritics, punctuation -> space.
+  // NFKD does not decompose ł/ø/đ, so they need an explicit table — the same
+  // gotcha normalise.strip_diacritics hit on the Python side with WROCŁAW.
+  // Folding is what actually makes "shlomo" find "Shlømo" and "krakow" find
+  // "Kraków"; fuzziness was never the right tool for that.
+  const TRANSLIT = {'ł':'l','ø':'o','đ':'d','ð':'d','þ':'th','ß':'ss','æ':'ae','œ':'oe','ı':'i'};
+  function fold(s){
+    return String(s == null ? '' : s).toLowerCase()
+      .replace(/[łøđðþßæœı]/g, c => TRANSLIT[c])
+      .normalize('NFKD').replace(/[̀-ͯ]/g, '')
+      .replace(/[^a-z0-9]+/g, ' ').trim();
+  }
 
   function fmtDate(iso){
     const d = new Date(iso);
@@ -252,9 +264,39 @@
   const today = localISO(new Date());
   $('#from').value = today; state.from = today;
 
-  fuse = new Fuse(events, {
-    keys:['title','artists','venue'], threshold:0.4, ignoreLocation:true,
+  // --- search index --------------------------------------------------------
+  // Folded shadow copy of the searchable fields. genres are included because
+  // "hard techno" is a thing people type into a search box, and city because
+  // "kraków" is too. A genre slug folds to words: hard-techno -> "hard techno".
+  const searchIndex = events.map(e => ({
+    ev:      e,
+    title:   fold(e.title),
+    artists: (e.artists || []).map(fold),
+    venue:   fold(e.venue || ''),
+    genres:  (e.genres  || []).map(fold),
+    city:    fold(e.city || ''),
+  }));
+
+  // Fuse is now a FALLBACK only, and deliberately tight. At the old global
+  // threshold of 0.4 it allowed 2 edits in a 5-letter word, so "kinky" — a
+  // string that appears nowhere in the dataset — returned 8 events: MILKY
+  // RAVE, "Urodziny Oczki", artist KNYAZEXD, venue "Taras Widokowy PKiN".
+  // 0.2 permits 1 edit in 5 chars ("techmo" -> techno) but not 2.
+  fuse = new Fuse(searchIndex, {
+    keys:['title','artists','venue','genres','city'],
+    threshold:0.2, ignoreLocation:true, minMatchCharLength:3,
   });
+
+  // Literal (folded) substring match, all terms required, so a second word
+  // narrows rather than widens: "hard techno warszawa" means all three.
+  function searchSubstring(q){
+    const terms = fold(q).split(' ').filter(Boolean);
+    if (!terms.length) return events.slice();
+    return searchIndex.filter(r => {
+      const hay = [r.title, r.venue, r.city, ...r.artists, ...r.genres].join(' ');
+      return terms.every(t => hay.includes(t));
+    }).map(r => r.ev);
+  }
 
   // --- wire inputs -------------------------------------------------------
   $('#city').onchange  = e => { state.city = e.target.value; render(); };
@@ -431,12 +473,18 @@
 
   // --- filtering + render ----------------------------------------------
   function render(){
-    let rows;
+    let rows, byRelevance = false;
     if (state.exactArtist){
-      const want = state.exactArtist.toLowerCase();
-      rows = events.filter(e => e.artists.some(a => a.toLowerCase() === want));
+      const want = fold(state.exactArtist);
+      rows = events.filter(e => (e.artists || []).some(a => fold(a) === want));
     } else if (state.artist){
-      rows = fuse.search(state.artist).map(r=>r.item);
+      rows = searchSubstring(state.artist);
+      // Only when nothing matches literally is it worth guessing at a typo.
+      // This is why "kinky" now returns 0 instead of 8 unrelated events.
+      if (!rows.length && fold(state.artist).length >= 3){
+        rows = fuse.search(fold(state.artist)).map(r => r.item.ev);
+        byRelevance = true;
+      }
     } else {
       rows = events.slice();
     }
@@ -451,7 +499,9 @@
       return true;
     });
 
-    if (!state.artist || state.exactArtist) rows.sort((a,b)=>a.date.localeCompare(b.date));
+    // Substring hits are all equally "exact", so date order is the useful one;
+    // only the fuzzy fallback has a relevance ranking worth preserving.
+    if (!byRelevance) rows.sort((a,b)=>a.date.localeCompare(b.date));
     countEl.textContent = rows.length + ' / ' + events.length + ' imprez';
     // render() is the one chokepoint every filter change passes through, so
     // the URL and the preset highlighting are kept in sync from here.
