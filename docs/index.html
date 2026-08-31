@@ -29,13 +29,21 @@
     padding:12px;display:grid;gap:10px;margin-bottom:14px;
   }
   .row{display:flex;gap:8px;flex-wrap:wrap}
-  .field{display:flex;flex-direction:column;gap:4px;flex:1;min-width:130px}
+  /* flex-basis (not min-width) sets the "wrap below this" size. A flex item
+     defaults to min-width:auto, i.e. it will never shrink below its content —
+     which is what let the date inputs push out past the card's right edge. */
+  .field{display:flex;flex-direction:column;gap:4px;flex:1 1 130px;min-width:0}
   label{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
   input,select{
     background:var(--surface-2);color:var(--text);border:1px solid var(--line);
     border-radius:8px;padding:8px 10px;font:inherit;width:100%;
   }
   input[type=range]{padding:0}
+  /* iOS Safari renders input[type=date] as a native control with an intrinsic
+     width that ignores width:100%, so it overflowed its .field on a narrow
+     phone. Dropping the native appearance makes our width authoritative; the
+     picker still opens on tap. min-width:0 lets it shrink inside the field. */
+  input[type=date]{-webkit-appearance:none;appearance:none;min-width:0;max-width:100%}
   .genres{display:flex;flex-wrap:wrap;gap:6px}
   .chip{
     background:var(--surface-2);border:1px solid var(--line);color:var(--muted);
@@ -94,6 +102,10 @@
 
   footer{color:var(--muted);font-size:.78rem;text-align:center;margin:24px 0 8px}
   @media(min-width:620px){ body{padding:24px} }
+  /* Three fields across needs ~406px; a 360px phone has ~304px inside the
+     card. Give Miasto its own line so Od/Do share the next one evenly,
+     instead of Do wrapping alone to full width. */
+  @media(max-width:520px){ .field.city{flex:1 1 100%} }
 </style>
 </head>
 <body>
@@ -104,7 +116,7 @@
 
 <section class="filters" id="filters" hidden>
   <div class="row">
-    <div class="field">
+    <div class="field city">
       <label for="city">Miasto</label>
       <select id="city"><option value="">wszystkie</option></select>
     </div>
