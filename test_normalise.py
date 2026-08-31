@@ -18,6 +18,7 @@ from normalise import (
     classify_genres,
     clean_artists,
     in_scope,
+    is_non_music,
     is_poland,
     strip_diacritics,
     to_warsaw_iso,
@@ -161,5 +162,22 @@ check(squash("  Progresja  "), "progresja", "surrounding whitespace goes")
 check(squash("ERGO ARENA") == squash("ERGO ARENA Sopot/Gdańsk"), False,
       "containment is not equality — no prefix merging")
 check(squash(""), "", "empty stays empty")
+
+# --- is_non_music: the veto ----------------------------------------------
+check(is_non_music("PpW: Brutality | HARDCORE WRESTLING"), True, "wrestling gala vetoed")
+check(is_non_music("Gala Boksu XYZ"), True, "boxing gala vetoed")
+check(is_non_music("Kabaret Moralnego Niepokoju"), True, "cabaret vetoed")
+check(is_non_music("HARD NIGHT WAREHOUSE"), False, "a real rave is not vetoed")
+check(is_non_music("RE:SPACE 2026"), False, "techno open air is not vetoed")
+check(is_non_music("Schranz Attack"), False, "genre words do not trigger the veto")
+check(is_non_music(""), False, "empty title is not vetoed")
+
+# --- city display spelling ------------------------------------------------
+check(canonical_city("Torun"), "Toruń", "diacritic-less Torun gets the proper spelling")
+check(canonical_city("TORUŃ"), "Toruń", "ALLCAPS Toruń folds to the same entry")
+check(canonical_city("Rzeszow"), "Rzeszów", "Rzeszow -> Rzeszów")
+check(canonical_city("zielona gora"), "Zielona Góra", "two-word city folds")
+check(canonical_city("Zabrze"), "Zabrze", "Silesian cities stay separate")
+check(canonical_city("Gdynia"), "Trójmiasto", "Trójmiasto grouping still applies")
 
 print(f"ok — {cases} checks passed")

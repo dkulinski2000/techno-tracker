@@ -31,6 +31,7 @@ from normalise import (
     curated_genres,
     fold,
     in_scope,
+    is_non_music,
     is_poland,
     safe_url,
     squash,
@@ -198,7 +199,7 @@ def build() -> dict:
     now = datetime.now(WARSAW)
     normalised: list[dict] = []
     dropped_scope = dropped_past = dropped_bad = dropped_abroad = 0
-    dropped_curated = 0
+    dropped_curated = dropped_nonmusic = 0
 
     for rec in raw:
         norm = normalise(rec, curated)
@@ -207,6 +208,9 @@ def build() -> dict:
             continue
         if curated_excluded(norm["artists"], norm["title"], curated):
             dropped_curated += 1
+            continue
+        if is_non_music(norm["title"]):
+            dropped_nonmusic += 1
             continue
         if not in_scope(norm["genres"]):
             dropped_scope += 1
@@ -261,8 +265,8 @@ def build() -> dict:
         f"[build] {len(raw)} raw -> {len(normalised)} in scope "
         f"-> {len(events)} after dedup  "
         f"(dropped: {dropped_bad} unparsable, {dropped_scope} off-genre, "
-        f"{dropped_curated} curated-out, {dropped_abroad} abroad, "
-        f"{dropped_past} past)",
+        f"{dropped_curated} curated-out, {dropped_nonmusic} non-music, "
+        f"{dropped_abroad} abroad, {dropped_past} past)",
         file=sys.stderr,
     )
 

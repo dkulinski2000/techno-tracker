@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T15:54:34+02:00",
-  "count": 222,
+  "updated": "2026-08-31T16:21:04+02:00",
+  "count": 218,
   "events": [
     {
       "title": "GFOTY + monia.mp3 + anymati + DJOTY | 3.09 | WARSZAWA",
@@ -40,24 +40,6 @@
       "source": "going",
       "sources": [
         "going"
-      ]
-    },
-    {
-      "title": "PpW: Hardcore Friday - Żeby Było Ci Dobrze | HARDCORE WRESTLING",
-      "date": "2026-09-04T19:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "2KOŁA",
-      "artists": [
-        "PpW Ewenement"
-      ],
-      "genres": [
-        "hardcore"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/ppw-ewenement-2kola-8578",
-      "source": "stage24",
-      "sources": [
-        "stage24"
       ]
     },
     {
@@ -994,22 +976,6 @@
       ]
     },
     {
-      "title": "ATB | FINAL CHAPTER | POLAND TOUR",
-      "date": "2026-09-25T22:30:00+02:00",
-      "city": "Kraków",
-      "venue": "Klub Studio",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 219.0,
-      "url": "https://www.ebilet.pl/muzyka/elektro-techno/atb",
-      "source": "ebilet",
-      "sources": [
-        "ebilet"
-      ]
-    },
-    {
       "title": "SCHISSMA: WROCŁAW (CIAŁO) – 25.09.2026 | STASZKØ, BOBAIO, STARA",
       "date": "2026-09-25T23:00:00+02:00",
       "city": "Wrocław",
@@ -1061,24 +1027,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/agima-sun-dusseldorf-human-steel-larmo-klub-odyseja-8469",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "PpW: Chaos Na Rewirach | HARDCORE WRESTLING",
-      "date": "2026-09-26T19:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Zaklęte Rewiry",
-      "artists": [
-        "PpW Ewenement"
-      ],
-      "genres": [
-        "hardcore"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/ppw-ewenement-zaklete-rewiry-8518",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1798,24 +1746,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/dub-pistols-zmiana-klimatu-4827",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "PpW: Brutality | HARDCORE WRESTLING",
-      "date": "2026-10-10T19:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Mińska 65",
-      "artists": [
-        "PpW Ewenement"
-      ],
-      "genres": [
-        "hardcore"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/ppw-ewenement-minska-65-8629",
       "source": "stage24",
       "sources": [
         "stage24"

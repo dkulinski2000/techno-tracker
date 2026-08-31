@@ -133,6 +133,45 @@ _CITY_CANON = {
     "gdynia": "Trójmiasto",
     "sopot": "Trójmiasto",
     "trojmiasto": "Trójmiasto",
+    # Below: not grouping, just pinning the *display* spelling. An unknown city
+    # is kept as whatever the source wrote, so a source spelling it "Torun"
+    # and another "Toruń" would split into two dropdown entries for one city.
+    # Keys are diacritic-free (that is what fold() produces); values are how
+    # the city should read on screen. Add a city here before it has events —
+    # it costs nothing and prevents the split appearing later.
+    "torun": "Toruń",
+    "bydgoszcz": "Bydgoszcz",
+    "lublin": "Lublin",
+    "bialystok": "Białystok",
+    "rzeszow": "Rzeszów",
+    "olsztyn": "Olsztyn",
+    "kielce": "Kielce",
+    "opole": "Opole",
+    "zielona gora": "Zielona Góra",
+    "gorzow wielkopolski": "Gorzów Wielkopolski",
+    "czestochowa": "Częstochowa",
+    "radom": "Radom",
+    "plock": "Płock",
+    "elblag": "Elbląg",
+    "walbrzych": "Wałbrzych",
+    "legnica": "Legnica",
+    "jelenia gora": "Jelenia Góra",
+    "nowy sacz": "Nowy Sącz",
+    "slupsk": "Słupsk",
+    "koszalin": "Koszalin",
+    "wloclawek": "Włocławek",
+    "tarnow": "Tarnów",
+    "kalisz": "Kalisz",
+    # Silesian cities stay separate on purpose — unlike Trójmiasto they are not
+    # one agglomeration in how the scene talks about them, and the live data
+    # already lists Zabrze/Chorzów/Rybnik as distinct.
+    "gliwice": "Gliwice",
+    "zabrze": "Zabrze",
+    "bytom": "Bytom",
+    "chorzow": "Chorzów",
+    "sosnowiec": "Sosnowiec",
+    "tychy": "Tychy",
+    "rybnik": "Rybnik",
 }
 
 
@@ -206,6 +245,37 @@ _GENRE_PATTERNS: list[tuple[str, list[re.Pattern]]] = [
     (label, [re.compile(rf"(?<![a-z0-9]){re.escape(n)}(?![a-z0-9])") for n in needles])
     for label, needles in _GENRE_RULES
 ]
+
+# Event types that are not club nights. stage24 is a general ticketing
+# platform, so cabaret, theatre and fight galas share the index with raves and
+# borrow genre words: three PpW Ewenement galas titled "HARDCORE WRESTLING"
+# classified as `hardcore` because that word is genuinely in the title, and
+# stage24 gave them no category at all. Word boundaries cannot help there.
+#
+# Kept deliberately to terms no club night would use as its own name. A rave
+# called "Fight Club" would be wrongly vetoed, which is why "fight" is absent.
+# Only extend with terms that pass that test.
+_NON_MUSIC = (
+    "wrestling", "mma", "gala boksu", "kabaret", "stand-up", "standup",
+    "spektakl", "mecz",
+)
+
+_NON_MUSIC_PATTERNS = [
+    re.compile(rf"(?<![a-z0-9]){re.escape(n)}(?![a-z0-9])") for n in _NON_MUSIC
+]
+
+
+def is_non_music(title: str) -> bool:
+    """True if the TITLE says this is not a club night.
+
+    Title only, deliberately. Tested against descriptions first and it misfires
+    badly: `spektakl` appears in RE:SPACE 2026's description (a light show at a
+    real techno open air) and `boks` in another legitimate event's. A title is
+    a claim about what the event *is*; a description is prose that can mention
+    anything.
+    """
+    haystack = fold(title or "")
+    return any(p.search(haystack) for p in _NON_MUSIC_PATTERNS)
 
 # Source-assigned tags/categories -> genre label. Applied on top of text
 # matching. Keys are fold()ed with underscores turned to spaces, so GOING's
