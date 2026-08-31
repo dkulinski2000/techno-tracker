@@ -11,6 +11,7 @@ from normalise import (
     curated_genres,
     safe_url,
     split_acts,
+    squash,
     tidy_genres,
     artist_key,
     canonical_city,
@@ -147,5 +148,18 @@ check(safe_url("https://\\evil.example"), None, "backslash host blocked")
 check(safe_url("/relative/path"), None, "relative blocked")
 check(safe_url(None), None, "none -> none")
 check(safe_url(""), None, "empty -> none")
+
+# --- squash: the dedup anchor --------------------------------------------
+# The pairs this exists for: same venue, two sellers, different punctuation.
+check(squash("Energy 2000 Przytkowice"), squash("ENERGY2000 - PRZYTKOWICE"),
+      "spacing and dashes do not split a venue")
+check(squash("BARdzo bardzo"), squash("BARdzo, bardzo"), "a comma does not split a venue")
+check(squash("Klub Muzyczny B17"), "klubmuzycznyb17", "alphanumerics survive")
+check(squash("Wrocław"), "wroclaw", "diacritics still fold")
+check(squash("  Progresja  "), "progresja", "surrounding whitespace goes")
+# ...and the merge it must NOT make: two real, different venues.
+check(squash("ERGO ARENA") == squash("ERGO ARENA Sopot/Gdańsk"), False,
+      "containment is not equality — no prefix merging")
+check(squash(""), "", "empty stays empty")
 
 print(f"ok — {cases} checks passed")

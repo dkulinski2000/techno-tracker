@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T23:07:40+02:00",
-  "count": 145,
+  "updated": "2026-08-31T11:01:40+02:00",
+  "count": 217,
   "events": [
     {
       "title": "GFOTY + monia.mp3 + anymati + DJOTY | 3.09 | WARSZAWA",
@@ -144,7 +144,7 @@
       "city": "Kraków",
       "venue": "HOTEL POLESKI",
       "artists": [
-        "Naked Relaxing"
+        "KURIOZUM"
       ],
       "genres": [
         "trance",
@@ -163,7 +163,7 @@
       "city": "Kraków",
       "venue": "Kombinat (Nowa Huta / Budynek Z)",
       "artists": [
-        "Einmusik"
+        "Lulu Malina"
       ],
       "genres": [
         "techno",
@@ -191,6 +191,22 @@
       "source": "going",
       "sources": [
         "going"
+      ]
+    },
+    {
+      "title": "RE:SPACE 2026",
+      "date": "2026-09-05T18:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Nowe Centrum Administracyjne (Kombinat)",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 181.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/re-space",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
       ]
     },
     {
@@ -228,6 +244,38 @@
       ]
     },
     {
+      "title": "Symfonia Świateł – multimedialne show z pokazem laserowym",
+      "date": "2026-09-05T20:00:00+02:00",
+      "city": "Katowice",
+      "venue": "Pałac Młodzieży w Katowicach",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 96.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/symfonia-swiatel",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
+      "title": "Euforia Dźwięku 2026",
+      "date": "2026-09-05T20:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Centrum Koncertowe A2",
+      "artists": [],
+      "genres": [
+        "trance"
+      ],
+      "price_min": 159.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/euforia-dzwieku",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Jassmine 6th Birthday: Błoto plays Detroit Techno",
       "date": "2026-09-05T20:30:00+02:00",
       "city": "Warszawa",
@@ -252,7 +300,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "Kulterman"
+        "Flor"
       ],
       "genres": [
         "electronic"
@@ -290,7 +338,7 @@
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "RE/WA"
+        "JÓZEF KEUNER"
       ],
       "genres": [
         "bounce",
@@ -378,6 +426,38 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "Boat Rave by Harmony | Kraków",
+      "date": "2026-09-11T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Kapitan Victor - Bulwar Czerwieński",
+      "artists": [],
+      "genres": [
+        "rave"
+      ],
+      "price_min": 128.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/boat-rave",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
+      "title": "Schrotthagen",
+      "date": "2026-09-11T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 159.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/schrotthagen",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
       ]
     },
     {
@@ -499,6 +579,7 @@
       "url": "https://goingapp.pl/wydarzenie/bayonne/warszawa-wrzesien-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
       ]
     },
@@ -521,6 +602,22 @@
       ]
     },
     {
+      "title": "Kollektiv Turmstrasse",
+      "date": "2026-09-12T21:00:00+02:00",
+      "city": "Lublin",
+      "venue": "Lubelskie Zakłady Tytoniowe",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 127.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/kollektiv-turmstrasse",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Deep In My Soul @ Wdech/Wydech Rooftop",
       "date": "2026-09-12T22:00:00+02:00",
       "city": "Wrocław",
@@ -537,12 +634,31 @@
       ]
     },
     {
+      "title": "MM: AMAZONICA",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "CRUZZ"
+      ],
+      "genres": [
+        "trance",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "HARD NIGHT WAREHOUSE KRK DR. OBLITERANE",
       "date": "2026-09-12T23:00:00+02:00",
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "AIZA"
+        "O4O2"
       ],
       "genres": [
         "industrial",
@@ -570,25 +686,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: AMAZONICA",
-      "date": "2026-09-12T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "ST:F"
-      ],
-      "genres": [
-        "trance",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -630,6 +727,22 @@
       ]
     },
     {
+      "title": "TR/ST",
+      "date": "2026-09-16T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "NIEBO",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 138.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/trst",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "III Urodziny Oczki - Dzień 1",
       "date": "2026-09-18T22:00:00+02:00",
       "city": "Warszawa",
@@ -654,7 +767,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "ZAGROZA"
+        "TISKIMIKKO"
       ],
       "genres": [
         "industrial",
@@ -682,6 +795,23 @@
       ],
       "price_min": 85.0,
       "url": "https://goingapp.pl/wydarzenie/cialo-jazzy/wroclaw-wrzesien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Technoranek #58 This is my church",
+      "date": "2026-09-19T11:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Warszawa",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": 30.0,
+      "url": "https://goingapp.pl/wydarzenie/technoranek-58-his-s-y-hurch/warszawa-wrzesien-2026",
       "source": "going",
       "sources": [
         "going"
@@ -718,6 +848,7 @@
       "url": "https://goingapp.pl/wydarzenie/cascada/gdansk-wrzesien-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
       ]
     },
@@ -736,6 +867,7 @@
       "url": "https://goingapp.pl/wydarzenie/giuseppe-ottaviani-2/katowice-wrzesien-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
       ]
     },
@@ -756,6 +888,24 @@
       ]
     },
     {
+      "title": "MM: WONDERLAND",
+      "date": "2026-09-19T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "WHIZZER"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "2 YEAR ANNIVERSARY OF PARANØIA",
       "date": "2026-09-19T23:00:00+02:00",
       "city": "Wrocław",
@@ -767,24 +917,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: WONDERLAND",
-      "date": "2026-09-19T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "ST:F"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -867,7 +999,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "ERNST"
+        "SCHELLT"
       ],
       "genres": [
         "bounce",
@@ -906,7 +1038,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "Düsseldorf"
+        "Agima Sun"
       ],
       "genres": [
         "industrial"
@@ -1006,7 +1138,7 @@
       "city": "Rudna Mała",
       "venue": "Baza Bunkier Rudna Mała",
       "artists": [
-        "Booguta"
+        "dobrafaza"
       ],
       "genres": [
         "rave"
@@ -1019,30 +1151,12 @@
       ]
     },
     {
-      "title": "MM: MYKONOS MUSE",
-      "date": "2026-09-26T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "SINCZ"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sincz-ian-miedzymiastowa-9345",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "PARANØIA SHOWCASE 26.09.2026 | POZNAŃ",
       "date": "2026-09-26T23:00:00+02:00",
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "ALEXSARNA"
+        "ags"
       ],
       "genres": [
         "bounce",
@@ -1056,12 +1170,30 @@
       ]
     },
     {
+      "title": "MM: MYKONOS MUSE",
+      "date": "2026-09-26T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "IAN"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/sincz-ian-miedzymiastowa-9345",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Existence & We Love Trance present, Victims Of Trance",
       "date": "2026-09-27T00:00:00+02:00",
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Tass"
+        "Aquatic Simon"
       ],
       "genres": [
         "trance"
@@ -1089,6 +1221,7 @@
       "url": "https://goingapp.pl/wydarzenie/nachtmahr/wroclaw-pazdziernik-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
       ]
     },
@@ -1122,10 +1255,11 @@
       "genres": [
         "electronic"
       ],
-      "price_min": 120.0,
+      "price_min": 42.0,
       "url": "https://goingapp.pl/wydarzenie/forced-to-mode-3/warszawa-pazdziernik-2026",
       "source": "going",
       "sources": [
+        "biletomat",
         "going"
       ]
     },
@@ -1148,19 +1282,19 @@
       ]
     },
     {
-      "title": "ART GROOVE",
-      "date": "2026-10-02T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
+      "title": "Black Coffee",
+      "date": "2026-10-02T21:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Hala Olivia",
       "artists": [],
       "genres": [
         "electronic"
       ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
-      "source": "stage24",
+      "price_min": 359.0,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/black-coffee",
+      "source": "ebilet",
       "sources": [
-        "stage24"
+        "ebilet"
       ]
     },
     {
@@ -1176,6 +1310,22 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-katowice-8661",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ART GROOVE",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1220,6 +1370,22 @@
       ]
     },
     {
+      "title": "ARK: Tiga",
+      "date": "2026-10-02T23:30:00+02:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 106.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/tiga",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Raveowisko - Pierwszy rodzinny RAVE w Polsce- WROCŁAW",
       "date": "2026-10-03T15:00:00+02:00",
       "city": "Wrocław",
@@ -1253,6 +1419,22 @@
       ]
     },
     {
+      "title": "ELECTRIC ATMOSPHERE - 03.10.2026 / Szczecin / Kosmos",
+      "date": "2026-10-03T19:00:00+02:00",
+      "city": "Szczecin",
+      "venue": "Kosmos",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 84.0,
+      "url": "https://biletomat.pl/wydarzenia/electric-atmosphere-03102026--szczecin--kosmos-32812?eventId=350896",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "NACHTMAHR | Warszawa",
       "date": "2026-10-03T20:00:00+02:00",
       "city": "Warszawa",
@@ -1272,12 +1454,48 @@
       ]
     },
     {
+      "title": "Joost Klein: World Tour",
+      "date": "2026-10-03T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Hala COS Torwar",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 170.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/joost-klein",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
+      "title": "GUY J | after TAURON NOWA MUZYKA KATOWICE x CHROMATIC AROUND | HIPNOZA",
+      "date": "2026-10-03T21:00:00+02:00",
+      "city": "Katowice",
+      "venue": "Jazz Club Hipnoza",
+      "artists": [],
+      "genres": [
+        "trance",
+        "techno",
+        "house",
+        "electronic"
+      ],
+      "price_min": 62.0,
+      "url": "https://biletomat.pl/wydarzenia/guy-j-after-tauron-nowa-muzyka-katowice-x-chromatic-around-hipnoza-33385?eventId=354256",
+      "source": "biletomat",
+      "sources": [
+        "biletomat",
+        "ebilet"
+      ]
+    },
+    {
       "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
       "date": "2026-10-03T22:00:00+02:00",
       "city": "Warszawa",
       "venue": "Progresja",
       "artists": [
-        "VIEZE ASBAK"
+        "xcessive"
       ],
       "genres": [
         "techno"
@@ -1287,6 +1505,22 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "THE M | X-Demon Poznań",
+      "date": "2026-10-03T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "X-Demon Poznań",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 54.0,
+      "url": "https://biletomat.pl/wydarzenia/the-m-x-demon-poznan-33238?eventId=353463",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -1344,6 +1578,38 @@
       ]
     },
     {
+      "title": "Pablopavo i Ludziki | Poznań",
+      "date": "2026-10-04T19:00:00+02:00",
+      "city": "Poznań",
+      "venue": "2Progi",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 106.0,
+      "url": "https://biletomat.pl/wydarzenia/pablopavo-i-ludziki-poznan-24878?eventId=338337",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Schiller",
+      "date": "2026-10-04T20:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Centrum Koncertowe A2",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 139.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/schiller",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "We Draw A | READY FOR THE PEOPLE tour | Protokultura | Wrocław",
       "date": "2026-10-09T19:00:00+02:00",
       "city": "Wrocław",
@@ -1376,6 +1642,7 @@
       "url": "https://goingapp.pl/wydarzenie/dub-pistols-warszawa-2/warszawa-pazdziernik-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
       ]
     },
@@ -1385,7 +1652,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "DUSS",
+        "GLOWAL",
         "Lane 8"
       ],
       "genres": [
@@ -1396,8 +1663,43 @@
       "url": "https://goingapp.pl/wydarzenie/ark-lane8-warszawa/warszawa-pazdziernik-2026-2",
       "source": "going",
       "sources": [
+        "ebilet",
         "going",
         "stage24"
+      ]
+    },
+    {
+      "title": "Parra for Cuva",
+      "date": "2026-10-09T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "NIEBO",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 135.45,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/parra-for-cuva",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
+      "title": "Better Stay Late",
+      "date": "2026-10-09T20:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Pawilon 3A MTP",
+      "artists": [],
+      "genres": [
+        "trance",
+        "techno",
+        "house"
+      ],
+      "price_min": 229.0,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/better-stay-late",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
       ]
     },
     {
@@ -1417,6 +1719,22 @@
       ]
     },
     {
+      "title": "C-BooL | X-Demon Poznań",
+      "date": "2026-10-09T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "X-Demon Poznań",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 32.0,
+      "url": "https://biletomat.pl/wydarzenia/c-bool-x-demon-poznan-33430?eventId=354586",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "TRIBUTE TO CRYSTAL CASTLES - Warszawa",
       "date": "2026-10-09T23:00:00+02:00",
       "city": "Warszawa",
@@ -1432,6 +1750,23 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "Tama: CHRIS AVANTGARDE",
+      "date": "2026-10-09T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [],
+      "genres": [
+        "trance",
+        "techno"
+      ],
+      "price_min": 70.0,
+      "url": "https://biletomat.pl/wydarzenia/tama-chris-avantgarde-33122?eventId=352655",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -1471,6 +1806,38 @@
       ]
     },
     {
+      "title": "RESISTANCE POLAND 2026",
+      "date": "2026-10-10T19:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "ERGO ARENA Sopot/Gdańsk",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 319.0,
+      "url": "https://biletomat.pl/wydarzenia/resistance-poland-2026-31605?eventId=344290",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Resistance Poland 2026",
+      "date": "2026-10-10T19:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "ERGO ARENA",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 319.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/resistance",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Euforia Dźwięku",
       "date": "2026-10-10T20:00:00+02:00",
       "city": "Trójmiasto",
@@ -1503,13 +1870,32 @@
         "Basshunter"
       ],
       "genres": [
-        "electronic"
+        "electronic",
+        "techno"
       ],
       "price_min": 109.0,
       "url": "https://goingapp.pl/wydarzenie/basshunter-2/przytkowice-pazdziernik-2026",
       "source": "going",
       "sources": [
+        "biletomat",
+        "ebilet",
         "going"
+      ]
+    },
+    {
+      "title": "EPICKA MUZYKA Z GIER I FILMÓW by Dreamlive Concerts | Katowice",
+      "date": "2026-10-10T20:00:00+02:00",
+      "city": "Katowice",
+      "venue": "Scena Gliwicka 120",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 77.0,
+      "url": "https://biletomat.pl/wydarzenia/epicka-muzyka-z-gier-i-filmow-by-dreamlive-concerts-katowice-30219?eventId=354828",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -1566,6 +1952,38 @@
       ]
     },
     {
+      "title": "SLOW- CHRIS LUNO / KARI / SINCZ",
+      "date": "2026-10-10T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "SLOW",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 60.0,
+      "url": "https://biletomat.pl/wydarzenia/slow-chris-luno--kari--sincz-33433?eventId=354607",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Schiller: Club Concert VOYAGE",
+      "date": "2026-10-11T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [],
+      "genres": [
+        "trance"
+      ],
+      "price_min": 138.0,
+      "url": "https://biletomat.pl/wydarzenia/schiller-club-concert-voyage-32501?eventId=349258",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "Momoko Gill",
       "date": "2026-10-11T20:30:00+02:00",
       "city": "Warszawa",
@@ -1584,6 +2002,38 @@
       ]
     },
     {
+      "title": "panicbaby",
+      "date": "2026-10-12T20:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Klub Zaścianek",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 103.95,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/panicbaby",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
+      "title": "Synthony No.2",
+      "date": "2026-10-14T20:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Tauron Arena Kraków",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": 165.0,
+      "url": "https://biletomat.pl/wydarzenia/synthony-no2-26344?eventId=342047",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "James Holden & Wacław Zimpel",
       "date": "2026-10-14T20:30:00+02:00",
       "city": "Warszawa",
@@ -1599,6 +2049,7 @@
       "url": "https://goingapp.pl/wydarzenie/james-holden-waclaw-zimpel/warszawa-pazdziernik-2026",
       "source": "going",
       "sources": [
+        "biletomat",
         "going"
       ]
     },
@@ -1616,6 +2067,54 @@
       "source": "going",
       "sources": [
         "going"
+      ]
+    },
+    {
+      "title": "Synthony No.2",
+      "date": "2026-10-15T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "COS Torwar",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": 155.0,
+      "url": "https://biletomat.pl/wydarzenia/synthony-no2-26344?eventId=342049",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Pablopavo i Ludziki | Świeradów-Zdrój",
+      "date": "2026-10-16T20:00:00+02:00",
+      "city": "Świeradów-Zdrój",
+      "venue": "Scena Bohema",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 107.0,
+      "url": "https://biletomat.pl/wydarzenia/pablopavo-i-ludziki-swieradow-zdroj-24878?eventId=343619",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Röyksopp (DJ SET)",
+      "date": "2026-10-16T21:30:00+02:00",
+      "city": "Poznań",
+      "venue": "Klub Muzyczny B17",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 180.0,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/royksopp",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
       ]
     },
     {
@@ -1652,13 +2151,66 @@
         "HI-LO"
       ],
       "genres": [
-        "techno"
+        "techno",
+        "electronic"
       ],
       "price_min": 149.0,
       "url": "https://goingapp.pl/wydarzenie/ark-hi-lo-warszawa/warszawa-pazdziernik-2026",
       "source": "going",
       "sources": [
+        "biletomat",
+        "ebilet",
         "going"
+      ]
+    },
+    {
+      "title": "Tama: PEGASSI",
+      "date": "2026-10-16T23:30:00+02:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [],
+      "genres": [
+        "trance",
+        "techno",
+        "house"
+      ],
+      "price_min": 119.0,
+      "url": "https://biletomat.pl/wydarzenia/tama-pegassi-32459?eventId=348880",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Pablopavo i Ludziki | OPOLE",
+      "date": "2026-10-17T20:00:00+02:00",
+      "city": "Opole",
+      "venue": "Wyjście Awaryjne",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 96.0,
+      "url": "https://biletomat.pl/wydarzenia/pablopavo-i-ludziki-opole-24878?eventId=342262",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Drum&Bass Łódź 2026",
+      "date": "2026-10-17T22:00:00+02:00",
+      "city": "Łódź",
+      "venue": "Łódź",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 117.0,
+      "url": "https://biletomat.pl/wydarzenia/drumbass-lodz-2026-32457?eventId=348870",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -1667,7 +2219,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "KLIARSKA"
+        "BEAUZ"
       ],
       "genres": [
         "techno"
@@ -1720,6 +2272,39 @@
       "source": "going",
       "sources": [
         "going"
+      ]
+    },
+    {
+      "title": "OGUZ w Gdańsku 17.10.2026 I Techno Balkon I NOWA DATA",
+      "date": "2026-10-17T23:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Techno Balkon",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 98.0,
+      "url": "https://biletomat.pl/wydarzenia/oguz-w-gdansku-17102026-i-techno-balkon-i-nowa-data-30095?eventId=335441",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Tama: SUB ZERO PROJECT",
+      "date": "2026-10-17T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [],
+      "genres": [
+        "hardstyle",
+        "psytrance"
+      ],
+      "price_min": 99.0,
+      "url": "https://biletomat.pl/wydarzenia/tama-sub-zero-project-32458?eventId=348879",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -1779,6 +2364,39 @@
       ]
     },
     {
+      "title": "P23: A.M.C & PHANTOM | KATOWICE",
+      "date": "2026-10-23T22:00:00+02:00",
+      "city": "Katowice",
+      "venue": "P23",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 105.0,
+      "url": "https://biletomat.pl/wydarzenia/p23-amc--phantom-katowice-32675?eventId=350477",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Tama: WORAKLS",
+      "date": "2026-10-23T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": 59.0,
+      "url": "https://biletomat.pl/wydarzenia/tama-worakls-33018?eventId=352210",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "Soundedit '26 - Marc Almond, The Wolfgang Press, Wolfgang Flur",
       "date": "2026-10-24T18:00:00+02:00",
       "city": "Łódź",
@@ -1821,6 +2439,22 @@
       ]
     },
     {
+      "title": "Digitalism",
+      "date": "2026-10-24T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "NIEBO",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 127.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/digitalism",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "COSMIC GATE",
       "date": "2026-10-24T21:00:00+02:00",
       "city": "Przytkowice",
@@ -1829,13 +2463,32 @@
         "Cosmic Gate"
       ],
       "genres": [
-        "trance"
+        "trance",
+        "electronic"
       ],
       "price_min": 65.0,
       "url": "https://goingapp.pl/wydarzenie/cosmic-gate-2/przytkowice-pazdziernik-2026",
       "source": "going",
       "sources": [
+        "biletomat",
+        "ebilet",
         "going"
+      ]
+    },
+    {
+      "title": "Maddix",
+      "date": "2026-10-24T21:30:00+02:00",
+      "city": "Katowice",
+      "venue": "Energy 2000 Katowice",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 159.0,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/maddix",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
       ]
     },
     {
@@ -1858,22 +2511,35 @@
       ]
     },
     {
-      "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
-      "date": "2026-10-24T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "AfterDark",
-      "artists": [
-        "doomer saddancing"
-      ],
+      "title": "A.M.C & PHANTOM | GDAŃSK",
+      "date": "2026-10-24T22:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Drizzly Grizzly",
+      "artists": [],
       "genres": [
-        "electro",
-        "rave"
+        "drum-and-bass"
       ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
-      "source": "stage24",
+      "price_min": 105.0,
+      "url": "https://biletomat.pl/wydarzenia/amc--phantom-gdansk-32674?eventId=350476",
+      "source": "biletomat",
       "sources": [
-        "stage24"
+        "biletomat"
+      ]
+    },
+    {
+      "title": "HÖR ON TOUR I GDAŃSK",
+      "date": "2026-10-24T22:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Crackhouse",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 64.0,
+      "url": "https://biletomat.pl/wydarzenia/hor-on-tour-i-gdansk-27104?eventId=353876",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -1908,6 +2574,25 @@
       ]
     },
     {
+      "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "AfterDark",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "electro",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "PSY-CLAN: Juno Reactor",
       "date": "2026-10-24T23:00:00+02:00",
       "city": "Poznań",
@@ -1925,6 +2610,55 @@
       "source": "going",
       "sources": [
         "going"
+      ]
+    },
+    {
+      "title": "LET’S GROOVE: ANJA SCHNEIDER / JOANA / TBA",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "SLOW",
+      "artists": [],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": 64.0,
+      "url": "https://biletomat.pl/wydarzenia/lets-groove-anja-schneider--joana--tba-33434?eventId=354608",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Pablopavo i Ludziki |Kicia Kocia",
+      "date": "2026-10-27T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klubokawiarnia Kicia Kocia",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 117.0,
+      "url": "https://biletomat.pl/wydarzenia/pablopavo-i-ludziki-kicia-kocia-24878?eventId=354631",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Pablopavo i Ludziki | VooDoo Club",
+      "date": "2026-10-28T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "VooDoo Club",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 106.0,
+      "url": "https://biletomat.pl/wydarzenia/pablopavo-i-ludziki-voodoo-club-24878?eventId=354832",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -1982,12 +2716,28 @@
       ]
     },
     {
+      "title": "Obsession: ONLYNUMBERS | STAN CHRIST | WRK",
+      "date": "2026-10-30T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 84.0,
+      "url": "https://biletomat.pl/wydarzenia/obsession-onlynumbers-stan-christ-wrk-33459?eventId=354866",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
       "date": "2026-10-30T23:00:00+01:00",
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "CTRL."
+        "Infected Mushroom"
       ],
       "genres": [
         "psytrance",
@@ -2019,6 +2769,22 @@
       ]
     },
     {
+      "title": "Pablopavo i Ludziki | Klub Hydrozagadka",
+      "date": "2026-10-31T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Hydrozagadka",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 117.0,
+      "url": "https://biletomat.pl/wydarzenia/pablopavo-i-ludziki-klub-hydrozagadka-24878?eventId=354833",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "We Draw A | READY FOR THE PEOPLE tour | Piąty Dom | Katowice",
       "date": "2026-10-31T20:30:00+01:00",
       "city": "Katowice",
@@ -2042,7 +2808,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "VVYDRA"
+        "Dyyune"
       ],
       "genres": [
         "house"
@@ -2070,6 +2836,8 @@
       "url": "https://goingapp.pl/wydarzenie/the-m-2/przytkowice-pazdziernik-2026",
       "source": "going",
       "sources": [
+        "biletomat",
+        "ebilet",
         "going"
       ]
     },
@@ -2108,12 +2876,28 @@
       ]
     },
     {
+      "title": "Sleaford Mods „The Demise Of Planet X”",
+      "date": "2026-11-01T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Stodoła",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 209.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/sleaford-mods",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Strefa Zamknięta",
       "date": "2026-11-06T22:00:00+01:00",
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Insan3"
+        "MILA"
       ],
       "genres": [
         "electronic"
@@ -2126,12 +2910,29 @@
       ]
     },
     {
+      "title": "THE M 07.11 - ENERGY 2000 KATOWICE [18+]",
+      "date": "2026-11-07T21:30:00+01:00",
+      "city": "Katowice",
+      "venue": "ENERGY2000 - KATOWICE",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 59.0,
+      "url": "https://biletomat.pl/wydarzenia/the-m-0711-energy-2000-katowice-18-26833?eventId=353172",
+      "source": "biletomat",
+      "sources": [
+        "biletomat",
+        "ebilet"
+      ]
+    },
+    {
       "title": "LIQUID SYMPHONY: London Elektricity / Makoto / Nu:Tone | Wrocław",
       "date": "2026-11-07T22:00:00+01:00",
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "Nu:Tone"
+        "Makoto"
       ],
       "genres": [
         "drum-and-bass"
@@ -2177,12 +2978,62 @@
       ]
     },
     {
+      "title": "MAYDAY Poland „ICONIC” 2026",
+      "date": "2026-11-10T17:00:00+01:00",
+      "city": "Katowice",
+      "venue": "Hala widowiskowo-sportowa Spodek",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": 359.0,
+      "url": "https://biletomat.pl/wydarzenia/mayday-poland-iconic-2026-29850?eventId=338918",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "VENJENT",
+      "date": "2026-11-10T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Stodoła",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 159.0,
+      "url": "https://biletomat.pl/wydarzenia/venjent-32245?eventId=347580",
+      "source": "biletomat",
+      "sources": [
+        "biletomat",
+        "ebilet"
+      ]
+    },
+    {
+      "title": "KUKO I Techno Balkon 101126",
+      "date": "2026-11-10T23:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "Techno Balkon",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 102.0,
+      "url": "https://biletomat.pl/wydarzenia/kuko-i-techno-balkon-101126-31614?eventId=344327",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "AcidSitter + Sexy Cutts",
       "date": "2026-11-12T19:30:00+01:00",
       "city": "Warszawa",
       "venue": "CHMURY",
       "artists": [
-        "AcidSitter"
+        "sexy cutts"
       ],
       "genres": [
         "acid"
@@ -2235,6 +3086,22 @@
       ]
     },
     {
+      "title": "Reinier Zonneveld + T78 + Noemi Black + Duss + LIVVY",
+      "date": "2026-11-14T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 158.0,
+      "url": "https://biletomat.pl/wydarzenia/reinier-zonneveld--t78--noemi-black--duss--livvy-33245?eventId=353498",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Kraków",
       "date": "2026-11-14T22:00:00+01:00",
       "city": "Kraków",
@@ -2255,6 +3122,22 @@
       ]
     },
     {
+      "title": "Carpenter Brut, Health + VOWWS",
+      "date": "2026-11-16T19:00:00+01:00",
+      "city": "Kraków",
+      "venue": "Klub Studio",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 202.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/carpenter-brut",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Spike Fuck (AU)",
       "date": "2026-11-17T20:00:00+01:00",
       "city": "Kraków",
@@ -2270,6 +3153,56 @@
       "source": "going",
       "sources": [
         "going"
+      ]
+    },
+    {
+      "title": "DORIAN CONCEPT | Warszawa",
+      "date": "2026-11-18T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Hydrozagadka",
+      "artists": [
+        "Dorian Concept"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 89.0,
+      "url": "https://goingapp.pl/wydarzenie/dorian-concept-warszawa/warszawa-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "Modestep Live",
+      "date": "2026-11-19T20:00:00+01:00",
+      "city": "Kraków",
+      "venue": "Klub Zaścianek",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 127.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/modestep",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
+      "title": "Sw@da x Niczos",
+      "date": "2026-11-19T20:00:00+01:00",
+      "city": "Białystok",
+      "venue": "Zmiana Klimatu",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 106.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/swada-niczos",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
       ]
     },
     {
@@ -2341,6 +3274,7 @@
       "url": "https://goingapp.pl/wydarzenie/dj-sash-21-11-ecuador/przytkowice-listopad-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
       ]
     },
@@ -2383,6 +3317,22 @@
       ]
     },
     {
+      "title": "The Dumplings",
+      "date": "2026-11-26T20:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 158.0,
+      "url": "https://biletomat.pl/wydarzenia/the-dumplings-32589?eventId=349953",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "ARK: JANUS RASMUSSEN | Warszawa",
       "date": "2026-11-27T19:00:00+01:00",
       "city": "Warszawa",
@@ -2392,12 +3342,14 @@
       ],
       "genres": [
         "house",
-        "techno"
+        "techno",
+        "electronic"
       ],
       "price_min": 119.0,
       "url": "https://goingapp.pl/wydarzenie/ark-janus-rasmussen-warszawa/warszawa-listopad-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
       ]
     },
@@ -2410,13 +3362,31 @@
         "Goodboys"
       ],
       "genres": [
-        "house"
+        "house",
+        "electronic"
       ],
       "price_min": 99.0,
       "url": "https://goingapp.pl/wydarzenie/ark-goodboys-live-warszawa/warszawa-listopad-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
+      ]
+    },
+    {
+      "title": "SYDNEY VALETTE • 27.11 • Warszawa, Chmury",
+      "date": "2026-11-27T19:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Chmury",
+      "artists": [],
+      "genres": [
+        "industrial"
+      ],
+      "price_min": 79.0,
+      "url": "https://biletomat.pl/wydarzenia/sydney-valette--2711--warszawa-chmury-30580?eventId=338344",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -2495,7 +3465,7 @@
       "city": "Poznań",
       "venue": "Dragon Social Club",
       "artists": [
-        "The Surfin' Souls"
+        "AcidSitter"
       ],
       "genres": [
         "acid"
@@ -2554,6 +3524,70 @@
       ]
     },
     {
+      "title": "Cosmic Gate",
+      "date": "2026-12-04T21:00:00+01:00",
+      "city": "Łódź",
+      "venue": "TUWIMA 3",
+      "artists": [],
+      "genres": [
+        "trance"
+      ],
+      "price_min": 129.0,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/cosmic-gate-koncert",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
+      "title": "Wonter przedstawia...",
+      "date": "2026-12-05T21:00:00+01:00",
+      "city": "Łódź",
+      "venue": "LARUM",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 65.0,
+      "url": "https://biletomat.pl/wydarzenia/wonter-przedstawia-30548?eventId=338175",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "THE M - The M Tour 2026",
+      "date": "2026-12-05T22:00:00+01:00",
+      "city": "Opole",
+      "venue": "Mango Music Club",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 63.0,
+      "url": "https://biletomat.pl/wydarzenia/the-m-the-m-tour-2026-33345?eventId=353994",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Drum&Bass Warszawa 2026",
+      "date": "2026-12-05T22:30:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub OCZKI",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 95.0,
+      "url": "https://biletomat.pl/wydarzenia/drumbass-warszawa-2026-32499?eventId=349251",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "JAZZ PO POLSKU: Meeting by Chance",
       "date": "2026-12-06T20:30:00+01:00",
       "city": "Warszawa",
@@ -2580,13 +3614,32 @@
         "Myd"
       ],
       "genres": [
-        "house"
+        "house",
+        "electronic"
       ],
       "price_min": 79.0,
       "url": "https://goingapp.pl/wydarzenie/ark-myd-warszawa/warszawa-grudzien-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
+      ]
+    },
+    {
+      "title": "Safri Duo",
+      "date": "2026-12-18T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [],
+      "genres": [
+        "trance",
+        "electro"
+      ],
+      "price_min": 149.0,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/safri-duo",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
       ]
     },
     {
@@ -2595,7 +3648,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "Regain"
+        "Nightcraft"
       ],
       "genres": [
         "hardstyle",
@@ -2642,6 +3695,22 @@
       ]
     },
     {
+      "title": "FESTIVALAND 2026",
+      "date": "2026-12-31T18:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "EXPO XXI",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 239.0,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/festivaland-by-the-m",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Tranceformations 2027 - 10 edycja",
       "date": "2027-01-30T18:00:00+01:00",
       "city": "Wrocław",
@@ -2654,7 +3723,25 @@
       "url": "https://goingapp.pl/wydarzenie/tranceformations-2027-10-edycja/wroclaw-styczen-2027",
       "source": "going",
       "sources": [
+        "biletomat",
+        "ebilet",
         "going"
+      ]
+    },
+    {
+      "title": "Don't Let Daddy Know Poland 2027",
+      "date": "2027-02-13T19:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "ERGO ARENA",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/dont-let-daddy-know-poland",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
       ]
     },
     {
@@ -2675,6 +3762,22 @@
       ]
     },
     {
+      "title": "farmar “The Debut Tour\"",
+      "date": "2027-03-25T20:00:00+01:00",
+      "city": "Kraków",
+      "venue": "Klub Gwarek",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 64.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/farmar",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "farmar // w_sercu, Poznań",
       "date": "2027-03-26T19:30:00+01:00",
       "city": "Poznań",
@@ -2690,6 +3793,103 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "ELECTRO SYMPHONY: ORCHESTRA DANCE PARTY",
+      "date": "2027-04-09T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "COS Torwar",
+      "artists": [],
+      "genres": [
+        "electro",
+        "rave"
+      ],
+      "price_min": 161.0,
+      "url": "https://biletomat.pl/wydarzenia/electro-symphony-orchestra-dance-party-33236?eventId=353461",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Morcheeba",
+      "date": "2027-04-13T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 200.0,
+      "url": "https://biletomat.pl/wydarzenia/morcheeba-26027?eventId=349493",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Tangerine Dream „Level Tour 2027”",
+      "date": "2027-05-13T20:00:00+02:00",
+      "city": "Kraków",
+      "venue": "ICE Kraków Congress Centre",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 202.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/tangerine-dream",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
+      "title": "Tangerine Dream",
+      "date": "2027-05-14T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 243.0,
+      "url": "https://biletomat.pl/wydarzenia/tangerine-dream-32804?eventId=350830",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Deep Eye Festival",
+      "date": "2027-06-18T19:00:00+02:00",
+      "city": "Mrągowo",
+      "venue": "Góra 4 Wiatrów",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 127.0,
+      "url": "https://biletomat.pl/wydarzenia/deep-eye-festival-33374?eventId=354190",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "Olsztyn Green Festival 2027",
+      "date": "2027-08-13T15:00:00+02:00",
+      "city": "Olsztyn",
+      "venue": "CRS Ukiel",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 211.5,
+      "url": "https://biletomat.pl/wydarzenia/olsztyn-green-festival-2027-17876?eventId=353834",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     }
   ]

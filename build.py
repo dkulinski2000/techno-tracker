@@ -33,12 +33,13 @@ from normalise import (
     in_scope,
     is_poland,
     safe_url,
+    squash,
     tidy_genres,
     to_warsaw_iso,
 )
-from scrapers import exist, going, stage24
+from scrapers import biletomat, ebilet, exist, going, stage24
 
-SOURCES = [stage24, going, exist]
+SOURCES = [stage24, going, exist, biletomat, ebilet]
 
 OUT_PATH = Path(__file__).parent / "docs" / "events.json"
 CURATED_PATH = Path(__file__).parent / "curated.json"
@@ -149,7 +150,7 @@ def normalise(rec: dict, curated: dict | None = None) -> dict | None:
 
 
 def dedup_key(rec: dict) -> tuple[str, str]:
-    anchor = fold(rec["venue"]) if rec.get("venue") else fold(rec["title"])
+    anchor = squash(rec["venue"]) if rec.get("venue") else squash(rec["title"])
     return anchor, rec["date"][:10]
 
 

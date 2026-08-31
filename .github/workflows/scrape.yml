@@ -29,14 +29,18 @@ jobs:
       - run: pip install -r requirements.txt
 
       # Reuse the event-detail cache between runs so we don't re-fetch ~100
-      # unchanged stage24 pages every time. The key is unique per run so each
-      # run saves a fresh entry; restore-keys then matches the newest previous
-      # one by prefix. That is the standard rolling-cache pattern.
+      # unchanged stage24 and ebilet pages every time. The key is unique per
+      # run so each run saves a fresh entry; restore-keys then matches the
+      # newest previous one by prefix. That is the standard rolling-cache
+      # pattern. The old stage24-only prefix is kept as a fallback so the
+      # rename does not discard the existing cache.
       - uses: actions/cache@v4
         with:
           path: raw/cache
-          key: stage24-detail-${{ github.run_id }}
-          restore-keys: stage24-detail-
+          key: scraper-detail-${{ github.run_id }}
+          restore-keys: |
+            scraper-detail-
+            stage24-detail-
 
       - name: Build events.json
         run: python build.py

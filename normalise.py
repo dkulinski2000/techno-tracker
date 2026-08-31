@@ -38,6 +38,21 @@ def fold(text: str) -> str:
     return strip_diacritics(text or "").lower().strip()
 
 
+def squash(text: str) -> str:
+    """`fold` with every non-alphanumeric character removed. Matching only.
+
+    For the dedup key. `fold` keeps spaces and punctuation, so the same venue
+    spelled differently by two sellers looked like two venues:
+
+        "Energy 2000 Przytkowice" (going)  vs  "ENERGY2000 - PRZYTKOWICE"
+        "BARdzo bardzo"           (going)  vs  "BARdzo, bardzo"
+
+    Measured on the live dataset before adopting: merges 6 real duplicate
+    pairs and zero unrelated ones.
+    """
+    return re.sub(r"[^a-z0-9]+", "", fold(text))
+
+
 def clean_ws(text: str | None) -> str | None:
     if not text:
         return None
