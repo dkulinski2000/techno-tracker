@@ -101,6 +101,50 @@
   .empty{color:var(--muted);text-align:center;padding:40px 0}
 
   footer{color:var(--muted);font-size:.78rem;text-align:center;margin:24px 0 8px}
+  /* --- map ---------------------------------------------------------------
+     One column on a phone, with the map ABOVE the list (it is a filter, not
+     decoration), collapsible so 11 cards are not pushed off screen. Two
+     columns with a sticky map once there is room for one. */
+  .layout{display:grid;gap:14px}
+  .mapwrap{order:-1;min-width:0}
+  .mapbox{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+  .mapbox > summary{
+    cursor:pointer;list-style:none;padding:10px 12px;font-size:.82rem;color:var(--accent);
+    display:flex;align-items:center;gap:6px;user-select:none;
+  }
+  .mapbox > summary::-webkit-details-marker{display:none}
+  .mapbox > summary::before{
+    content:"";border:solid var(--accent);border-width:0 1.6px 1.6px 0;
+    padding:2.5px;transform:rotate(-45deg);transition:transform .15s;flex:none;margin-top:-2px;
+  }
+  .mapbox[open] > summary::before{transform:rotate(45deg);margin-top:2px}
+  .mapbox > summary:hover{background:rgba(74,222,128,.07)}
+  .mapbox .inner{padding:0 12px 12px}
+  #map{width:100%;height:auto;display:block}
+  #map .land{fill:#22222b;stroke:#343440;stroke-width:1;vector-effect:non-scaling-stroke}
+  #map .dot{
+    fill:var(--accent);fill-opacity:.7;stroke:var(--bg);stroke-width:1.5;
+    vector-effect:non-scaling-stroke;cursor:pointer;transition:fill-opacity .12s;
+  }
+  #map .dot:hover{fill-opacity:1}
+  #map .dot:focus-visible{fill-opacity:1;outline:none;stroke:var(--text);stroke-width:2.5}
+  #map .dot.on{fill-opacity:1;stroke:var(--text);stroke-width:2}
+  #map .dot.zero{fill:var(--muted);fill-opacity:.16;cursor:default}
+  #map .lbl{
+    fill:var(--muted);font-size:32px;font-weight:600;text-anchor:middle;pointer-events:none;
+    paint-order:stroke;stroke:var(--surface-2);stroke-width:6px;stroke-linejoin:round;
+  }
+  .map-cap{color:var(--muted);font-size:.78rem;line-height:1.35;margin-top:9px;min-height:2.7em}
+  .map-cap b{color:var(--text);font-weight:600}
+  .map-cap .off{display:block;color:var(--muted);opacity:.75}
+  @media(min-width:1000px){
+    body{max-width:1220px}
+    .layout{grid-template-columns:minmax(0,1fr) 360px;align-items:start}
+    .mapwrap{order:0;position:sticky;top:24px}
+    .mapbox > summary{display:none}
+    .mapbox .inner{padding:12px}
+  }
+
   @media(min-width:620px){ body{padding:24px} }
   /* Three fields across needs ~406px; a 360px phone has ~304px inside the
      card. Give Miasto its own line so Od/Do share the next one evenly,
@@ -157,7 +201,18 @@
   </div>
 </section>
 
-<div class="list" id="list"></div>
+<div class="layout">
+  <div class="list" id="list"></div>
+  <aside class="mapwrap">
+    <details class="mapbox" id="mapbox">
+      <summary>Mapa</summary>
+      <div class="inner">
+        <svg id="map" viewBox="0 0 1000 944" role="img" aria-label="Mapa imprez w Polsce"></svg>
+        <div class="map-cap" id="mapCap"></div>
+      </div>
+    </details>
+  </aside>
+</div>
 
 <!-- GoatCounter: cookieless, no personal data, so no consent banner needed.
      Their docs give src as "//gc.zgo.at/count.js"; explicit https:// only
@@ -173,6 +228,92 @@
   const $ = s => document.querySelector(s);
   const listEl = $('#list'), countEl = $('#count');
   let events = [], fuse = null;
+
+  // --- map data ----------------------------------------------------------
+  // Voivodeship outlines from ppatrzyk/polska-geojson, Douglas-Peucker
+  // simplified to ~1 display px of error and rounded to integers in a
+  // 1000-unit viewBox. Internal borders are kept: they cost little and give
+  // the dots something to sit against, which a bare country blob does not.
+  const POLAND = [
+    "M533 634L535 640L543 636L553 645L561 642L568 647L566 656L557 659L558 664L574 670L570 677L579 679L565 693L577 695L582 705L572 712L557 710L550 716L538 715L536 723L533 722L535 730L528 729L525 738L519 741L531 746L520 752L522 758L511 761L496 790L505 791L504 806L514 805L518 818L529 819L531 825L524 832L532 835L535 843L523 858L510 862L505 878L485 880L484 863L470 860L467 834L449 827L444 796L437 798L422 791L419 796L407 783L398 783L390 772L392 756L412 751L412 746L423 741L429 742L422 725L425 705L435 708L430 694L443 695L448 690L445 683L438 681L435 668L445 661L439 654L452 634L448 628L456 618L454 611L475 611L478 605L507 623L512 620L511 615L519 613L533 634Z",
+    "M368 599L381 603L403 593L437 605L442 598L444 607L454 611L456 618L448 628L452 634L448 644L439 653L445 661L435 668L438 681L445 683L448 690L443 695L430 694L435 708L425 705L422 725L429 742L423 741L412 746L412 751L395 754L394 765L387 774L391 780L374 787L365 779L360 767L346 757L363 749L358 730L349 739L322 740L321 730L312 729L307 720L278 710L283 704L292 707L299 684L311 682L313 671L309 667L317 661L314 655L322 654L320 645L326 641L322 637L330 634L330 626L341 622L340 610L345 607L341 596L348 590L354 595L370 589L368 599Z",
+    "M272 195L276 191L282 208L287 208L288 213L314 210L326 218L312 236L331 254L329 260L320 262L321 272L326 274L317 298L339 309L338 330L328 334L336 341L334 349L350 344L354 361L365 353L386 366L386 371L396 369L396 375L409 381L422 371L425 382L436 377L452 386L462 405L481 396L491 405L490 415L497 416L494 427L489 424L478 429L479 446L459 448L458 464L463 471L456 488L437 482L431 487L428 507L422 514L425 543L419 553L406 549L406 558L394 564L398 579L404 577L403 593L381 603L369 602L371 590L362 586L363 569L357 561L362 554L341 553L338 540L344 532L339 523L320 516L309 519L308 528L293 531L269 527L265 517L251 513L255 506L252 500L226 493L227 485L222 478L212 475L209 480L198 476L199 460L188 462L184 456L186 448L171 441L176 434L172 416L177 397L168 387L177 387L165 356L167 344L182 341L181 329L177 327L185 320L183 291L199 295L219 291L227 271L237 271L243 260L251 262L252 252L258 249L235 234L231 223L233 218L251 219L259 212L263 196L272 195Z",
+    "M224 64L240 48L256 43L270 60L273 73L268 75L268 84L274 93L258 101L268 117L267 136L285 151L274 159L281 168L273 176L276 191L263 196L259 212L251 219L233 218L231 223L235 234L258 249L252 252L251 262L243 260L237 271L227 271L219 291L196 295L183 290L185 279L175 278L162 298L146 300L142 295L124 306L116 304L121 313L95 325L79 315L79 322L74 322L74 331L66 337L67 346L60 357L51 352L44 358L38 355L23 337L0 322L4 315L2 303L23 288L25 264L33 255L18 209L16 172L8 149L16 145L28 148L60 132L116 112L197 91L224 64Z",
+    "M561 642L571 631L574 613L590 625L592 611L585 609L589 594L586 591L610 588L612 579L623 582L623 570L630 566L637 567L641 583L647 581L656 589L656 597L658 593L667 597L668 592L674 596L678 589L686 597L692 595L693 586L698 590L695 596L702 600L701 608L722 607L732 619L739 611L754 608L761 615L766 609L773 651L764 678L758 678L746 698L731 703L730 709L714 716L704 729L701 725L692 731L665 736L654 749L643 752L624 748L626 743L616 729L620 724L608 703L580 701L577 695L565 693L579 679L570 677L574 670L567 665L558 664L557 659L561 660L569 649L561 642Z",
+    "M454 185L466 184L461 193L463 199L505 203L512 233L525 231L530 238L538 237L538 244L551 241L558 248L555 259L561 260L563 273L550 280L555 303L543 299L545 304L539 307L531 307L537 318L529 324L539 345L531 342L523 357L528 362L519 373L525 376L518 386L512 387L515 395L502 404L489 405L479 394L478 400L462 405L452 386L436 377L425 382L422 371L409 381L396 375L396 369L386 371L386 366L365 353L354 361L350 344L334 349L336 341L328 336L338 330L339 309L317 298L326 274L321 272L320 262L329 260L331 254L312 236L325 221L332 200L338 198L341 203L347 201L354 205L354 200L360 201L358 194L364 184L368 187L376 182L374 174L390 180L394 171L412 176L413 184L438 183L442 191L454 185Z",
+    "M779 284L773 288L767 279L760 279L755 275L749 254L752 255L753 247L760 247L751 241L754 238L747 220L755 217L772 223L779 214L789 217L828 187L833 189L832 185L855 174L864 149L853 131L846 127L849 118L834 103L850 89L865 87L869 70L887 73L885 77L892 80L890 84L900 84L909 93L919 95L934 111L940 173L965 253L977 272L973 284L980 304L979 344L961 359L932 370L903 413L891 413L890 406L881 399L859 399L843 394L838 375L827 360L833 354L831 331L825 330L816 338L811 325L816 323L813 316L807 316L807 321L790 321L786 302L774 296L776 290L780 291L779 284Z",
+    "M229 494L252 500L255 506L252 514L265 517L269 527L283 533L308 528L309 519L313 517L334 519L344 529L338 540L342 554L362 555L357 561L363 569L361 581L366 589L354 595L348 590L341 596L345 607L340 610L341 622L330 626L330 634L322 637L326 641L320 645L322 654L314 655L317 661L309 667L313 671L311 682L299 684L292 707L283 704L273 716L281 731L287 734L290 745L287 748L285 743L272 749L257 767L245 759L242 745L225 729L223 721L216 723L207 713L218 701L223 701L232 689L221 675L211 674L206 681L198 675L188 684L186 672L173 673L169 660L158 663L131 652L125 657L124 647L115 638L115 624L106 624L105 617L101 622L93 617L86 619L88 642L69 639L77 630L87 601L91 579L85 562L89 557L106 546L120 553L127 535L136 535L147 548L159 537L158 531L170 528L171 512L176 503L185 500L187 490L205 497L203 506L209 505L213 511L229 494Z",
+    "M840 725L855 725L847 732L857 735L887 736L904 718L911 723L921 716L929 727L926 733L936 734L940 742L914 766L850 858L855 864L860 886L857 908L861 909L857 916L861 915L860 918L875 929L872 944L862 936L854 938L846 929L829 928L823 921L808 919L809 915L791 909L782 888L770 881L764 887L749 872L727 875L728 865L719 848L721 833L710 819L721 812L710 807L715 795L704 794L701 786L705 778L701 774L702 768L706 767L701 762L700 744L704 744L701 741L708 732L707 725L730 709L731 703L746 698L758 678L764 678L772 653L781 658L791 650L802 653L806 661L801 674L808 676L811 682L838 688L837 695L843 701L837 705L844 705L839 710L830 708L826 718L840 725Z",
+    "M643 750L654 749L665 736L669 738L707 725L708 732L701 741L704 744L700 744L701 762L706 767L702 768L701 774L705 778L701 786L704 794L715 795L710 807L721 812L710 819L721 833L719 848L728 865L726 874L714 870L705 879L699 874L692 876L696 885L680 896L672 888L669 890L658 876L647 877L644 883L633 877L619 879L618 889L608 887L601 893L594 915L585 907L578 906L570 913L563 911L569 899L565 878L550 878L551 870L545 870L539 852L533 848L534 837L524 832L530 822L518 818L514 805L502 804L505 791L496 790L501 775L509 772L511 761L522 758L520 752L531 746L519 741L525 738L528 729L535 730L533 722L536 723L538 715L550 716L557 710L572 712L582 705L584 698L614 707L620 724L616 729L626 743L624 748L628 752L643 750Z",
+    "M551 62L550 72L512 90L519 101L511 108L509 124L514 133L528 135L524 146L542 144L545 147L534 170L519 165L507 194L499 202L463 199L461 193L466 184L442 191L438 183L413 184L412 176L394 171L390 180L374 174L376 182L368 187L364 184L358 194L360 201L354 200L354 205L347 201L341 203L338 198L332 200L326 218L314 210L296 209L290 214L282 208L273 176L281 168L274 159L285 151L266 132L268 117L258 101L274 93L268 75L273 73L270 60L257 43L276 40L292 27L322 14L384 1L420 0L469 34L468 39L455 23L432 9L426 15L441 41L445 64L460 70L460 75L478 79L512 78L551 62Z",
+    "M865 77L865 87L850 89L834 103L849 118L846 127L853 131L864 149L855 174L832 185L833 189L828 187L789 217L785 213L778 215L774 222L755 217L730 222L727 228L711 229L691 243L681 240L671 250L655 248L652 256L642 260L632 257L619 271L622 273L601 274L597 270L584 274L577 268L578 263L569 269L570 274L563 273L561 260L555 259L555 243L538 244L538 237L530 238L525 231L512 233L507 205L499 202L507 194L519 165L534 170L545 147L542 144L524 146L528 135L514 133L509 124L511 108L519 101L512 90L550 72L551 62L731 84L865 77Z",
+    "M586 599L585 609L592 611L590 625L574 613L570 634L555 646L545 636L534 639L519 613L511 615L512 620L507 623L478 605L475 611L453 612L444 607L442 598L435 605L403 594L404 577L397 577L394 564L406 558L406 549L419 553L425 543L422 514L428 507L431 487L437 482L456 488L463 471L458 464L459 448L479 446L480 427L496 425L497 416L490 415L491 405L507 402L514 395L519 403L532 402L551 418L556 414L571 415L575 409L591 417L595 434L613 443L606 455L616 464L611 469L622 472L630 468L636 477L643 477L648 487L642 488L644 500L652 504L652 511L639 513L633 509L625 514L633 530L631 538L638 538L640 546L631 554L628 569L623 570L624 581L612 579L610 588L589 588L586 599Z",
+    "M787 313L790 321L794 322L814 317L816 323L811 325L816 338L825 330L831 331L833 354L827 360L838 375L843 394L859 399L881 399L890 406L891 413L899 412L889 424L889 431L879 437L883 440L876 441L876 449L864 448L856 440L848 456L834 448L820 459L816 453L811 458L789 455L774 464L777 477L770 485L778 485L781 492L770 500L775 508L761 522L751 514L748 521L756 528L768 530L773 544L770 553L762 556L771 562L764 573L771 576L764 592L766 609L761 615L750 608L737 612L732 619L722 607L701 608L702 600L695 596L698 590L693 586L692 595L686 597L678 589L674 596L668 592L667 597L658 593L656 597L656 589L647 581L641 583L637 567L628 562L640 546L638 538L631 538L633 530L625 514L633 509L648 514L652 508L644 500L642 488L648 488L643 477L636 477L630 468L622 472L611 469L616 464L606 455L613 443L595 434L594 421L580 410L551 418L532 402L522 404L516 399L512 387L518 386L525 376L519 373L529 360L523 357L531 342L539 345L529 324L537 318L531 307L539 307L545 304L543 299L554 304L550 280L564 272L570 274L569 269L575 263L584 274L597 270L601 274L622 273L619 271L632 257L642 260L652 256L658 247L671 250L678 241L685 239L691 243L711 229L747 219L747 227L754 238L751 241L760 247L753 247L752 255L749 254L755 275L760 279L767 279L773 288L780 286L780 291L774 294L786 302L787 313Z",
+    "M775 470L774 464L789 455L811 458L818 453L820 459L837 448L848 456L856 440L864 448L876 449L876 441L883 440L879 437L889 431L889 424L899 412L906 414L906 422L934 430L940 439L945 440L954 460L947 472L949 494L938 503L942 534L953 543L951 549L956 554L950 573L956 575L959 586L971 595L971 605L977 609L982 629L1000 642L982 651L987 665L993 666L995 685L985 716L958 720L940 742L936 734L926 733L929 727L921 716L911 723L904 718L887 736L850 733L846 730L855 725L837 727L826 718L830 708L839 710L844 705L837 705L843 701L837 695L839 690L811 682L808 676L801 674L806 661L802 653L791 650L781 658L773 656L770 646L764 592L771 576L764 573L771 562L762 556L770 553L773 544L768 530L756 528L748 521L751 514L761 522L774 511L776 506L770 498L781 492L778 485L770 485L777 477L775 470Z",
+    "M85 562L82 544L60 535L63 514L47 488L57 475L63 448L56 440L59 421L45 412L41 395L51 380L48 374L51 367L44 358L51 352L56 356L62 354L79 315L95 325L121 313L116 304L124 306L142 295L146 300L162 298L172 278L185 279L185 320L177 327L181 329L182 341L167 344L165 356L177 387L168 387L177 397L172 416L176 434L171 441L186 448L184 456L188 462L199 460L198 476L209 480L212 475L222 478L229 494L213 511L209 505L203 506L205 497L187 490L185 500L176 503L171 512L170 528L158 531L159 537L147 548L136 535L127 535L120 553L106 546L85 562Z",
+  ];
+
+  // Equirectangular, x scaled by cos(52°) so Poland is not stretched sideways.
+  // A single country this size does not need a real projection.
+  const MAP_W = 1000, MAP_H = 944;
+  const PROJ_K = 0.616772, PROJ_X = 8.711105, PROJ_Y = -54.836400, PROJ_S = 161.783362;
+  const px = lon => (lon * PROJ_K - PROJ_X) * PROJ_S;
+  const py = lat => (-lat - PROJ_Y) * PROJ_S;
+
+  // Geocoded once via Nominatim and baked in — a static site should not be
+  // making geocoding calls at page load. Cities beyond the current dataset
+  // are included so a new one does not silently vanish from the map.
+  // Trójmiasto is Sopot, i.e. the midpoint of Gdańsk/Sopot/Gdynia.
+  const CITY_LL = {
+    "Białystok":[53.1324,23.1592],
+    "Bielsko-Biała":[49.8221,19.0449],
+    "Bydgoszcz":[53.1297,18.0294],
+    "Bytom":[50.347,18.9232],
+    "Chorzów":[50.2979,18.9544],
+    "Czatachowa":[50.6594,19.4001],
+    "Częstochowa":[50.809,19.1244],
+    "Elbląg":[54.1989,19.4411],
+    "Gliwice":[50.2941,18.6657],
+    "Gniezno":[52.536,17.5959],
+    "Gorzów Wielkopolski":[52.7306,15.2108],
+    "Jelenia Góra":[50.8501,15.6537],
+    "Kalisz":[51.7473,18.0795],
+    "Katowice":[50.2137,19.0059],
+    "Kielce":[50.872,20.631],
+    "Koszalin":[54.2072,16.2175],
+    "Kraków":[50.0469,19.9972],
+    "Legnica":[51.2048,16.1747],
+    "Lublin":[51.2182,22.5547],
+    "Mrągowo":[53.8661,21.3046],
+    "Nowy Sącz":[49.6103,20.7149],
+    "Olsztyn":[53.7766,20.4778],
+    "Opole":[50.6668,17.9236],
+    "Piotrków Trybunalski":[51.4083,19.6962],
+    "Poznań":[52.4007,16.9197],
+    "Przytkowice":[49.9199,19.6829],
+    "Płock":[52.5465,19.7009],
+    "Radom":[51.4023,21.1542],
+    "Ruda Śląska":[50.2699,18.8643],
+    "Rudna Mała":[50.0989,21.9603],
+    "Rybnik":[50.1106,18.5532],
+    "Rzeszów":[50.0133,22.0162],
+    "Sosnowiec":[50.2712,19.2156],
+    "Stróża":[49.7949,19.9263],
+    "Suwałki":[54.0991,22.9279],
+    "Szczecin":[53.4298,14.5929],
+    "Słupsk":[54.4636,17.0209],
+    "Tarnów":[50.0124,20.9881],
+    "Toruń":[53.0103,18.6048],
+    "Trójmiasto":[54.4418,18.5601],
+    "Tychy":[50.1265,19.0068],
+    "Warszawa":[52.232,21.0067],
+    "Wałbrzych":[50.7659,16.2825],
+    "Wrocław":[51.109,17.0327],
+    "Zabrze":[50.3143,18.7816],
+    "Zielona Góra":[51.9384,15.505],
+    "Łódź":[51.7728,19.4785],
+    "Świeradów-Zdrój":[50.9093,15.3332],
+  };
 
   const state = {
     city:'', from:'', to:'', artist:'', price:400,
@@ -471,6 +612,219 @@
     $('#artist').scrollIntoView({behavior:'smooth', block:'center'});
   });
 
+  // --- map ---------------------------------------------------------------
+  const svg = $('#map'), capEl = $('#mapCap');
+  const NS = 'http://www.w3.org/2000/svg';
+
+  // Cities we have both events and coordinates for. Anything else is counted
+  // and named under the map rather than silently dropped — a new city turning
+  // up in the data should be visible, not invisible.
+  const mapCities = cities.filter(c => CITY_LL[c]);
+  const missing = cities.filter(c => !CITY_LL[c]);
+  if (missing.length) console.warn('Brak współrzędnych dla:', missing);
+
+  // Dot radius scales with sqrt(count) against the WHOLE dataset, not the
+  // current filter, so dots shrink as you narrow instead of rescaling to fill.
+  const total = new Map();
+  for (const e of events) if (CITY_LL[e.city]) total.set(e.city, (total.get(e.city)||0)+1);
+  const MAXC = Math.max(1, ...total.values());
+  const radius = n => n ? 11 + 21 * (Math.sqrt(n) - 1) / (Math.sqrt(MAXC) - 1 || 1) : 6;
+
+  // Labels are fixed to the six busiest cities overall. Deriving them from the
+  // filtered set made text appear and disappear on every keystroke.
+  const LABELLED = new Set([...total.entries()].sort((a,b)=>b[1]-a[1]).slice(0,6).map(e=>e[0]));
+
+
+  // impreza / imprezy / imprez — 2-4 takes -y, except the teens.
+  function plEvents(n){
+    const t = n % 10, h = n % 100;
+    if (n === 1) return 'impreza';
+    if (t >= 2 && t <= 4 && !(h >= 12 && h <= 14)) return 'imprezy';
+    return 'imprez';
+  }
+
+  const dots = new Map();   // city -> <circle>
+  let counts = new Map();
+
+  function buildMap(){
+    const land = document.createElementNS(NS, 'g');
+    for (const d of POLAND){
+      const p = document.createElementNS(NS, 'path');
+      p.setAttribute('d', d); p.setAttribute('class', 'land');
+      land.append(p);
+    }
+    svg.append(land);
+
+    const labels = document.createElementNS(NS, 'g');
+    const g = document.createElementNS(NS, 'g');
+    const toPlace = [];
+    // Biggest first, so small dots end up on top and stay clickable.
+    for (const city of [...mapCities].sort((a,b)=>(total.get(b)||0)-(total.get(a)||0))){
+      const [lat, lon] = CITY_LL[city];
+      const c = document.createElementNS(NS, 'circle');
+      c.setAttribute('cx', px(lon).toFixed(1));
+      c.setAttribute('cy', py(lat).toFixed(1));
+      c.setAttribute('class', 'dot');
+      c.dataset.city = city;
+      c.setAttribute('tabindex', '0');
+      c.setAttribute('role', 'button');
+      g.append(c);
+      dots.set(city, c);
+
+      if (LABELLED.has(city)) toPlace.push(city);
+    }
+    svg.append(g, labels);
+    // On a phone the panel starts collapsed, so the SVG has no layout yet and
+    // labels cannot be measured. Place them on first open instead.
+    if (!placeLabels(toPlace, labels)){
+      $('#mapbox').addEventListener('toggle', function once(){
+        if (placeLabels(toPlace, labels)) $('#mapbox').removeEventListener('toggle', once);
+      });
+    }
+  }
+
+  // Label placement. Upper Silesia puts Katowice, Chorzów, Zabrze and Rybnik
+  // inside ~30 display px of each other, so a label centred above every dot
+  // overlaps both its own dot and its neighbours'. Rather than hand-nudging
+  // the two that happen to clash today — which breaks the moment the data
+  // shifts — each label tries eight positions and takes the first that hits
+  // nothing. Measured with getBBox, so it is the real rendered box.
+  function placeLabels(names, layer){
+    // Start clean: this can be called a second time if the first attempt could
+    // not measure, and appending again would double every label.
+    layer.replaceChildren();
+    const circles = [...dots.entries()].map(([city, c]) => ({
+      x: +c.getAttribute('cx'), y: +c.getAttribute('cy'), r: radius(total.get(city) || 0),
+    }));
+    const placed = [];
+    // Grown by PAD so two labels that merely touch still count as a clash —
+    // "Katowice Kraków" abutting reads as one word.
+    const PAD = 7;
+    const hits = (raw) => {
+      const b = {x: raw.x - PAD, y: raw.y - PAD,
+                 width: raw.width + 2 * PAD, height: raw.height + 2 * PAD};
+      if (b.x < 0 || b.y < 0 || b.x + b.width > MAP_W || b.y + b.height > MAP_H) return true;
+      for (const c of circles)
+        if (c.x + c.r > b.x && c.x - c.r < b.x + b.width &&
+            c.y + c.r > b.y && c.y - c.r < b.y + b.height) return true;
+      for (const q of placed)
+        if (q.x < b.x + b.width && q.x + q.width > b.x &&
+            q.y < b.y + b.height && q.y + q.height > b.y) return true;
+      return false;
+    };
+
+    for (const city of names){
+      const c = dots.get(city);
+      const cx = +c.getAttribute('cx'), cy = +c.getAttribute('cy'), r = radius(total.get(city) || 0);
+      const t = document.createElementNS(NS, 'text');
+      t.setAttribute('class', 'lbl');
+      t.textContent = city;
+      layer.append(t);
+
+      // above, below, right, left, then the diagonals.
+      const cands = [
+        [0, -(r + 12), 'middle'], [0, r + 34, 'middle'],
+        [r + 9, 11, 'start'], [-(r + 9), 11, 'end'],
+        [r + 6, -(r + 6), 'start'], [-(r + 6), -(r + 6), 'end'],
+        [r + 6, r + 28, 'start'], [-(r + 6), r + 28, 'end'],
+      ];
+      const put = ([dx, dy, anchor]) => {
+        t.setAttribute('x', (cx + dx).toFixed(1));
+        t.setAttribute('y', (cy + dy).toFixed(1));
+        t.setAttribute('text-anchor', anchor);
+        return t.getBBox();
+      };
+
+      let box = null;
+      for (const cand of cands){
+        const b = put(cand);
+        // A collapsed <details> makes the SVG display:none, and getBBox then
+        // measures nothing. Bail out so the caller can retry once it is open.
+        if (!b.width) return false;
+        if (!hits(b)){ box = b; break; }
+      }
+      // Nothing clean: fall back to the default position rather than leaving
+      // the label wherever the last candidate happened to put it.
+      if (!box) box = put(cands[0]);
+      placed.push(box);
+    }
+    return true;
+  }
+
+  function caption(city){
+    if (city){
+      const n = counts.get(city) || 0;
+      const hint = state.city === city ? ' — kliknij ponownie, aby wyczyścić' : '';
+      capEl.innerHTML = '<b>' + esc(city) + '</b> · ' + n + ' ' + plEvents(n) + hint;
+      return;
+    }
+    const off = missing.length
+      ? '<span class="off">Bez lokalizacji na mapie: ' + esc(missing.join(', ')) + '</span>'
+      : '';
+    capEl.innerHTML = (state.city
+      ? 'Filtr: <b>' + esc(state.city) + '</b> — kliknij kropkę ponownie, aby wyczyścić'
+      : 'Kliknij miasto, aby zawęzić listę.') + off;
+  }
+
+  // Fed the rows filtered by everything EXCEPT city, so picking one city does
+  // not collapse the map to a single dot — you can still see where else that
+  // genre or that weekend is happening, which is the point of having a map.
+  function drawDots(rows){
+    counts = new Map();
+    for (const e of rows) if (CITY_LL[e.city]) counts.set(e.city, (counts.get(e.city)||0)+1);
+    for (const [city, c] of dots){
+      const n = counts.get(city) || 0;
+      c.setAttribute('r', radius(n).toFixed(1));
+      c.classList.toggle('zero', n === 0);
+      c.classList.toggle('on', state.city === city);
+      c.setAttribute('aria-label', city + ', ' + n + ' ' + plEvents(n));
+      c.setAttribute('aria-pressed', String(state.city === city));
+      let title = c.querySelector('title');
+      if (!title){ title = document.createElementNS(NS, 'title'); c.append(title); }
+      title.textContent = city + ' — ' + n + ' ' + plEvents(n);
+    }
+    caption(null);
+  }
+
+  function pickCity(city){
+    if (!city) return;
+    // A dot with nothing under the current filters is not a useful click.
+    if (state.city !== city && (counts.get(city) || 0) === 0) return;
+    state.city = state.city === city ? '' : city;
+    $('#city').value = state.city;
+    render();
+    if (state.city) track('map-city-click', state.city);
+  }
+
+  svg.addEventListener('click', ev => {
+    const d = ev.target.closest('.dot');
+    if (d) pickCity(d.dataset.city);
+  });
+  svg.addEventListener('keydown', ev => {
+    if (ev.key !== 'Enter' && ev.key !== ' ') return;
+    const d = ev.target.closest && ev.target.closest('.dot');
+    if (!d) return;
+    ev.preventDefault();
+    pickCity(d.dataset.city);
+  });
+  svg.addEventListener('mouseover', ev => {
+    const d = ev.target.closest('.dot');
+    if (d) caption(d.dataset.city);
+  });
+  svg.addEventListener('mouseout', ev => {
+    if (ev.target.closest('.dot')) caption(null);
+  });
+
+  // <details> is what makes the map collapsible on a phone. On a wide screen
+  // the summary is hidden by CSS, so it has to be forced open — including
+  // after a resize, or the panel would vanish with no way to reopen it.
+  const wide = window.matchMedia('(min-width:1000px)');
+  const syncMapOpen = () => { if (wide.matches) $('#mapbox').open = true; };
+  wide.addEventListener('change', syncMapOpen);
+  syncMapOpen();
+
+  buildMap();
+
   // --- filtering + render ----------------------------------------------
   function render(){
     let rows, byRelevance = false;
@@ -489,8 +843,9 @@
       rows = events.slice();
     }
 
-    rows = rows.filter(e=>{
-      if (state.city && e.city !== state.city) return false;
+    // Every filter EXCEPT city. The map is drawn from this, so it keeps
+    // showing the rest of the country once a city is picked.
+    const preCity = rows.filter(e=>{
       const day = e.date.slice(0,10);
       if (state.from && day < state.from) return false;
       if (state.to && day > state.to) return false;
@@ -498,6 +853,8 @@
       if (state.genres.size && !e.genres.some(g=>state.genres.has(g))) return false;
       return true;
     });
+    drawDots(preCity);
+    rows = state.city ? preCity.filter(e => e.city === state.city) : preCity;
 
     // Substring hits are all equally "exact", so date order is the useful one;
     // only the fuzzy fallback has a relevance ranking worth preserving.
