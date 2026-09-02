@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T13:20:25+02:00",
+  "updated": "2026-09-02T23:05:13+02:00",
   "count": 230,
   "events": [
     {
@@ -8,7 +8,7 @@
       "city": "Warszawa",
       "venue": "VooDoo Club",
       "artists": [
-        "monia.mp3"
+        "DJOTY"
       ],
       "genres": [
         "electronic"
@@ -126,7 +126,7 @@
       "city": "Kraków",
       "venue": "HOTEL POLESKI",
       "artists": [
-        "Naked Relaxing"
+        "TRUANT"
       ],
       "genres": [
         "trance",
@@ -145,7 +145,7 @@
       "city": "Kraków",
       "venue": "Kombinat (Nowa Huta / Budynek Z)",
       "artists": [
-        "Einmusik"
+        "Frankey&Sandrino"
       ],
       "genres": [
         "techno",
@@ -282,7 +282,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "Flor"
+        "Kulterman"
       ],
       "genres": [
         "electronic"
@@ -295,31 +295,12 @@
       ]
     },
     {
-      "title": "SCHISSMA: POZNAŃ (SCHRON) – 05.09.2026",
-      "date": "2026-09-05T23:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Schron Poznań",
-      "artists": [
-        "KAMEHA"
-      ],
-      "genres": [
-        "bounce",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/knife-pact-jozef-keuner-schellt-vraxx-xcessive-kameha-monster-rewa-schron-poznan-9140",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "KRAKÓW W TRANSIE 💿 STK47 WAREHOUSE RAVE",
       "date": "2026-09-05T23:00:00+02:00",
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "TORRENTZ"
+        "MIKOUAJ REJW"
       ],
       "genres": [
         "acid",
@@ -339,13 +320,32 @@
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "PAXTONE"
+        "DIRTY RUSH"
       ],
       "genres": [
         "electronic"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/dirty-rush-paxtone-miedzymiastowa-9343",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SCHISSMA: POZNAŃ (SCHRON) – 05.09.2026",
+      "date": "2026-09-05T23:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Schron Poznań",
+      "artists": [
+        "xcessive"
+      ],
+      "genres": [
+        "bounce",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/knife-pact-jozef-keuner-schellt-vraxx-xcessive-kameha-monster-rewa-schron-poznan-9140",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -605,7 +605,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "J-GRO"
+        "AIZA"
       ],
       "genres": [
         "industrial",
@@ -614,25 +614,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: AMAZONICA",
-      "date": "2026-09-12T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "ST:F"
-      ],
-      "genres": [
-        "trance",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -652,6 +633,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: AMAZONICA",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "CRUZZ"
+      ],
+      "genres": [
+        "trance",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -733,7 +733,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "DJ RICKY"
+        "ZAGROZA"
       ],
       "genres": [
         "industrial",
@@ -870,6 +870,23 @@
       ]
     },
     {
+      "title": "2 YEAR ANNIVERSARY OF PARANØIA",
+      "date": "2026-09-19T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "schranz",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "MM: WONDERLAND",
       "date": "2026-09-19T23:00:00+02:00",
       "city": "Kraków",
@@ -882,23 +899,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "2 YEAR ANNIVERSARY OF PARANØIA",
-      "date": "2026-09-19T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [],
-      "genres": [
-        "schranz",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -998,7 +998,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "STARA"
+        "SCHELLT"
       ],
       "genres": [
         "bounce",
@@ -1037,7 +1037,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "Human Steel"
+        "SmoGGG"
       ],
       "genres": [
         "industrial"
@@ -1119,7 +1119,7 @@
       "city": "Rudna Mała",
       "venue": "Baza Bunkier Rudna Mała",
       "artists": [
-        "Booguta"
+        "NOXY"
       ],
       "genres": [
         "rave"
@@ -1137,7 +1137,7 @@
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "hdsn"
+        "grazyna"
       ],
       "genres": [
         "bounce",
@@ -1156,7 +1156,7 @@
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "SINCZ"
+        "IAN"
       ],
       "genres": [
         "electronic"
@@ -1174,7 +1174,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Inoblivion"
+        "Lucas Deyong"
       ],
       "genres": [
         "trance"
@@ -1300,22 +1300,6 @@
       ]
     },
     {
-      "title": "ART GROOVE",
-      "date": "2026-10-02T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRIBUTE TO CRYSTAL CASTLES - Katowice",
       "date": "2026-10-02T23:00:00+02:00",
       "city": "Katowice",
@@ -1328,6 +1312,22 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-katowice-8661",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ART GROOVE",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1497,7 +1497,7 @@
       "city": "Warszawa",
       "venue": "Progresja",
       "artists": [
-        "VIEZE ASBAK"
+        "VRAXX"
       ],
       "genres": [
         "techno"
@@ -1672,8 +1672,8 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "GLOWAL",
-        "Lane 8"
+        "Lane 8",
+        "VACOS"
       ],
       "genres": [
         "techno",
@@ -2287,7 +2287,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "BEAUZ"
+        "KLIARSKA"
       ],
       "genres": [
         "techno"
@@ -2560,19 +2560,22 @@
       ]
     },
     {
-      "title": "Maddix",
+      "title": "MADDIX",
       "date": "2026-10-24T21:30:00+02:00",
       "city": "Katowice",
       "venue": "Energy 2000 Katowice",
-      "artists": [],
+      "artists": [
+        "Maddix"
+      ],
       "genres": [
         "electronic"
       ],
-      "price_min": 159.0,
-      "url": "https://www.ebilet.pl/muzyka/elektro-techno/maddix",
-      "source": "ebilet",
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/maddix-2/katowice-pazdziernik-2026",
+      "source": "going",
       "sources": [
-        "ebilet"
+        "ebilet",
+        "going"
       ]
     },
     {
@@ -2892,7 +2895,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "VVYDRA"
+        "Dyyune"
       ],
       "genres": [
         "house"
@@ -2999,7 +3002,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Insan3"
+        "VRAXX"
       ],
       "genres": [
         "electronic"
@@ -3034,7 +3037,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "Nu:Tone"
+        "Makoto"
       ],
       "genres": [
         "drum-and-bass"
@@ -3071,7 +3074,7 @@
       "genres": [
         "electronic"
       ],
-      "price_min": 60.0,
+      "price_min": 81.0,
       "url": "https://biletomat.pl/wydarzenia/lets-groove-presents-ame-live-33435?eventId=354609",
       "source": "biletomat",
       "sources": [
@@ -3610,24 +3613,6 @@
       ]
     },
     {
-      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
-      "date": "2026-11-27T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
       "date": "2026-11-27T23:00:00+01:00",
       "city": "Wrocław",
@@ -3648,12 +3633,30 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "AcidSitter + The Surfin' Souls",
       "date": "2026-11-28T19:30:00+01:00",
       "city": "Poznań",
       "venue": "Dragon Social Club",
       "artists": [
-        "AcidSitter"
+        "The Surfin' Souls"
       ],
       "genres": [
         "acid"
@@ -3692,24 +3695,6 @@
       ]
     },
     {
-      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
-      "date": "2026-11-28T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Katowice",
       "date": "2026-11-28T23:00:00+01:00",
       "city": "Katowice",
@@ -3724,6 +3709,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3854,7 +3857,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "Nightcraft"
+        "Regain"
       ],
       "genres": [
         "hardstyle",
