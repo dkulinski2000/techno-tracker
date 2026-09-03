@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T23:05:13+02:00",
+  "updated": "2026-09-03T13:16:15+02:00",
   "count": 230,
   "events": [
     {
@@ -8,7 +8,7 @@
       "city": "Warszawa",
       "venue": "VooDoo Club",
       "artists": [
-        "DJOTY"
+        "monia.mp3"
       ],
       "genres": [
         "electronic"
@@ -35,7 +35,7 @@
       "genres": [
         "electronic"
       ],
-      "price_min": 390.0,
+      "price_min": null,
       "url": "https://goingapp.pl/wydarzenie/wyspowa-bassowa-vol-7/stroza-wrzesien-2026",
       "source": "going",
       "sources": [
@@ -113,7 +113,7 @@
         "rave",
         "techno"
       ],
-      "price_min": 70.0,
+      "price_min": 80.0,
       "url": "https://goingapp.pl/wydarzenie/cialo-in-verruf-2/wroclaw-wrzesien-2026",
       "source": "going",
       "sources": [
@@ -126,7 +126,7 @@
       "city": "Kraków",
       "venue": "HOTEL POLESKI",
       "artists": [
-        "TRUANT"
+        "KURIOZUM"
       ],
       "genres": [
         "trance",
@@ -145,7 +145,7 @@
       "city": "Kraków",
       "venue": "Kombinat (Nowa Huta / Budynek Z)",
       "artists": [
-        "Frankey&Sandrino"
+        "Lulu Malina"
       ],
       "genres": [
         "techno",
@@ -295,20 +295,19 @@
       ]
     },
     {
-      "title": "KRAKÓW W TRANSIE 💿 STK47 WAREHOUSE RAVE",
+      "title": "SCHISSMA: POZNAŃ (SCHRON) – 05.09.2026",
       "date": "2026-09-05T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
+      "city": "Poznań",
+      "venue": "Schron Poznań",
       "artists": [
-        "MIKOUAJ REJW"
+        "Schellt"
       ],
       "genres": [
-        "acid",
-        "trance",
-        "rave"
+        "bounce",
+        "techno"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/krakowwtransie-9313",
+      "url": "https://stage24.pl/wydarzenia/knife-pact-jozef-keuner-schellt-vraxx-xcessive-kameha-monster-rewa-schron-poznan-9140",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -320,7 +319,7 @@
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "DIRTY RUSH"
+        "PAXTONE"
       ],
       "genres": [
         "electronic"
@@ -333,19 +332,20 @@
       ]
     },
     {
-      "title": "SCHISSMA: POZNAŃ (SCHRON) – 05.09.2026",
+      "title": "KRAKÓW W TRANSIE 💿 STK47 WAREHOUSE RAVE",
       "date": "2026-09-05T23:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Schron Poznań",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
       "artists": [
-        "xcessive"
+        "Wixapol"
       ],
       "genres": [
-        "bounce",
-        "techno"
+        "acid",
+        "trance",
+        "rave"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/knife-pact-jozef-keuner-schellt-vraxx-xcessive-kameha-monster-rewa-schron-poznan-9140",
+      "url": "https://stage24.pl/wydarzenia/krakowwtransie-9313",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -541,7 +541,7 @@
       "genres": [
         "electronic"
       ],
-      "price_min": 85.0,
+      "price_min": 95.0,
       "url": "https://goingapp.pl/wydarzenie/bayonne/warszawa-wrzesien-2026",
       "source": "going",
       "sources": [
@@ -605,7 +605,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "AIZA"
+        "O4O2"
       ],
       "genres": [
         "industrial",
@@ -733,7 +733,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "ZAGROZA"
+        "marcelitumelis"
       ],
       "genres": [
         "industrial",
@@ -870,23 +870,6 @@
       ]
     },
     {
-      "title": "2 YEAR ANNIVERSARY OF PARANØIA",
-      "date": "2026-09-19T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [],
-      "genres": [
-        "schranz",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "MM: WONDERLAND",
       "date": "2026-09-19T23:00:00+02:00",
       "city": "Kraków",
@@ -899,6 +882,23 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "2 YEAR ANNIVERSARY OF PARANØIA",
+      "date": "2026-09-19T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "schranz",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -998,7 +998,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "SCHELLT"
+        "ERNST"
       ],
       "genres": [
         "bounce",
@@ -1037,7 +1037,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "SmoGGG"
+        "Agima Sun"
       ],
       "genres": [
         "industrial"
@@ -1119,7 +1119,7 @@
       "city": "Rudna Mała",
       "venue": "Baza Bunkier Rudna Mała",
       "artists": [
-        "NOXY"
+        "SANDPOKERS"
       ],
       "genres": [
         "rave"
@@ -1137,7 +1137,7 @@
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "grazyna"
+        "gibalski"
       ],
       "genres": [
         "bounce",
@@ -1156,7 +1156,7 @@
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "IAN"
+        "SINCZ"
       ],
       "genres": [
         "electronic"
@@ -1174,7 +1174,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Lucas Deyong"
+        "Maywave"
       ],
       "genres": [
         "trance"
@@ -1300,6 +1300,22 @@
       ]
     },
     {
+      "title": "ART GROOVE",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRIBUTE TO CRYSTAL CASTLES - Katowice",
       "date": "2026-10-02T23:00:00+02:00",
       "city": "Katowice",
@@ -1312,22 +1328,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-katowice-8661",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "ART GROOVE",
-      "date": "2026-10-02T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1497,7 +1497,7 @@
       "city": "Warszawa",
       "venue": "Progresja",
       "artists": [
-        "VRAXX"
+        "ERNST"
       ],
       "genres": [
         "techno"
@@ -1544,23 +1544,6 @@
       ]
     },
     {
-      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
-      "date": "2026-10-03T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [],
-      "genres": [
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/cialo-8853",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRIBUTE TO CRYSTAL CASTLES - Wrocław",
       "date": "2026-10-03T23:00:00+02:00",
       "city": "Wrocław",
@@ -1573,6 +1556,23 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-wroclaw-8662",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
+      "date": "2026-10-03T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/cialo-8853",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1672,8 +1672,8 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "Lane 8",
-        "VACOS"
+        "GLOWAL",
+        "Lane 8"
       ],
       "genres": [
         "techno",
@@ -2204,7 +2204,7 @@
         "techno",
         "electronic"
       ],
-      "price_min": 149.0,
+      "price_min": 159.0,
       "url": "https://goingapp.pl/wydarzenie/ark-hi-lo-warszawa/warszawa-pazdziernik-2026",
       "source": "going",
       "sources": [
@@ -2287,7 +2287,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "KLIARSKA"
+        "CTRL."
       ],
       "genres": [
         "techno"
@@ -2368,7 +2368,7 @@
         "hardstyle",
         "psytrance"
       ],
-      "price_min": 99.0,
+      "price_min": 119.0,
       "url": "https://biletomat.pl/wydarzenia/tama-sub-zero-project-32458?eventId=348879",
       "source": "biletomat",
       "sources": [
@@ -2630,6 +2630,25 @@
       ]
     },
     {
+      "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "AfterDark",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "electro",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "PLATFORM: HALLOWEEN",
       "date": "2026-10-24T23:00:00+02:00",
       "city": "Warszawa",
@@ -2655,25 +2674,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/platform-halloween-oczki-8772",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
-      "date": "2026-10-24T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "AfterDark",
-      "artists": [
-        "doomer saddancing"
-      ],
-      "genres": [
-        "electro",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2711,22 +2711,6 @@
       ],
       "price_min": 64.0,
       "url": "https://biletomat.pl/wydarzenia/lets-groove-anja-schneider--joana--tba-33434?eventId=354608",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
-      ]
-    },
-    {
-      "title": "Pablopavo i Ludziki |Kicia Kocia",
-      "date": "2026-10-27T20:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "Klubokawiarnia Kicia Kocia",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 117.0,
-      "url": "https://biletomat.pl/wydarzenia/pablopavo-i-ludziki-kicia-kocia-24878?eventId=354631",
       "source": "biletomat",
       "sources": [
         "biletomat"
@@ -2895,7 +2879,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dyyune"
+        "Scyntero"
       ],
       "genres": [
         "house"
@@ -2939,7 +2923,7 @@
       "genres": [
         "techno"
       ],
-      "price_min": 92.0,
+      "price_min": 109.0,
       "url": "https://goingapp.pl/wydarzenie/cialo-live-halloween-special-w-alignment/wroclaw-pazdziernik-2026",
       "source": "going",
       "sources": [
@@ -3002,13 +2986,31 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "VRAXX"
+        "Insan3"
       ],
       "genres": [
         "electronic"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/anadelle-grazyna-insan3-mila-oriole-sinther-vraxx-malevolento-piekno-9350",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "LIQUID SYMPHONY: London Elektricity / Zero T / Nu:Tone | Poznań",
+      "date": "2026-11-06T23:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [
+        "Makoto"
+      ],
+      "genres": [
+        "drum-and-bass"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/london-elektricity-makoto-nutone-klub-tama-9325",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3613,6 +3615,24 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
       "date": "2026-11-27T23:00:00+01:00",
       "city": "Wrocław",
@@ -3633,30 +3653,12 @@
       ]
     },
     {
-      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
-      "date": "2026-11-27T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "AcidSitter + The Surfin' Souls",
       "date": "2026-11-28T19:30:00+01:00",
       "city": "Poznań",
       "venue": "Dragon Social Club",
       "artists": [
-        "The Surfin' Souls"
+        "AcidSitter"
       ],
       "genres": [
         "acid"
@@ -3695,6 +3697,24 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Katowice",
       "date": "2026-11-28T23:00:00+01:00",
       "city": "Katowice",
@@ -3709,24 +3729,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
-      "date": "2026-11-28T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3749,16 +3751,17 @@
       ]
     },
     {
-      "title": "Wonter przedstawia...",
+      "title": "Wonter przedstawia: Let's Rave Again 2",
       "date": "2026-12-05T21:00:00+01:00",
       "city": "Łódź",
       "venue": "LARUM",
       "artists": [],
       "genres": [
+        "rave",
         "techno"
       ],
       "price_min": 65.0,
-      "url": "https://biletomat.pl/wydarzenia/wonter-przedstawia-30548?eventId=338175",
+      "url": "https://biletomat.pl/wydarzenia/wonter-przedstawia-lets-rave-again-2-30548?eventId=338175",
       "source": "biletomat",
       "sources": [
         "biletomat"
