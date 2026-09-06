@@ -1,64 +1,7 @@
 {
-  "updated": "2026-09-05T22:22:19+02:00",
-  "count": 217,
+  "updated": "2026-09-06T12:58:44+02:00",
+  "count": 211,
   "events": [
-    {
-      "title": "MM: PARADISO",
-      "date": "2026-09-05T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "PAXTONE"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dirty-rush-paxtone-miedzymiastowa-9343",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SCHISSMA: POZNAŃ (SCHRON) – 05.09.2026",
-      "date": "2026-09-05T23:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Schron Poznań",
-      "artists": [
-        "xcessive"
-      ],
-      "genres": [
-        "bounce",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/knife-pact-jozef-keuner-schellt-vraxx-xcessive-kameha-monster-rewa-schron-poznan-9140",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "KRAKÓW W TRANSIE 💿 STK47 WAREHOUSE RAVE",
-      "date": "2026-09-05T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [
-        "DJ QBC"
-      ],
-      "genres": [
-        "acid",
-        "trance",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/krakowwtransie-9313",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
     {
       "title": "SUNDANCE: HOTLAP",
       "date": "2026-09-06T14:00:00+02:00",
@@ -308,20 +251,19 @@
       ]
     },
     {
-      "title": "HARD NIGHT WAREHOUSE KRK DR. OBLITERANE",
+      "title": "DUALISM PRES. TH;EN | 12.09",
       "date": "2026-09-12T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
+      "city": "Warszawa",
+      "venue": "OCZKI",
       "artists": [
-        "O4O2"
+        "TH;EN"
       ],
       "genres": [
-        "industrial",
         "techno",
-        "rave"
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
+      "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -347,19 +289,20 @@
       ]
     },
     {
-      "title": "DUALISM PRES. TH;EN | 12.09",
+      "title": "HARD NIGHT WAREHOUSE KRK DR. OBLITERANE",
       "date": "2026-09-12T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
       "artists": [
-        "TH;EN"
+        "O4O2"
       ],
       "genres": [
+        "industrial",
         "techno",
-        "house"
+        "rave"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
+      "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -422,7 +365,7 @@
       "city": "Warszawa",
       "venue": "Kaskada",
       "artists": [
-        "MIKOUAJ REJW"
+        "Wixapol"
       ],
       "genres": [
         "acid",
@@ -463,7 +406,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "ZAGROZA"
+        "TISKIMIKKO"
       ],
       "genres": [
         "industrial",
@@ -584,24 +527,6 @@
       ]
     },
     {
-      "title": "III Urodziny Oczki - Dzień 2",
-      "date": "2026-09-19T22:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Urodziny Oczki"
-      ],
-      "genres": [
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/oczki-8547",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "One Year Of Chaos - 19.09.2026 - SecretRaveCzwa",
       "date": "2026-09-19T22:00:00+02:00",
       "city": "Polska",
@@ -615,6 +540,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/secret-location-9453",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "III Urodziny Oczki - Dzień 2",
+      "date": "2026-09-19T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Urodziny Oczki"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/oczki-8547",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -749,7 +692,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "SCHELLT"
+        "BOBAIO"
       ],
       "genres": [
         "bounce",
@@ -768,7 +711,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "SmoGGG"
+        "Agima Sun"
       ],
       "genres": [
         "industrial"
@@ -850,7 +793,7 @@
       "city": "Rudna Mała",
       "venue": "Baza Bunkier Rudna Mała",
       "artists": [
-        "QCZI"
+        "Booguta"
       ],
       "genres": [
         "rave"
@@ -868,7 +811,7 @@
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "ags"
+        "gibalski"
       ],
       "genres": [
         "bounce",
@@ -887,7 +830,7 @@
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "SINCZ"
+        "IAN"
       ],
       "genres": [
         "electronic"
@@ -905,7 +848,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Aquatic Simon"
+        "0Gravity"
       ],
       "genres": [
         "trance"
@@ -1014,13 +957,29 @@
       "city": "Trójmiasto",
       "venue": "Crackhouse",
       "artists": [
-        "TORRENTZ"
+        "kuki"
       ],
       "genres": [
         "electronic"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/kukinawixapolu-9467",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ART GROOVE",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1039,22 +998,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-katowice-8661",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "ART GROOVE",
-      "date": "2026-10-02T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1199,6 +1142,24 @@
       ]
     },
     {
+      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
+      "date": "2026-10-03T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [
+        "VIEZE ASBAK"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "DJ KUBA & NEITAN. URODZINY KLUBU BEYOND",
       "date": "2026-10-03T22:00:00+02:00",
       "city": "Wrocław",
@@ -1211,24 +1172,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-beyond-music-club-9395",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
-      "date": "2026-10-03T22:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Progresja",
-      "artists": [
-        "ERNST"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1347,8 +1290,8 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "Lane 8",
-        "VACOS"
+        "GLOWAL",
+        "Lane 8"
       ],
       "genres": [
         "techno",
@@ -1414,22 +1357,6 @@
       ]
     },
     {
-      "title": "C-BooL | X-Demon Poznań",
-      "date": "2026-10-09T22:00:00+02:00",
-      "city": "Poznań",
-      "venue": "X-Demon Poznań",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 32.0,
-      "url": "https://biletomat.pl/wydarzenia/c-bool-x-demon-poznan-33430?eventId=354586",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
-      ]
-    },
-    {
       "title": "CREMATORIUMRAVE",
       "date": "2026-10-09T23:00:00+02:00",
       "city": "Wrocław",
@@ -1463,23 +1390,6 @@
       "source": "stage24",
       "sources": [
         "stage24"
-      ]
-    },
-    {
-      "title": "Tama: CHRIS AVANTGARDE",
-      "date": "2026-10-09T23:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Klub Tama",
-      "artists": [],
-      "genres": [
-        "trance",
-        "techno"
-      ],
-      "price_min": 70.0,
-      "url": "https://biletomat.pl/wydarzenia/tama-chris-avantgarde-33122?eventId=352655",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
       ]
     },
     {
@@ -1866,7 +1776,7 @@
       "city": "Warszawa",
       "venue": "Klub Mechanik",
       "artists": [
-        "INFERNO"
+        "AIZA"
       ],
       "genres": [
         "schranz",
@@ -1999,7 +1909,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "EDVVIN"
+        "KLIARSKA"
       ],
       "genres": [
         "techno"
@@ -2111,7 +2021,7 @@
       "city": "Szczecin",
       "venue": "Trafostacja Sztuki w Szczecinie",
       "artists": [
-        "Zofia Pysz"
+        "Beata Zając"
       ],
       "genres": [
         "electronic"
@@ -2538,7 +2448,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "CTRL."
+        "Infected Mushroom"
       ],
       "genres": [
         "psytrance",
@@ -2609,7 +2519,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dj Duch"
+        "VVYDRA"
       ],
       "genres": [
         "house"
@@ -2716,7 +2626,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Sinther"
+        "Anadelle"
       ],
       "genres": [
         "electronic"
@@ -2734,7 +2644,7 @@
       "city": "Poznań",
       "venue": "Klub Tama",
       "artists": [
-        "London Elektricity"
+        "Makoto"
       ],
       "genres": [
         "drum-and-bass"
@@ -2769,7 +2679,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "Nu:Tone"
+        "London Elektricity"
       ],
       "genres": [
         "drum-and-bass"
@@ -3349,24 +3259,6 @@
       ]
     },
     {
-      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
-      "date": "2026-11-27T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
       "date": "2026-11-27T23:00:00+01:00",
       "city": "Wrocław",
@@ -3381,6 +3273,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-wroclaw-9333",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3431,6 +3341,24 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Katowice",
       "date": "2026-11-28T23:00:00+01:00",
       "city": "Katowice",
@@ -3445,24 +3373,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
-      "date": "2026-11-28T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3512,22 +3422,6 @@
       ],
       "price_min": 65.0,
       "url": "https://biletomat.pl/wydarzenia/wonter-przedstawia-lets-rave-again-2-30548?eventId=338175",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
-      ]
-    },
-    {
-      "title": "THE M - The M Tour 2026",
-      "date": "2026-12-05T22:00:00+01:00",
-      "city": "Opole",
-      "venue": "Mango Music Club",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 63.0,
-      "url": "https://biletomat.pl/wydarzenia/the-m-the-m-tour-2026-33345?eventId=353994",
       "source": "biletomat",
       "sources": [
         "biletomat"
@@ -3610,7 +3504,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "Regain"
+        "Nightcraft"
       ],
       "genres": [
         "hardstyle",
