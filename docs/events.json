@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T23:32:26+02:00",
-  "count": 218,
+  "updated": "2026-09-08T13:21:01+02:00",
+  "count": 222,
   "events": [
     {
       "title": "CLAPTONE — WARSAW",
@@ -228,26 +228,6 @@
       ]
     },
     {
-      "title": "HARD NIGHT WAREHOUSE KRK DR. OBLITERANE",
-      "date": "2026-09-12T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [
-        "DR.OBLITERANE"
-      ],
-      "genres": [
-        "industrial",
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "MM: AMAZONICA",
       "date": "2026-09-12T23:00:00+02:00",
       "city": "Kraków",
@@ -261,6 +241,26 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "HARD NIGHT WAREHOUSE KRK DR. OBLITERANE",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [
+        "O4O2"
+      ],
+      "genres": [
+        "industrial",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -342,7 +342,7 @@
       "city": "Warszawa",
       "venue": "Kaskada",
       "artists": [
-        "sterilephobia"
+        "MIKOUAJ REJW"
       ],
       "genres": [
         "acid",
@@ -504,6 +504,24 @@
       ]
     },
     {
+      "title": "BACK TO TERYTORIUM - SPECIAL EVENT!",
+      "date": "2026-09-19T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "Maxx"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/neevald-jerry-ropero-maxx-slodownia-club-9488",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "III Urodziny Oczki - Dzień 2",
       "date": "2026-09-19T22:00:00+02:00",
       "city": "Warszawa",
@@ -516,24 +534,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/oczki-8547",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "BACK TO TERYTORIUM",
-      "date": "2026-09-19T22:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "JERRY ROPERO"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/neevald-jerry-ropero-maxx-slodownia-club-9488",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -687,7 +687,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "xcessive"
+        "DJ FA**OT"
       ],
       "genres": [
         "bounce",
@@ -706,7 +706,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "Agima Sun"
+        "Larmo"
       ],
       "genres": [
         "industrial"
@@ -771,7 +771,9 @@
       "date": "2026-09-26T21:00:00+02:00",
       "city": "Kraków",
       "venue": "NOVA KLUBOVA",
-      "artists": [],
+      "artists": [
+        "David Penn"
+      ],
       "genres": [
         "house"
       ],
@@ -783,12 +785,30 @@
       ]
     },
     {
+      "title": "THIS IS MY HOUSE",
+      "date": "2026-09-26T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "pequeño"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/bartes-pequeno-slodownia-club-9489",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "BOILER RUSH VI: BLACKOUT RAVE",
       "date": "2026-09-26T22:00:00+02:00",
       "city": "Rudna Mała",
       "venue": "Baza Bunkier Rudna Mała",
       "artists": [
-        "QCZI"
+        "NOXY"
       ],
       "genres": [
         "rave"
@@ -806,7 +826,7 @@
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "ALEXSARNA"
+        "SYNTHIA"
       ],
       "genres": [
         "bounce",
@@ -825,7 +845,7 @@
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "IAN"
+        "SINCZ"
       ],
       "genres": [
         "electronic"
@@ -843,7 +863,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Aeon Shift"
+        "Tymo White"
       ],
       "genres": [
         "trance"
@@ -952,13 +972,29 @@
       "city": "Trójmiasto",
       "venue": "Crackhouse",
       "artists": [
-        "BPD LALUNIE"
+        "Wixapol"
       ],
       "genres": [
         "electronic"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/kukinawixapolu-9467",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ART GROOVE",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -977,22 +1013,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-katowice-8661",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "ART GROOVE",
-      "date": "2026-10-02T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1155,24 +1175,6 @@
       ]
     },
     {
-      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
-      "date": "2026-10-03T22:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Progresja",
-      "artists": [
-        "xcessive"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "DJ KUBA & NEITAN. URODZINY KLUBU BEYOND",
       "date": "2026-10-03T22:00:00+02:00",
       "city": "Wrocław",
@@ -1185,6 +1187,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-beyond-music-club-9395",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
+      "date": "2026-10-03T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [
+        "marcelitumelis"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1303,8 +1323,8 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "DUSS",
-        "Lane 8"
+        "Lane 8",
+        "VACOS"
       ],
       "genres": [
         "techno",
@@ -1750,25 +1770,6 @@
       ]
     },
     {
-      "title": "HARD NIGHT WARSAW : INFERNO",
-      "date": "2026-10-16T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Klub Mechanik",
-      "artists": [
-        "INFERNO"
-      ],
-      "genres": [
-        "schranz",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/inferno-ltk-damnyss-aiza-0402-klub-mechanik-9471",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "SZEPTY ŁÓDŹ w. LETCH",
       "date": "2026-10-16T23:00:00+02:00",
       "city": "Łódź",
@@ -1783,6 +1784,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/szeptylodz-9482",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "HARD NIGHT WARSAW : INFERNO",
+      "date": "2026-10-16T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Klub Mechanik",
+      "artists": [
+        "DAMNYSS"
+      ],
+      "genres": [
+        "schranz",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/inferno-ltk-damnyss-aiza-0402-klub-mechanik-9471",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1903,12 +1923,28 @@
       ]
     },
     {
+      "title": "Cristian Marchi \"Fast Cars & Superstars\" | X-Demon Poznań",
+      "date": "2026-10-17T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "X-Demon Poznań",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 32.0,
+      "url": "https://biletomat.pl/wydarzenia/cristian-marchi-fast-cars--superstars-x-demon-poznan-33608?eventId=355796",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "BEAUZ | 17.10",
       "date": "2026-10-17T23:00:00+02:00",
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "BEAUZ"
+        "KLIARSKA"
       ],
       "genres": [
         "techno"
@@ -2037,7 +2073,7 @@
       "city": "Szczecin",
       "venue": "Trafostacja Sztuki w Szczecinie",
       "artists": [
-        "Zuza Jasinska"
+        "Emilia Gołos"
       ],
       "genres": [
         "electronic"
@@ -2307,27 +2343,6 @@
       ]
     },
     {
-      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
-      "date": "2026-10-24T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "HYPE PARK",
-      "artists": [
-        "szepty"
-      ],
-      "genres": [
-        "schranz",
-        "industrial",
-        "hardstyle",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
       "date": "2026-10-24T23:00:00+02:00",
       "city": "Warszawa",
@@ -2372,6 +2387,27 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/platform-halloween-oczki-8772",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "HYPE PARK",
+      "artists": [
+        "szepty"
+      ],
+      "genres": [
+        "schranz",
+        "industrial",
+        "hardstyle",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2501,25 +2537,6 @@
       ]
     },
     {
-      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
-      "date": "2026-10-30T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Infected Mushroom"
-      ],
-      "genres": [
-        "psytrance",
-        "electro"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "ELY OAKS | 30.10.2026 | GDAŃSK, CRACKHOUSE",
       "date": "2026-10-30T23:00:00+01:00",
       "city": "Trójmiasto",
@@ -2532,6 +2549,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ely-oaks-crackhouse-9294",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
+      "date": "2026-10-30T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "CTRL."
+      ],
+      "genres": [
+        "psytrance",
+        "electro"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2577,7 +2613,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dyyune"
+        "VVYDRA"
       ],
       "genres": [
         "house"
@@ -2687,7 +2723,7 @@
       "genres": [
         "electronic"
       ],
-      "price_min": null,
+      "price_min": 69.0,
       "url": "https://goingapp.pl/wydarzenie/hiatus-festival-2026/poznan-listopad-2026",
       "source": "going",
       "sources": [
@@ -2716,7 +2752,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Grażyna"
+        "Sinther"
       ],
       "genres": [
         "electronic"
@@ -2769,7 +2805,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "Makoto"
+        "Nu:Tone"
       ],
       "genres": [
         "drum-and-bass"
@@ -3518,6 +3554,22 @@
       ]
     },
     {
+      "title": "THE M - The M Tour 2026",
+      "date": "2026-12-05T22:00:00+01:00",
+      "city": "Opole",
+      "venue": "Mango Music Club",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 74.0,
+      "url": "https://biletomat.pl/wydarzenia/the-m-the-m-tour-2026-33345?eventId=353994",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "Drum&Bass Warszawa 2026",
       "date": "2026-12-05T22:30:00+01:00",
       "city": "Warszawa",
@@ -3588,6 +3640,25 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "EXIST pres. SARA LANDRY",
+      "date": "2026-12-12T22:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "SEKTOR6D",
+      "artists": [
+        "SARA LANDRY"
+      ],
+      "genres": [
+        "hard-techno",
+        "techno"
+      ],
+      "price_min": 150.0,
+      "url": "https://www.exist.pl/events/exist-pres-sara-landry-bilety-2026",
+      "source": "exist",
+      "sources": [
+        "exist"
       ]
     },
     {
