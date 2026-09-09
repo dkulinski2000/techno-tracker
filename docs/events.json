@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T13:25:15+02:00",
-  "count": 226,
+  "updated": "2026-09-09T22:57:18+02:00",
+  "count": 227,
   "events": [
     {
       "title": "CLAPTONE — WARSAW",
@@ -233,7 +233,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "LTK"
+        "O4O2"
       ],
       "genres": [
         "industrial",
@@ -242,25 +242,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: AMAZONICA",
-      "date": "2026-09-12T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "CRUZZ"
-      ],
-      "genres": [
-        "trance",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -280,6 +261,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: AMAZONICA",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "CRUZZ"
+      ],
+      "genres": [
+        "trance",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -342,7 +342,7 @@
       "city": "Warszawa",
       "venue": "Kaskada",
       "artists": [
-        "DJ Lotos"
+        "TORRENTZ"
       ],
       "genres": [
         "acid",
@@ -504,12 +504,31 @@
       ]
     },
     {
+      "title": "One Year Of Chaos - 19.09.2026 - SecretRaveCzwa",
+      "date": "2026-09-19T22:00:00+02:00",
+      "city": "Polska",
+      "venue": "SECRET LOCATION",
+      "artists": [],
+      "genres": [
+        "bounce",
+        "techno",
+        "house",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/secret-location-9453",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "BACK TO TERYTORIUM - SPECIAL EVENT!",
       "date": "2026-09-19T22:00:00+02:00",
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "JERRY ROPERO"
+        "neevald"
       ],
       "genres": [
         "house"
@@ -540,43 +559,6 @@
       ]
     },
     {
-      "title": "One Year Of Chaos - 19.09.2026 - SecretRaveCzwa",
-      "date": "2026-09-19T22:00:00+02:00",
-      "city": "Polska",
-      "venue": "SECRET LOCATION",
-      "artists": [],
-      "genres": [
-        "bounce",
-        "techno",
-        "house",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/secret-location-9453",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: WONDERLAND",
-      "date": "2026-09-19T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "WHIZZER"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "2 YEAR ANNIVERSARY OF PARANØIA",
       "date": "2026-09-19T23:00:00+02:00",
       "city": "Wrocław",
@@ -588,6 +570,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: WONDERLAND",
+      "date": "2026-09-19T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "ST:F"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -687,7 +687,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "DJ FA**OT"
+        "STARA"
       ],
       "genres": [
         "bounce",
@@ -706,7 +706,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "Agima Sun"
+        "Larmo"
       ],
       "genres": [
         "industrial"
@@ -790,7 +790,7 @@
       "city": "Rudna Mała",
       "venue": "Baza Bunkier Rudna Mała",
       "artists": [
-        "stk"
+        "dobrafaza"
       ],
       "genres": [
         "rave"
@@ -808,7 +808,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "Bartes"
+        "pequeño"
       ],
       "genres": [
         "house"
@@ -821,30 +821,12 @@
       ]
     },
     {
-      "title": "MM: MYKONOS MUSE",
-      "date": "2026-09-26T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "IAN"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sincz-ian-miedzymiastowa-9345",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "PARANØIA SHOWCASE 26.09.2026 | POZNAŃ",
       "date": "2026-09-26T23:00:00+02:00",
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "hdsn"
+        "JULEESOH"
       ],
       "genres": [
         "bounce",
@@ -858,12 +840,30 @@
       ]
     },
     {
+      "title": "MM: MYKONOS MUSE",
+      "date": "2026-09-26T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "SINCZ"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/sincz-ian-miedzymiastowa-9345",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Existence & We Love Trance present, Victims Of Trance",
       "date": "2026-09-27T00:00:00+02:00",
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Mike Moor"
+        "Tymo White"
       ],
       "genres": [
         "trance"
@@ -972,7 +972,7 @@
       "city": "Trójmiasto",
       "venue": "Crackhouse",
       "artists": [
-        "kuki"
+        "Wixapol"
       ],
       "genres": [
         "electronic"
@@ -1323,7 +1323,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "KORENBERG",
+        "GLOWAL",
         "Lane 8"
       ],
       "genres": [
@@ -1371,6 +1371,24 @@
       "source": "ebilet",
       "sources": [
         "ebilet"
+      ]
+    },
+    {
+      "title": "CHRŌMATIC Lime w/ NICK WARREN",
+      "date": "2026-10-09T21:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "KLUB REDDO",
+      "artists": [
+        "NICK WARREN"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/nick-warren-klub-reddo-9581",
+      "source": "stage24",
+      "sources": [
+        "stage24"
       ]
     },
     {
@@ -1978,7 +1996,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "EDVVIN"
+        "BEAUZ"
       ],
       "genres": [
         "techno"
@@ -2089,7 +2107,7 @@
       "city": "Szczecin",
       "venue": "Trafostacja Sztuki w Szczecinie",
       "artists": [
-        "wræżlivøść"
+        "Zuza Jasinska"
       ],
       "genres": [
         "electronic"
@@ -2359,46 +2377,6 @@
       ]
     },
     {
-      "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
-      "date": "2026-10-24T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "AfterDark",
-      "artists": [
-        "doomer saddancing"
-      ],
-      "genres": [
-        "electro",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
-      "date": "2026-10-24T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "HYPE PARK",
-      "artists": [
-        "szepty"
-      ],
-      "genres": [
-        "schranz",
-        "industrial",
-        "hardstyle",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "PLATFORM: HALLOWEEN",
       "date": "2026-10-24T23:00:00+02:00",
       "city": "Warszawa",
@@ -2430,12 +2408,54 @@
       ]
     },
     {
+      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "HYPE PARK",
+      "artists": [
+        "szepty"
+      ],
+      "genres": [
+        "schranz",
+        "industrial",
+        "hardstyle",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "AfterDark",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "electro",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Ciało: DJ BORING",
       "date": "2026-10-24T23:00:00+02:00",
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "DJ Boring"
+        "DJ Boring",
+        "kEczuP",
+        "Lulu Malina"
       ],
       "genres": [
         "house"
@@ -2786,7 +2806,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Malevolento"
+        "Insan3"
       ],
       "genres": [
         "electronic"
@@ -2804,7 +2824,7 @@
       "city": "Poznań",
       "venue": "Klub Tama",
       "artists": [
-        "Makoto"
+        "London Elektricity"
       ],
       "genres": [
         "drum-and-bass"
@@ -3419,6 +3439,24 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
       "date": "2026-11-27T23:00:00+01:00",
       "city": "Wrocław",
@@ -3439,30 +3477,12 @@
       ]
     },
     {
-      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
-      "date": "2026-11-27T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "AcidSitter + The Surfin' Souls",
       "date": "2026-11-28T19:30:00+01:00",
       "city": "Poznań",
       "venue": "Dragon Social Club",
       "artists": [
-        "The Surfin' Souls"
+        "AcidSitter"
       ],
       "genres": [
         "acid"
@@ -3501,6 +3521,24 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Katowice",
       "date": "2026-11-28T23:00:00+01:00",
       "city": "Katowice",
@@ -3515,24 +3553,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
-      "date": "2026-11-28T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
       "source": "stage24",
       "sources": [
         "stage24"
