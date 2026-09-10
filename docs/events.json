@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T22:57:18+02:00",
-  "count": 227,
+  "updated": "2026-09-10T13:21:41+02:00",
+  "count": 230,
   "events": [
     {
       "title": "CLAPTONE — WARSAW",
@@ -233,7 +233,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "O4O2"
+        "LTK"
       ],
       "genres": [
         "industrial",
@@ -242,25 +242,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/drobliterane-ltk-damnyss-aiza-o4o2-j-gro-stk-47-warehouse-8846",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "DUALISM PRES. TH;EN | 12.09",
-      "date": "2026-09-12T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "TH;EN"
-      ],
-      "genres": [
-        "techno",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -280,6 +261,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/miedzymiastowa-cruzz-amazonica-9009",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "DUALISM PRES. TH;EN | 12.09",
+      "date": "2026-09-12T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "TH;EN"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/then-oczki-8585",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -342,7 +342,7 @@
       "city": "Warszawa",
       "venue": "Kaskada",
       "artists": [
-        "TORRENTZ"
+        "DJ Lotos"
       ],
       "genres": [
         "acid",
@@ -383,7 +383,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "ZAGROZA"
+        "DJ RICKY"
       ],
       "genres": [
         "industrial",
@@ -504,6 +504,24 @@
       ]
     },
     {
+      "title": "BACK TO TERYTORIUM - SPECIAL EVENT!",
+      "date": "2026-09-19T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "neevald"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/neevald-jerry-ropero-maxx-slodownia-club-9488",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "One Year Of Chaos - 19.09.2026 - SecretRaveCzwa",
       "date": "2026-09-19T22:00:00+02:00",
       "city": "Polska",
@@ -517,24 +535,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/secret-location-9453",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "BACK TO TERYTORIUM - SPECIAL EVENT!",
-      "date": "2026-09-19T22:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "neevald"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/neevald-jerry-ropero-maxx-slodownia-club-9488",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -785,24 +785,6 @@
       ]
     },
     {
-      "title": "BOILER RUSH VI: BLACKOUT RAVE",
-      "date": "2026-09-26T22:00:00+02:00",
-      "city": "Rudna Mała",
-      "venue": "Baza Bunkier Rudna Mała",
-      "artists": [
-        "dobrafaza"
-      ],
-      "genres": [
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/baza-bunkier-9112",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "THIS IS MY HOUSE",
       "date": "2026-09-26T22:00:00+02:00",
       "city": "Poznań",
@@ -821,12 +803,30 @@
       ]
     },
     {
+      "title": "BOILER RUSH VI: BLACKOUT RAVE",
+      "date": "2026-09-26T22:00:00+02:00",
+      "city": "Rudna Mała",
+      "venue": "Baza Bunkier Rudna Mała",
+      "artists": [
+        "victoria nox"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/baza-bunkier-9112",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "PARANØIA SHOWCASE 26.09.2026 | POZNAŃ",
       "date": "2026-09-26T23:00:00+02:00",
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "JULEESOH"
+        "hdsn"
       ],
       "genres": [
         "bounce",
@@ -845,7 +845,7 @@
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "SINCZ"
+        "IAN"
       ],
       "genres": [
         "electronic"
@@ -863,7 +863,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Tymo White"
+        "Aeon Shift"
       ],
       "genres": [
         "trance"
@@ -972,7 +972,7 @@
       "city": "Trójmiasto",
       "venue": "Crackhouse",
       "artists": [
-        "Wixapol"
+        "TORRENTZ"
       ],
       "genres": [
         "electronic"
@@ -1175,24 +1175,6 @@
       ]
     },
     {
-      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
-      "date": "2026-10-03T22:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Progresja",
-      "artists": [
-        "marcelitumelis"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "DJ KUBA & NEITAN. URODZINY KLUBU BEYOND",
       "date": "2026-10-03T22:00:00+02:00",
       "city": "Wrocław",
@@ -1205,6 +1187,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-beyond-music-club-9395",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
+      "date": "2026-10-03T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [
+        "Józef kelner"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1323,7 +1323,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "GLOWAL",
+        "KORENBERG",
         "Lane 8"
       ],
       "genres": [
@@ -1413,7 +1413,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "Insan3"
+        "APOTEKA"
       ],
       "genres": [
         "techno"
@@ -1444,7 +1444,7 @@
       ]
     },
     {
-      "title": "DUB PISTOLS / Białystok, Zmiana Klimatu / 10.10.2026",
+      "title": "DUB PISTOLS",
       "date": "2026-10-10T18:00:00+02:00",
       "city": "Białystok",
       "venue": "Zmiana Klimatu",
@@ -1510,12 +1510,14 @@
         "Basshunter"
       ],
       "genres": [
-        "electronic"
+        "electronic",
+        "techno"
       ],
       "price_min": 109.0,
       "url": "https://goingapp.pl/wydarzenie/basshunter-2/przytkowice-pazdziernik-2026",
       "source": "going",
       "sources": [
+        "biletomat",
         "ebilet",
         "going"
       ]
@@ -1809,7 +1811,7 @@
       "city": "Warszawa",
       "venue": "Klub Mechanik",
       "artists": [
-        "DAMNYSS"
+        "0402"
       ],
       "genres": [
         "schranz",
@@ -1973,6 +1975,24 @@
       ]
     },
     {
+      "title": "BEAUZ | 17.10",
+      "date": "2026-10-17T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "EDVVIN"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/beauz-kliarska-edvvin-oczki-9237",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "FLYMEON | TRANSFORMATOR - WROCŁAW | 17.10",
       "date": "2026-10-17T23:00:00+02:00",
       "city": "Wrocław",
@@ -1985,24 +2005,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/flymeon-klub-transformator-9295",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "BEAUZ | 17.10",
-      "date": "2026-10-17T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "BEAUZ"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/beauz-kliarska-edvvin-oczki-9237",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2107,7 +2109,7 @@
       "city": "Szczecin",
       "venue": "Trafostacja Sztuki w Szczecinie",
       "artists": [
-        "Zuza Jasinska"
+        "wræżlivøść"
       ],
       "genres": [
         "electronic"
@@ -2408,6 +2410,25 @@
       ]
     },
     {
+      "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "AfterDark",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "electro",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
       "date": "2026-10-24T23:00:00+02:00",
       "city": "Kraków",
@@ -2423,25 +2444,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Dance to Slayyyter WOR$T AFTERPARTY IN WARSAW",
-      "date": "2026-10-24T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "AfterDark",
-      "artists": [
-        "doomer saddancing"
-      ],
-      "genres": [
-        "electro",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2596,7 +2598,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "CTRL."
+        "Infected Mushroom"
       ],
       "genres": [
         "psytrance",
@@ -2667,7 +2669,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dj Duch"
+        "VVYDRA"
       ],
       "genres": [
         "house"
@@ -2806,7 +2808,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Insan3"
+        "Grażyna"
       ],
       "genres": [
         "electronic"
@@ -2859,7 +2861,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "London Elektricity"
+        "Makoto"
       ],
       "genres": [
         "drum-and-bass"
@@ -2992,7 +2994,7 @@
       "city": "Warszawa",
       "venue": "CHMURY",
       "artists": [
-        "AcidSitter"
+        "sexy cutts"
       ],
       "genres": [
         "acid"
@@ -3243,6 +3245,24 @@
       ]
     },
     {
+      "title": "XVI Międzynarodowy Festiwal Ambientalny - dzień I",
+      "date": "2026-11-21T19:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Wrocławski Klub Formaty",
+      "artists": [
+        "Aho Ssan"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://goingapp.pl/wydarzenie/xvi-miedzynarodowy-festiwal-ambientalny-dzien-i/wroclaw-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
       "title": "Błoto + Ion D",
       "date": "2026-11-21T20:30:00+01:00",
       "city": "Warszawa",
@@ -3313,6 +3333,22 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "XVI Międzynarodowy Festiwal Ambientalny - dzień II",
+      "date": "2026-11-22T19:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Wrocławski Klub Formaty",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://goingapp.pl/wydarzenie/xvi-miedzynarodowy-festiwal-ambientalny-dzien-ii/wroclaw-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
       ]
     },
     {
@@ -3521,24 +3557,6 @@
       ]
     },
     {
-      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
-      "date": "2026-11-28T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Katowice",
       "date": "2026-11-28T23:00:00+01:00",
       "city": "Katowice",
@@ -3553,6 +3571,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3592,6 +3628,24 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "Tama: ELY OAKS",
+      "date": "2026-12-04T23:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [],
+      "genres": [
+        "trance",
+        "drum-and-bass",
+        "house"
+      ],
+      "price_min": 59.0,
+      "url": "https://biletomat.pl/wydarzenia/tama-ely-oaks-33654?eventId=356092",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
