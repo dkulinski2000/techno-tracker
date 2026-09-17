@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T23:20:04+02:00",
-  "count": 232,
+  "updated": "2026-09-17T13:43:17+02:00",
+  "count": 234,
   "events": [
     {
       "title": "WARSZAWA W TRANSIE 💿 RAVE NA BARCE 6PM-6AM",
@@ -49,7 +49,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "ZAGROZA"
+        "DJ RICKY"
       ],
       "genres": [
         "industrial",
@@ -188,24 +188,6 @@
       ]
     },
     {
-      "title": "III Urodziny Oczki - Dzień 2",
-      "date": "2026-09-19T22:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Urodziny Oczki"
-      ],
-      "genres": [
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/oczki-8547",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "One Year Of Chaos - 19.09.2026 - SecretRaveCzwa",
       "date": "2026-09-19T22:00:00+02:00",
       "city": "Polska",
@@ -219,6 +201,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/secret-location-9453",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "III Urodziny Oczki - Dzień 2",
+      "date": "2026-09-19T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Urodziny Oczki"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/oczki-8547",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -336,7 +336,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "STASZKØ"
+        "marcelitumelis"
       ],
       "genres": [
         "bounce",
@@ -355,7 +355,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "Agima Sun"
+        "Larmo"
       ],
       "genres": [
         "industrial"
@@ -452,12 +452,28 @@
       ]
     },
     {
+      "title": "SANKTUARIUM | LUX",
+      "date": "2026-09-26T22:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Claudius Hair Treser",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/sanktuarium-aurora-9650",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "THIS IS MY HOUSE",
       "date": "2026-09-26T22:00:00+02:00",
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "pequeño"
+        "Bartes"
       ],
       "genres": [
         "house"
@@ -494,22 +510,6 @@
       ]
     },
     {
-      "title": "SANKTUARIUM | LUX",
-      "date": "2026-09-26T22:00:00+02:00",
-      "city": "Kraków",
-      "venue": "Claudius Hair Treser",
-      "artists": [],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sanktuarium-aurora-9650",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "SABAT ⋆ TECHNO ART FASHION RAVE oficjalny after po wernixie: Na Masełko Vol.3 + urodziny FLORY",
       "date": "2026-09-26T22:02:00+02:00",
       "city": "Olsztyn",
@@ -535,7 +535,7 @@
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "grazyna"
+        "h8me"
       ],
       "genres": [
         "bounce",
@@ -572,7 +572,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "0Gravity"
+        "Maywave"
       ],
       "genres": [
         "trance"
@@ -694,6 +694,24 @@
       ]
     },
     {
+      "title": "KUKI NA WIXAPOLU",
+      "date": "2026-10-02T22:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Crackhouse",
+      "artists": [
+        "kuki"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/kukinawixapolu-9467",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "HOUSE OF REDDO | NU CASA & AFTERSUNDAY | 2.10",
       "date": "2026-10-02T22:00:00+02:00",
       "city": "Warszawa",
@@ -712,18 +730,18 @@
       ]
     },
     {
-      "title": "KUKI NA WIXAPOLU",
-      "date": "2026-10-02T22:00:00+02:00",
-      "city": "Trójmiasto",
-      "venue": "Crackhouse",
+      "title": "TRIBUTE TO CRYSTAL CASTLES - Katowice",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Katowice",
+      "venue": "CEL",
       "artists": [
-        "Wixapol"
+        "doomer saddancing"
       ],
       "genres": [
-        "electronic"
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/kukinawixapolu-9467",
+      "url": "https://stage24.pl/wydarzenia/ttcc-katowice-8661",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -740,24 +758,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "TRIBUTE TO CRYSTAL CASTLES - Katowice",
-      "date": "2026-10-02T23:00:00+02:00",
-      "city": "Katowice",
-      "venue": "CEL",
-      "artists": [
-        "doomer saddancing"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/ttcc-katowice-8661",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -936,18 +936,18 @@
       ]
     },
     {
-      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
+      "title": "DJ KUBA & NEITAN. URODZINY KLUBU BEYOND",
       "date": "2026-10-03T22:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Progresja",
+      "city": "Wrocław",
+      "venue": "Beyond Music Club",
       "artists": [
-        "marcelitumelis"
+        "DJ KUBA&NEITAN"
       ],
       "genres": [
-        "techno"
+        "rave"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
+      "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-beyond-music-club-9395",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -972,35 +972,18 @@
       ]
     },
     {
-      "title": "DJ KUBA & NEITAN. URODZINY KLUBU BEYOND",
+      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
       "date": "2026-10-03T22:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Beyond Music Club",
+      "city": "Warszawa",
+      "venue": "Progresja",
       "artists": [
-        "DJ KUBA&NEITAN"
+        "SCHELLT"
       ],
       "genres": [
-        "rave"
+        "techno"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-beyond-music-club-9395",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
-      "date": "2026-10-03T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [],
-      "genres": [
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/cialo-8853",
+      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1019,6 +1002,23 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-wroclaw-8662",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
+      "date": "2026-10-03T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/cialo-8853",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1102,7 +1102,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "DUSS",
+        "GLOWAL",
         "Lane 8"
       ],
       "genres": [
@@ -1192,7 +1192,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "MIXXY"
+        "NOXI"
       ],
       "genres": [
         "techno"
@@ -1505,25 +1505,6 @@
       ]
     },
     {
-      "title": "HARD NIGHT WARSAW : INFERNO",
-      "date": "2026-10-16T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Klub Mechanik",
-      "artists": [
-        "LTK"
-      ],
-      "genres": [
-        "schranz",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/inferno-ltk-damnyss-aiza-0402-klub-mechanik-9471",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "SZEPTY ŁÓDŹ w. LETCH",
       "date": "2026-10-16T23:00:00+02:00",
       "city": "Łódź",
@@ -1544,11 +1525,31 @@
       ]
     },
     {
+      "title": "HARD NIGHT WARSAW : INFERNO",
+      "date": "2026-10-16T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Klub Mechanik",
+      "artists": [
+        "0402"
+      ],
+      "genres": [
+        "schranz",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/inferno-ltk-damnyss-aiza-0402-klub-mechanik-9471",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "CZELUŚĆ GDA: SKELER / LXST CXNTURY / JUTRØ / SAY3AM / SAGE / MRJAY / YTHO / LOSTMANE/ CRYSTXLMXNE",
       "date": "2026-10-16T23:00:00+02:00",
       "city": "Trójmiasto",
       "venue": "B90",
       "artists": [
+        "CRYSTXLMXNE",
         "CZELUŚĆ",
         "JUTRØ",
         "LOSTMANE",
@@ -1648,29 +1649,11 @@
       "genres": [
         "electronic"
       ],
-      "price_min": 43.0,
+      "price_min": 91.0,
       "url": "https://biletomat.pl/wydarzenia/pr1vat3-d4nc3r-lost-palace-33709?eventId=356633",
       "source": "biletomat",
       "sources": [
         "biletomat"
-      ]
-    },
-    {
-      "title": "FLYMEON | TRANSFORMATOR - WROCŁAW | 17.10",
-      "date": "2026-10-17T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Klub Transformator",
-      "artists": [
-        "FLYMEON"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/flymeon-klub-transformator-9295",
-      "source": "stage24",
-      "sources": [
-        "stage24"
       ]
     },
     {
@@ -1692,11 +1675,30 @@
       ]
     },
     {
+      "title": "FLYMEON | TRANSFORMATOR - WROCŁAW | 17.10",
+      "date": "2026-10-17T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Klub Transformator",
+      "artists": [
+        "FLYMEON"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/flymeon-klub-transformator-9295",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "CZELUŚĆ KRK: SKELER / LXST CXNTURY / JUTRØ / SAY3AM / SAGE / MRJAY / YTHO / LOSTMANE/ CRYSTXLMXNE",
       "date": "2026-10-17T23:00:00+02:00",
       "city": "Kraków",
       "venue": "Hype Park",
       "artists": [
+        "CRYSTXLMXNE",
         "CZELUŚĆ",
         "JUTRØ",
         "LOSTMANE",
@@ -1827,7 +1829,7 @@
       "city": "Szczecin",
       "venue": "Trafostacja Sztuki w Szczecinie",
       "artists": [
-        "Zofia Pysz"
+        "Francesco Toninelli"
       ],
       "genres": [
         "electronic"
@@ -1968,6 +1970,23 @@
       ]
     },
     {
+      "title": "NOVUM HALLOWEEN",
+      "date": "2026-10-24T19:00:00+02:00",
+      "city": "Debrznica",
+      "venue": "Pałac Debrznica",
+      "artists": [],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": 105.0,
+      "url": "https://biletomat.pl/wydarzenia/novum-halloween-23287?eventId=356933",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "Euforia Dźwięku",
       "date": "2026-10-24T20:00:00+02:00",
       "city": "Wrocław",
@@ -2102,8 +2121,8 @@
       "city": "Warszawa",
       "venue": "AfterDark",
       "artists": [
-        "doomer saddancing",
-        "SNAKEBYTE"
+        "DEATHYARD",
+        "doomer saddancing"
       ],
       "genres": [
         "electro",
@@ -2243,6 +2262,24 @@
       ]
     },
     {
+      "title": "Tropical Soldiers in Paradise | premiera albumu \"Mobil\"",
+      "date": "2026-10-25T19:30:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub SPATiF",
+      "artists": [
+        "Tropical Soldiers in Paradise"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 60.0,
+      "url": "https://goingapp.pl/wydarzenie/tropical-soldiers-in-paradise-2/warszawa-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
       "title": "Pablopavo i Ludziki | VooDoo Club",
       "date": "2026-10-28T20:00:00+01:00",
       "city": "Warszawa",
@@ -2334,7 +2371,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "CTRL."
+        "Infected Mushroom"
       ],
       "genres": [
         "psytrance",
@@ -2422,7 +2459,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "VVYDRA"
+        "Dj Duch"
       ],
       "genres": [
         "house"
@@ -2461,7 +2498,7 @@
       "city": "Wrocław",
       "venue": "SECRET WAREHOUSE",
       "artists": [
-        "heckboy"
+        "kamile"
       ],
       "genres": [
         "hard-techno",
@@ -2584,7 +2621,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Malevolento"
+        "Sinther"
       ],
       "genres": [
         "electronic"
@@ -2771,7 +2808,7 @@
       "city": "Warszawa",
       "venue": "Butelkownia",
       "artists": [
-        "Ed Rush"
+        "Roni Size"
       ],
       "genres": [
         "drum-and-bass",
@@ -2860,7 +2897,7 @@
       "city": "Warszawa",
       "venue": "CHMURY",
       "artists": [
-        "AcidSitter"
+        "sexy cutts"
       ],
       "genres": [
         "acid"
@@ -3352,7 +3389,7 @@
       "city": "Katowice",
       "venue": "Królestwo",
       "artists": [
-        "LIVWASP"
+        "Lunea"
       ],
       "genres": [
         "electro"
@@ -3442,7 +3479,7 @@
       "city": "Poznań",
       "venue": "Dragon Social Club",
       "artists": [
-        "The Surfin' Souls"
+        "AcidSitter"
       ],
       "genres": [
         "acid"
