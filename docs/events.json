@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T13:43:17+02:00",
-  "count": 234,
+  "updated": "2026-09-17T23:24:17+02:00",
+  "count": 239,
   "events": [
     {
       "title": "WARSZAWA W TRANSIE 💿 RAVE NA BARCE 6PM-6AM",
@@ -8,7 +8,7 @@
       "city": "Warszawa",
       "venue": "Kaskada",
       "artists": [
-        "sterilephobia"
+        "MIKOUAJ REJW"
       ],
       "genres": [
         "acid",
@@ -49,7 +49,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "DJ RICKY"
+        "ERNST"
       ],
       "genres": [
         "industrial",
@@ -225,6 +225,24 @@
       ]
     },
     {
+      "title": "MM: WONDERLAND",
+      "date": "2026-09-19T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "ST:F"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "2 YEAR ANNIVERSARY OF PARANØIA",
       "date": "2026-09-19T23:00:00+02:00",
       "city": "Wrocław",
@@ -236,24 +254,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/paranoia2ndanniversary-8510",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: WONDERLAND",
-      "date": "2026-09-19T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "WHIZZER"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/miedzymiastowa-9344",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -336,7 +336,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "marcelitumelis"
+        "STARA"
       ],
       "genres": [
         "bounce",
@@ -355,7 +355,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "Larmo"
+        "Düsseldorf"
       ],
       "genres": [
         "industrial"
@@ -439,13 +439,31 @@
       "city": "Rudna Mała",
       "venue": "Baza Bunkier Rudna Mała",
       "artists": [
-        "dobrafaza"
+        "Booguta"
       ],
       "genres": [
         "rave"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/baza-bunkier-9112",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "THIS IS MY HOUSE",
+      "date": "2026-09-26T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "pequeño"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/bartes-pequeno-slodownia-club-9489",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -462,24 +480,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/sanktuarium-aurora-9650",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "THIS IS MY HOUSE",
-      "date": "2026-09-26T22:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "Bartes"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/bartes-pequeno-slodownia-club-9489",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -572,7 +572,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Maywave"
+        "Jackob Roenald"
       ],
       "genres": [
         "trance"
@@ -665,7 +665,7 @@
       "city": "Wrocław",
       "venue": "Dosopotu",
       "artists": [
-        "DJ matz"
+        "DJ MATYS"
       ],
       "genres": [
         "electronic"
@@ -699,7 +699,7 @@
       "city": "Trójmiasto",
       "venue": "Crackhouse",
       "artists": [
-        "kuki"
+        "TORRENTZ"
       ],
       "genres": [
         "electronic"
@@ -730,6 +730,22 @@
       ]
     },
     {
+      "title": "ART GROOVE",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRIBUTE TO CRYSTAL CASTLES - Katowice",
       "date": "2026-10-02T23:00:00+02:00",
       "city": "Katowice",
@@ -748,22 +764,6 @@
       ]
     },
     {
-      "title": "ART GROOVE",
-      "date": "2026-10-02T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "PSY-CLAN: Avalon I Hype Park Kraków",
       "date": "2026-10-02T23:00:00+02:00",
       "city": "Kraków",
@@ -775,7 +775,7 @@
         "psytrance",
         "trance"
       ],
-      "price_min": 85.0,
+      "price_min": 105.0,
       "url": "https://goingapp.pl/wydarzenie/avalon-i-02-10-2026-i-hype-park-krakow/krakow-pazdziernik-2026",
       "source": "going",
       "sources": [
@@ -959,7 +959,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "T-BULL SAX"
+        "Marcyk"
       ],
       "genres": [
         "electronic"
@@ -977,13 +977,54 @@
       "city": "Warszawa",
       "venue": "Progresja",
       "artists": [
-        "SCHELLT"
+        "VRAXX"
       ],
       "genres": [
         "techno"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Rave jak w '93 Warszawa👽 Kaskada nad Wisłą",
+      "date": "2026-10-03T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Kaskada",
+      "artists": [
+        "matrix3k"
+      ],
+      "genres": [
+        "acid",
+        "hardcore",
+        "trance",
+        "techno",
+        "house",
+        "electro",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/rave-jak-w-93-warsaw-9709",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
+      "date": "2026-10-03T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/cialo-8853",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1002,23 +1043,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-wroclaw-8662",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
-      "date": "2026-10-03T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [],
-      "genres": [
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/cialo-8853",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1054,6 +1078,22 @@
       ],
       "price_min": 139.9,
       "url": "https://www.ebilet.pl/muzyka/elektro-techno/schiller",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
+      "title": "Joshua Idehen",
+      "date": "2026-10-08T18:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Klub Mechanik",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 100.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/joshua-idehen",
       "source": "ebilet",
       "sources": [
         "ebilet"
@@ -1102,7 +1142,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "GLOWAL",
+        "DUSS",
         "Lane 8"
       ],
       "genres": [
@@ -1192,7 +1232,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "NOXI"
+        "LARIN"
       ],
       "genres": [
         "techno"
@@ -1525,12 +1565,37 @@
       ]
     },
     {
+      "title": "IMBA pres. STINNY STONE | 16.10.2026 CIAŁO WROCŁAW",
+      "date": "2026-10-16T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Stinny Stone"
+      ],
+      "genres": [
+        "hard-techno",
+        "schranz",
+        "industrial",
+        "hardstyle",
+        "hardcore",
+        "drum-and-bass",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/imbastinnystonecialo-9705",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "HARD NIGHT WARSAW : INFERNO",
       "date": "2026-10-16T23:00:00+02:00",
       "city": "Warszawa",
       "venue": "Klub Mechanik",
       "artists": [
-        "0402"
+        "AIZA"
       ],
       "genres": [
         "schranz",
@@ -1609,38 +1674,6 @@
       ]
     },
     {
-      "title": "Drum&Bass Łódź 2026",
-      "date": "2026-10-17T22:00:00+02:00",
-      "city": "Łódź",
-      "venue": "Łódź",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 117.0,
-      "url": "https://biletomat.pl/wydarzenia/drumbass-lodz-2026-32457?eventId=348870",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
-      ]
-    },
-    {
-      "title": "Cristian Marchi \"Fast Cars & Superstars\" | X-Demon Poznań",
-      "date": "2026-10-17T22:00:00+02:00",
-      "city": "Poznań",
-      "venue": "X-Demon Poznań",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 32.0,
-      "url": "https://biletomat.pl/wydarzenia/cristian-marchi-fast-cars--superstars-x-demon-poznan-33608?eventId=355796",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
-      ]
-    },
-    {
       "title": "PR1VAT3 D4NC3R: LOST PALACE",
       "date": "2026-10-17T22:00:00+02:00",
       "city": "Bulowice",
@@ -1657,24 +1690,6 @@
       ]
     },
     {
-      "title": "BEAUZ | 17.10",
-      "date": "2026-10-17T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "EDVVIN"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/beauz-kliarska-edvvin-oczki-9237",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "FLYMEON | TRANSFORMATOR - WROCŁAW | 17.10",
       "date": "2026-10-17T23:00:00+02:00",
       "city": "Wrocław",
@@ -1687,6 +1702,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/flymeon-klub-transformator-9295",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "BEAUZ | 17.10",
+      "date": "2026-10-17T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "KLIARSKA"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/beauz-kliarska-edvvin-oczki-9237",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2371,7 +2404,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "Infected Mushroom"
+        "CTRL."
       ],
       "genres": [
         "psytrance",
@@ -2459,7 +2492,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dj Duch"
+        "Dyyune"
       ],
       "genres": [
         "house"
@@ -2498,7 +2531,7 @@
       "city": "Wrocław",
       "venue": "SECRET WAREHOUSE",
       "artists": [
-        "kamile"
+        "Odwi33rt"
       ],
       "genres": [
         "hard-techno",
@@ -2616,12 +2649,28 @@
       ]
     },
     {
+      "title": "Gooral – Before Beskid Calling Tour",
+      "date": "2026-11-06T20:20:00+01:00",
+      "city": "Jelenia Góra",
+      "venue": "Poszukiwacze Prawdy",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 74.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/gooral",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Strefa Zamknięta",
       "date": "2026-11-06T22:00:00+01:00",
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Sinther"
+        "Malevolento"
       ],
       "genres": [
         "electronic"
@@ -2808,7 +2857,7 @@
       "city": "Warszawa",
       "venue": "Butelkownia",
       "artists": [
-        "Roni Size"
+        "Dj Aprodithe"
       ],
       "genres": [
         "drum-and-bass",
@@ -3257,6 +3306,22 @@
       ]
     },
     {
+      "title": "Kalwi & Remi - Retro Party",
+      "date": "2026-11-21T21:30:00+01:00",
+      "city": "Katowice",
+      "venue": "Energy 2000 Katowice",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 59.0,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/kalwi-remi",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Gdańsk",
       "date": "2026-11-21T22:00:00+01:00",
       "city": "Trójmiasto",
@@ -3389,7 +3454,7 @@
       "city": "Katowice",
       "venue": "Królestwo",
       "artists": [
-        "Lunea"
+        "CARLA ROCA"
       ],
       "genres": [
         "electro"
@@ -3823,7 +3888,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "Regain"
+        "Nightcraft"
       ],
       "genres": [
         "hardstyle",
@@ -3902,6 +3967,46 @@
       "source": "ebilet",
       "sources": [
         "ebilet"
+      ]
+    },
+    {
+      "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – NICOLAS JULIAN & more",
+      "date": "2026-12-31T21:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Terminal Event Center - Hala Orion",
+      "artists": [
+        "Dr Obliterane"
+      ],
+      "genres": [
+        "industrial",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/nicolas-julian-charlie-sparks-negitiv-vraxx-schellt-dr-obliterane-terminal-event-center-hala-orion-9704",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – 31.12.2026 | NICOLAS JULIAN, CHARLIE SPARKS, NEGITIV & MORE",
+      "date": "2026-12-31T21:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Hala ORION",
+      "artists": [
+        "Charlie Sparks",
+        "Nicolas Julian"
+      ],
+      "genres": [
+        "industrial",
+        "rave",
+        "techno"
+      ],
+      "price_min": 149.0,
+      "url": "https://goingapp.pl/wydarzenie/schissma-x-cialo-nye-special-wroclaw-31-12-2026-nicolas-julian-charlie-sparks-negitiv-more/wroclaw-grudzien-2026",
+      "source": "going",
+      "sources": [
+        "going"
       ]
     },
     {
