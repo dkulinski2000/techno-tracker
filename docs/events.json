@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T23:31:22+02:00",
-  "count": 239,
+  "updated": "2026-09-24T13:47:46+02:00",
+  "count": 242,
   "events": [
     {
       "title": "Full Moon Art Fest 2026 - VI edycja",
@@ -79,7 +79,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "xcessive"
+        "ERNST"
       ],
       "genres": [
         "bounce",
@@ -98,7 +98,7 @@
       "city": "Rybnik",
       "venue": "Klub Odyseja",
       "artists": [
-        "Düsseldorf"
+        "Agima Sun"
       ],
       "genres": [
         "industrial"
@@ -200,7 +200,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "Bartes"
+        "pequeño"
       ],
       "genres": [
         "house"
@@ -296,7 +296,7 @@
       "city": "Poznań",
       "venue": "Schron Poznań",
       "artists": [
-        "hdsn"
+        "taaga"
       ],
       "genres": [
         "bounce",
@@ -315,7 +315,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Lucas Deyong"
+        "Tass"
       ],
       "genres": [
         "trance"
@@ -408,7 +408,7 @@
       "city": "Wrocław",
       "venue": "Dosopotu",
       "artists": [
-        "DJ MATYS"
+        "DJ matz"
       ],
       "genres": [
         "electronic"
@@ -437,36 +437,36 @@
       ]
     },
     {
-      "title": "KUKI NA WIXAPOLU",
-      "date": "2026-10-02T22:00:00+02:00",
-      "city": "Trójmiasto",
-      "venue": "Crackhouse",
-      "artists": [
-        "kuki"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/kukinawixapolu-9467",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "HOUSE OF REDDO | NU CASA & AFTERSUNDAY | 2.10",
       "date": "2026-10-02T22:00:00+02:00",
       "city": "Warszawa",
       "venue": "KLUB REDDO",
       "artists": [
-        "AFTERSUNDAY"
+        "NU CASA"
       ],
       "genres": [
         "house"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/nu-casa-aftersunday-klub-reddo-9665",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "KUKI NA WIXAPOLU",
+      "date": "2026-10-02T22:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Crackhouse",
+      "artists": [
+        "TORRENTZ"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/kukinawixapolu-9467",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -697,18 +697,18 @@
       ]
     },
     {
-      "title": "DJ KUBA & NEITAN. URODZINY KLUBU BEYOND",
+      "title": "SAXY NIGHT #3 - TBULL!",
       "date": "2026-10-03T22:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Beyond Music Club",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
       "artists": [
-        "DJ KUBA&NEITAN"
+        "T-BULL SAX"
       ],
       "genres": [
-        "rave"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-beyond-music-club-9395",
+      "url": "https://stage24.pl/wydarzenia/kulterman-marcyk-t-bull-sax-slodownia-club-9677",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -739,18 +739,18 @@
       ]
     },
     {
-      "title": "SAXY NIGHT #3 - TBULL!",
+      "title": "DJ KUBA & NEITAN. URODZINY KLUBU BEYOND",
       "date": "2026-10-03T22:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
+      "city": "Wrocław",
+      "venue": "Beyond Music Club",
       "artists": [
-        "Kulterman"
+        "DJ KUBA&NEITAN"
       ],
       "genres": [
-        "electronic"
+        "rave"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/kulterman-marcyk-t-bull-sax-slodownia-club-9677",
+      "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-beyond-music-club-9395",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -975,7 +975,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "marcelitumelis"
+        "APOTEKA"
       ],
       "genres": [
         "techno"
@@ -1343,31 +1343,6 @@
       ]
     },
     {
-      "title": "IMBA pres. STINNY STONE | 16.10.2026 CIAŁO WROCŁAW",
-      "date": "2026-10-16T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "HOELA$"
-      ],
-      "genres": [
-        "hard-techno",
-        "schranz",
-        "industrial",
-        "hardstyle",
-        "hardcore",
-        "drum-and-bass",
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/imbastinnystonecialo-9705",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "SZEPTY ŁÓDŹ w. LETCH",
       "date": "2026-10-16T23:00:00+02:00",
       "city": "Łódź",
@@ -1388,12 +1363,37 @@
       ]
     },
     {
+      "title": "IMBA pres. STINNY STONE | 16.10.2026 CIAŁO WROCŁAW",
+      "date": "2026-10-16T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "niunie_3"
+      ],
+      "genres": [
+        "hard-techno",
+        "schranz",
+        "industrial",
+        "hardstyle",
+        "hardcore",
+        "drum-and-bass",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/imbastinnystonecialo-9705",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "HARD NIGHT WARSAW : INFERNO",
       "date": "2026-10-16T23:00:00+02:00",
       "city": "Warszawa",
       "venue": "Klub Mechanik",
       "artists": [
-        "AIZA"
+        "DAMNYSS"
       ],
       "genres": [
         "schranz",
@@ -1611,7 +1611,7 @@
       "city": "Szczecin",
       "venue": "Trafostacja Sztuki w Szczecinie",
       "artists": [
-        "Cyprian Pakuła"
+        "Zuza Jasinska"
       ],
       "genres": [
         "electronic"
@@ -1850,6 +1850,22 @@
       ]
     },
     {
+      "title": "A.M.C & PHANTOM | GDAŃSK",
+      "date": "2026-10-24T22:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Drizzly Grizzly",
+      "artists": [],
+      "genres": [
+        "drum-and-bass"
+      ],
+      "price_min": 105.0,
+      "url": "https://biletomat.pl/wydarzenia/amc--phantom-gdansk-32674?eventId=350476",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "HÖR ON TOUR I GDAŃSK",
       "date": "2026-10-24T22:00:00+02:00",
       "city": "Trójmiasto",
@@ -1887,8 +1903,8 @@
       "city": "Warszawa",
       "venue": "AfterDark",
       "artists": [
-        "DEATHYARD",
-        "doomer saddancing"
+        "doomer saddancing",
+        "SNAKEBYTE"
       ],
       "genres": [
         "electro",
@@ -1896,27 +1912,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/slayyyter-afterparty-8956",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
-      "date": "2026-10-24T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "HYPE PARK",
-      "artists": [
-        "szepty"
-      ],
-      "genres": [
-        "schranz",
-        "industrial",
-        "hardstyle",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1948,6 +1943,27 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/platform-halloween-oczki-8772",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "HYPE PARK",
+      "artists": [
+        "szepty"
+      ],
+      "genres": [
+        "schranz",
+        "industrial",
+        "hardstyle",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2103,7 +2119,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "DJ DISTORTION"
+        "CZOPA CZUPS"
       ],
       "genres": [
         "hardcore",
@@ -2151,6 +2167,25 @@
       ]
     },
     {
+      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
+      "date": "2026-10-30T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Infected Mushroom"
+      ],
+      "genres": [
+        "psytrance",
+        "electro"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "ELY OAKS | 30.10.2026 | GDAŃSK, CRACKHOUSE",
       "date": "2026-10-30T23:00:00+01:00",
       "city": "Trójmiasto",
@@ -2169,19 +2204,18 @@
       ]
     },
     {
-      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
-      "date": "2026-10-30T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
+      "title": "AVENTURA BEAT – 5. EDYCJA 🎃 HALLOWEEN COSTUME PARTY",
+      "date": "2026-10-31T20:00:00+01:00",
+      "city": "Bydgoszcz",
+      "venue": "Botanic Bydgoszcz",
       "artists": [
-        "CTRL."
+        "SWA"
       ],
       "genres": [
-        "psytrance",
-        "electro"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
+      "url": "https://stage24.pl/wydarzenia/cream-nitrous-oxide-chervinsky-damian-s-katharsis-mari-w-reborn-sound-system-seb-hennig-swa-dj-swa-botanic-bydgoszcz-9731",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2199,24 +2233,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/klub-semafor-9666",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "AVENTURA BEAT – 5. EDYCJA 🎃 HALLOWEEN COSTUME PARTY",
-      "date": "2026-10-31T20:00:00+01:00",
-      "city": "Bydgoszcz",
-      "venue": "Botanic Bydgoszcz",
-      "artists": [
-        "Reborn Sound System"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/cream-nitrous-oxide-chervinsky-damian-s-katharsis-mari-w-reborn-sound-system-seb-hennig-swa-dj-swa-botanic-bydgoszcz-9731",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2278,7 +2294,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dj Duch"
+        "Scyntero"
       ],
       "genres": [
         "house"
@@ -2317,7 +2333,7 @@
       "city": "Wrocław",
       "venue": "SECRET WAREHOUSE",
       "artists": [
-        "DJ Tego Typu"
+        "LAURA PALMER"
       ],
       "genres": [
         "hard-techno",
@@ -2340,7 +2356,7 @@
       "city": "Lublin",
       "venue": "Sala Operowa CSK",
       "artists": [
-        "Duszne Granie"
+        "Barnim"
       ],
       "genres": [
         "house"
@@ -2474,7 +2490,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "VRAXX"
+        "Insan3"
       ],
       "genres": [
         "electronic"
@@ -2492,7 +2508,7 @@
       "city": "Poznań",
       "venue": "Klub Tama",
       "artists": [
-        "Makoto"
+        "London Elektricity"
       ],
       "genres": [
         "drum-and-bass"
@@ -2679,7 +2695,7 @@
       "city": "Warszawa",
       "venue": "Butelkownia",
       "artists": [
-        "Roni Size"
+        "Dj Aprodithe"
       ],
       "genres": [
         "drum-and-bass",
@@ -2768,7 +2784,7 @@
       "city": "Warszawa",
       "venue": "CHMURY",
       "artists": [
-        "AcidSitter"
+        "sexy cutts"
       ],
       "genres": [
         "acid"
@@ -3358,7 +3374,7 @@
       "city": "Katowice",
       "venue": "Królestwo",
       "artists": [
-        "RBLTEK"
+        "LIVWASP"
       ],
       "genres": [
         "electro"
@@ -3949,7 +3965,7 @@
       "city": "Wrocław",
       "venue": "Terminal Event Center - Hala Orion",
       "artists": [
-        "VRAXX"
+        "Schellt"
       ],
       "genres": [
         "industrial",
@@ -4048,6 +4064,42 @@
       ],
       "price_min": 139.0,
       "url": "https://goingapp.pl/wydarzenie/ed-t-euforia-dzwieku/warszawa-luty-2027",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TURMION KÄTILÖT - Resodance Tour 2027 | Warszawa",
+      "date": "2027-02-21T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Hydrozagadka",
+      "artists": [
+        "Turmion Kätilöt"
+      ],
+      "genres": [
+        "industrial"
+      ],
+      "price_min": 119.0,
+      "url": "https://goingapp.pl/wydarzenie/turmion-kaetiloet/warszawa-luty-2027",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
+      "title": "TURMION KÄTILÖT - Resodance Tour 2027 | Kraków",
+      "date": "2027-02-22T20:00:00+01:00",
+      "city": "Kraków",
+      "venue": "Klub Zaścianek",
+      "artists": [
+        "Turmion Kätilöt"
+      ],
+      "genres": [
+        "industrial"
+      ],
+      "price_min": 119.0,
+      "url": "https://goingapp.pl/wydarzenie/turmion-kaetiloet/krakow-luty-2027",
       "source": "going",
       "sources": [
         "going"
