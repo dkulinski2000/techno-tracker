@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T14:36:26+02:00",
-  "count": 239,
+  "updated": "2026-10-01T00:17:35+02:00",
+  "count": 247,
   "events": [
     {
       "title": "NACHTMAHR | Wrocław",
@@ -14,7 +14,7 @@
         "industrial",
         "techno"
       ],
-      "price_min": 105.0,
+      "price_min": 112.9,
       "url": "https://goingapp.pl/wydarzenie/nachtmahr/wroclaw-pazdziernik-2026",
       "source": "going",
       "sources": [
@@ -117,7 +117,7 @@
       "city": "Trójmiasto",
       "venue": "Crackhouse",
       "artists": [
-        "kuki"
+        "TORRENTZ"
       ],
       "genres": [
         "electronic"
@@ -165,22 +165,6 @@
       ]
     },
     {
-      "title": "ART GROOVE",
-      "date": "2026-10-02T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRIBUTE TO CRYSTAL CASTLES - Katowice",
       "date": "2026-10-02T23:00:00+02:00",
       "city": "Katowice",
@@ -193,6 +177,22 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-katowice-8661",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ART GROOVE",
+      "date": "2026-10-02T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-9317",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -242,8 +242,10 @@
         "Tiga"
       ],
       "genres": [
+        "acid",
+        "techno",
         "house",
-        "techno"
+        "rave"
       ],
       "price_min": 119.0,
       "url": "https://goingapp.pl/wydarzenie/tiga-3/poznan-pazdziernik-2026",
@@ -371,12 +373,36 @@
       ]
     },
     {
+      "title": "Rave jak w '93 Warszawa👽 Kaskada nad Wisłą",
+      "date": "2026-10-03T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Kaskada",
+      "artists": [
+        "MIKOUAJ REJW"
+      ],
+      "genres": [
+        "acid",
+        "hardcore",
+        "trance",
+        "techno",
+        "house",
+        "electro",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/rave-jak-w-93-warsaw-9709",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "SAXY NIGHT #3 - TBULL!",
       "date": "2026-10-03T22:00:00+02:00",
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "Marcyk"
+        "T-BULL SAX"
       ],
       "genres": [
         "electronic"
@@ -407,30 +433,6 @@
       ]
     },
     {
-      "title": "Rave jak w '93 Warszawa👽 Kaskada nad Wisłą",
-      "date": "2026-10-03T22:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Kaskada",
-      "artists": [
-        "MIKOUAJ REJW"
-      ],
-      "genres": [
-        "acid",
-        "hardcore",
-        "trance",
-        "techno",
-        "house",
-        "electro",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/rave-jak-w-93-warsaw-9709",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
       "date": "2026-10-03T22:00:00+02:00",
       "city": "Warszawa",
@@ -449,23 +451,6 @@
       ]
     },
     {
-      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
-      "date": "2026-10-03T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [],
-      "genres": [
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/cialo-8853",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRIBUTE TO CRYSTAL CASTLES - Wrocław",
       "date": "2026-10-03T23:00:00+02:00",
       "city": "Wrocław",
@@ -478,6 +463,23 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-wroclaw-8662",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE II | 03.10 CIAŁO",
+      "date": "2026-10-03T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/cialo-8853",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -577,7 +579,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "GLOWAL",
+        "DUSS",
         "Lane 8"
       ],
       "genres": [
@@ -684,7 +686,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "APOTEKA"
+        "marcelitumelis"
       ],
       "genres": [
         "techno"
@@ -867,18 +869,18 @@
       ]
     },
     {
-      "title": "TRIBUTE TO CRYSTAL CASTLES - Kraków",
+      "title": "WIXAPOL BIALYSZTOS + KOLOREK HARDSTYLE LIVE",
       "date": "2026-10-10T22:00:00+02:00",
-      "city": "Kraków",
-      "venue": "Klub Spotkań Poczta Główna",
+      "city": "Białystok",
+      "venue": "Balance Klub",
       "artists": [
-        "doomer saddancing"
+        "Kolorek"
       ],
       "genres": [
-        "house"
+        "hardstyle"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/ttcc-krakow-8664",
+      "url": "https://stage24.pl/wydarzenia/wixapol-bialystok-kolorek-9845",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -901,12 +903,30 @@
       ]
     },
     {
+      "title": "TRIBUTE TO CRYSTAL CASTLES - Kraków",
+      "date": "2026-10-10T22:00:00+02:00",
+      "city": "Kraków",
+      "venue": "Klub Spotkań Poczta Główna",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ttcc-krakow-8664",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "MM: WONDERLAND",
       "date": "2026-10-10T23:00:00+02:00",
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "OBSESSION"
+        "MICHI MOSS"
       ],
       "genres": [
         "electronic"
@@ -1023,6 +1043,22 @@
       ]
     },
     {
+      "title": "BLVM X CHRONIC INSOMNIA | KATOWICE | Gościnnie: ROKSZA",
+      "date": "2026-10-16T19:00:00+02:00",
+      "city": "Katowice",
+      "venue": "Pub Korba",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 40.0,
+      "url": "https://goingapp.pl/wydarzenie/blvm-x-chronic-insomnia-tour-2026/katowice-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
       "title": "Blake x Listopad + Third Eye of the Poet",
       "date": "2026-10-16T20:00:00+02:00",
       "city": "Kraków",
@@ -1089,51 +1125,12 @@
       ]
     },
     {
-      "title": "SCHISSMA x REVOLVER: GDAŃSK (CRACKHOUSE) – 16.10.2026",
-      "date": "2026-10-16T23:00:00+02:00",
-      "city": "Trójmiasto",
-      "venue": "Crackhouse",
-      "artists": [
-        "SCHELLT"
-      ],
-      "genres": [
-        "schranz",
-        "industrial",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/bobaio-mamo-schellt-synthia-vivu-vraxx-crackhouse-9813",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "HARD NIGHT WARSAW : INFERNO",
-      "date": "2026-10-16T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Klub Mechanik",
-      "artists": [
-        "DAMNYSS"
-      ],
-      "genres": [
-        "schranz",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/inferno-ltk-damnyss-aiza-0402-klub-mechanik-9471",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "IMBA pres. STINNY STONE | 16.10.2026 CIAŁO WROCŁAW",
       "date": "2026-10-16T23:00:00+02:00",
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "core-d"
+        "niunie_3"
       ],
       "genres": [
         "hard-techno",
@@ -1167,6 +1164,45 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/szeptylodz-9482",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "HARD NIGHT WARSAW : INFERNO",
+      "date": "2026-10-16T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Klub Mechanik",
+      "artists": [
+        "AIZA"
+      ],
+      "genres": [
+        "schranz",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/inferno-ltk-damnyss-aiza-0402-klub-mechanik-9471",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SCHISSMA x REVOLVER: GDAŃSK (CRACKHOUSE) – 16.10.2026",
+      "date": "2026-10-16T23:00:00+02:00",
+      "city": "Trójmiasto",
+      "venue": "Crackhouse",
+      "artists": [
+        "BOBAIO"
+      ],
+      "genres": [
+        "schranz",
+        "industrial",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/bobaio-mamo-schellt-synthia-vivu-vraxx-crackhouse-9813",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1261,7 +1297,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "KLIARSKA"
+        "CTRL."
       ],
       "genres": [
         "techno"
@@ -1393,7 +1429,7 @@
       "city": "Szczecin",
       "venue": "Trafostacja Sztuki w Szczecinie",
       "artists": [
-        "Francesco Toninelli"
+        "Robert Piotrowicz"
       ],
       "genres": [
         "electronic"
@@ -1426,6 +1462,22 @@
       ]
     },
     {
+      "title": "BLVM X CHRONIC INSOMNIA | OSTRÓW WIELKOPOLSKI | Gościnnie: BUDYNEK C",
+      "date": "2026-10-23T19:00:00+02:00",
+      "city": "Ostrów Wielkopolski",
+      "venue": "Rancho Ostrów",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 40.0,
+      "url": "https://goingapp.pl/wydarzenie/blvm-x-chronic-insomnia-tour-2026/ostrow-wielkopolski-pazdziernik-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
       "title": "We Draw A | READY FOR THE PEOPLE tour | Dwie Zmiany | Sopot",
       "date": "2026-10-23T20:00:00+02:00",
       "city": "Trójmiasto",
@@ -1438,6 +1490,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/we-draw-a-dwie-zmiany-8616",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SIEMA ZIEMIA - Akustyczna improwizacja i klubowa elektronika",
+      "date": "2026-10-23T20:30:00+02:00",
+      "city": "Poznań",
+      "venue": "LUSI",
+      "artists": [
+        "Siema Ziemia"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/lusi-9840",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1601,7 +1671,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "Sandecki Sax"
+        "Bartes"
       ],
       "genres": [
         "house"
@@ -1670,18 +1740,21 @@
       ]
     },
     {
-      "title": "MM: PARADISO",
+      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
       "date": "2026-10-24T23:00:00+02:00",
       "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
+      "venue": "HYPE PARK",
       "artists": [
-        "MADI"
+        "szepty"
       ],
       "genres": [
-        "electronic"
+        "schranz",
+        "industrial",
+        "hardstyle",
+        "techno"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/lay-dj-madi-miedzymiastowa-9786",
+      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1719,21 +1792,18 @@
       ]
     },
     {
-      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
+      "title": "MM: PARADISO",
       "date": "2026-10-24T23:00:00+02:00",
       "city": "Kraków",
-      "venue": "HYPE PARK",
+      "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "szepty"
+        "Lay Dj"
       ],
       "genres": [
-        "schranz",
-        "industrial",
-        "hardstyle",
-        "techno"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
+      "url": "https://stage24.pl/wydarzenia/lay-dj-madi-miedzymiastowa-9786",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1815,6 +1885,22 @@
       ]
     },
     {
+      "title": "XXI Warszawski Salon Ambientu",
+      "date": "2026-10-29T18:30:00+01:00",
+      "city": "Warszawa",
+      "venue": "Komuna Warszawa",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 54.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/warszawski-salon-ambientu",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Hyphen Dash",
       "date": "2026-10-29T20:30:00+01:00",
       "city": "Warszawa",
@@ -1856,7 +1942,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "DJ.SEXY_99"
+        "TORRENTZ"
       ],
       "genres": [
         "hardcore",
@@ -1882,6 +1968,26 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-sopot-8665",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "PARANØIA: KRAKÓW ( STK WAREHOUSE ) - 30.10.2026",
+      "date": "2026-10-30T23:00:00+01:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [
+        "h8me"
+      ],
+      "genres": [
+        "bounce",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/h8me-ags-alexsarna-synthia-j-gro-obc18-n3rs-china-stk-47-warehouse-9830",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1919,26 +2025,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ely-oaks-crackhouse-9294",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "PARANØIA: KRAKÓW ( STK WAREHOUSE ) - 30.10.2026",
-      "date": "2026-10-30T23:00:00+01:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [
-        "OBC18+"
-      ],
-      "genres": [
-        "bounce",
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/h8me-ags-alexsarna-synthia-j-gro-obc18-n3rs-china-stk-47-warehouse-9830",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2069,7 +2155,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dyyune"
+        "Dj Duch"
       ],
       "genres": [
         "house"
@@ -2103,30 +2189,12 @@
       ]
     },
     {
-      "title": "LUBLIN_HOUSE S02E01: Foyer Sali Operowej (CSK)",
-      "date": "2026-10-31T22:00:00+01:00",
-      "city": "Lublin",
-      "venue": "Sala Operowa CSK",
-      "artists": [
-        "Duszne Granie"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/duszne-granie-barnim-mrlex-duss-sala-operowa-csk-9756",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "FREAK of RAVE: WAREHOUSE SMASHER III (HALLOWEEN)",
       "date": "2026-10-31T22:00:00+01:00",
       "city": "Wrocław",
       "venue": "SECRET WAREHOUSE",
       "artists": [
-        "d00b"
+        "kamile"
       ],
       "genres": [
         "hard-techno",
@@ -2138,6 +2206,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rave-wroclaw-magazyn-warehouse-gabber-hardtechno-underground-secret-location-odwi33rt-freak-of-rave-smasher-honoto-kamile-d00b-dj-tego-typu-vlinderz-michuwa-hardstyle-9585",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "LUBLIN_HOUSE S02E01: Foyer Sali Operowej (CSK)",
+      "date": "2026-10-31T22:00:00+01:00",
+      "city": "Lublin",
+      "venue": "Sala Operowa CSK",
+      "artists": [
+        "Barnim"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/duszne-granie-barnim-mrlex-duss-sala-operowa-csk-9756",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2294,6 +2380,22 @@
       ]
     },
     {
+      "title": "BLVM X CHRONIC INSOMNIA | ŁÓDŹ | Gościnnie: TABULA RASA",
+      "date": "2026-11-06T19:00:00+01:00",
+      "city": "Łódź",
+      "venue": "Łódzka Piwnica Artystyczna Przechowalnia",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 40.0,
+      "url": "https://goingapp.pl/wydarzenie/blvm-x-chronic-insomnia-tour-2026/lodz-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
       "title": "Trip Hop meets Orchestra",
       "date": "2026-11-06T20:00:00+01:00",
       "city": "Szczecin",
@@ -2331,7 +2433,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "Anadelle"
+        "VRAXX"
       ],
       "genres": [
         "electronic"
@@ -2418,7 +2520,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Jake Fill"
+        "TBA"
       ],
       "genres": [
         "electronic"
@@ -2906,6 +3008,22 @@
       ]
     },
     {
+      "title": "BLVM X CHRONIC INSOMNIA | WARSZAWA | Gościnnie: DEEP HAZE",
+      "date": "2026-11-20T19:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "After Dark",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 40.0,
+      "url": "https://goingapp.pl/wydarzenie/blvm-x-chronic-insomnia-tour-2026/warszawa-listopad-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
       "title": "Linia Nocna w Niebie",
       "date": "2026-11-20T20:00:00+01:00",
       "city": "Warszawa",
@@ -3231,7 +3349,7 @@
       "city": "Katowice",
       "venue": "Królestwo",
       "artists": [
-        "LIVWASP"
+        "Lunea"
       ],
       "genres": [
         "electro"
@@ -3278,6 +3396,24 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
       "date": "2026-11-27T23:00:00+01:00",
       "city": "Wrocław",
@@ -3292,24 +3428,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-wroclaw-9333",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
-      "date": "2026-11-27T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3674,6 +3792,22 @@
       ]
     },
     {
+      "title": "BLVM X CHRONIC INSOMNIA | KRAKÓW | Gościnnie: RUMORE + NIADARA",
+      "date": "2026-12-10T19:00:00+01:00",
+      "city": "Kraków",
+      "venue": "Klub Buda",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 40.0,
+      "url": "https://goingapp.pl/wydarzenie/blvm-x-chronic-insomnia-tour-2026/krakow-grudzien-2026",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
       "title": "ARK: MYD | Warszawa",
       "date": "2026-12-11T23:00:00+01:00",
       "city": "Warszawa",
@@ -3887,7 +4021,7 @@
       "city": "Wrocław",
       "venue": "Terminal Event Center - Hala Orion",
       "artists": [
-        "Schellt"
+        "VRAXX"
       ],
       "genres": [
         "industrial",
