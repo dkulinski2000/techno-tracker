@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T00:15:44+02:00",
-  "count": 232,
+  "updated": "2026-10-03T13:41:24+02:00",
+  "count": 230,
   "events": [
     {
       "title": "Raveowisko - Pierwszy rodzinny RAVE w Polsce- WROCŁAW",
@@ -123,6 +123,42 @@
       ]
     },
     {
+      "title": "SAXY NIGHT #3 - TBULL!",
+      "date": "2026-10-03T22:00:00+02:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "Marcyk"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/kulterman-marcyk-t-bull-sax-slodownia-club-9677",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
+      "date": "2026-10-03T22:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [
+        "Józef kelner"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Rave jak w '93 Warszawa👽 Kaskada nad Wisłą",
       "date": "2026-10-03T22:00:00+02:00",
       "city": "Warszawa",
@@ -141,42 +177,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rave-jak-w-93-warsaw-9709",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SCHISSMA PRES.: VIEZE ASBAK – 03.10.2026, WARSAW",
-      "date": "2026-10-03T22:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Progresja",
-      "artists": [
-        "xcessive"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/schissma-vieze-asbak-progresja-8243",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SAXY NIGHT #3 - TBULL!",
-      "date": "2026-10-03T22:00:00+02:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "Marcyk"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/kulterman-marcyk-t-bull-sax-slodownia-club-9677",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -229,7 +229,7 @@
         "house",
         "techno"
       ],
-      "price_min": 119.0,
+      "price_min": 130.0,
       "url": "https://goingapp.pl/wydarzenie/tiga-3/warszawa-pazdziernik-2026",
       "source": "going",
       "sources": [
@@ -1674,7 +1674,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "DJ DISTORTION"
+        "Wixapol"
       ],
       "genres": [
         "hardcore",
@@ -1688,31 +1688,12 @@
       ]
     },
     {
-      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
-      "date": "2026-10-30T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Infected Mushroom"
-      ],
-      "genres": [
-        "psytrance",
-        "electro"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "PARANØIA: KRAKÓW ( STK WAREHOUSE ) - 30.10.2026",
       "date": "2026-10-30T23:00:00+01:00",
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "OBC18+"
+        "ALEXSARNA"
       ],
       "genres": [
         "bounce",
@@ -1745,6 +1726,25 @@
       ]
     },
     {
+      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
+      "date": "2026-10-30T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Infected Mushroom"
+      ],
+      "genres": [
+        "psytrance",
+        "electro"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Ciało: Skin On Skin",
       "date": "2026-10-30T23:00:00+01:00",
       "city": "Wrocław",
@@ -1768,7 +1768,7 @@
       "city": "Bydgoszcz",
       "venue": "Botanic Bydgoszcz",
       "artists": [
-        "Chervinsky"
+        "Seb Hennig"
       ],
       "genres": [
         "electronic"
@@ -1821,7 +1821,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dyyune"
+        "VVYDRA"
       ],
       "genres": [
         "house"
@@ -1849,7 +1849,6 @@
       "url": "https://goingapp.pl/wydarzenie/the-m-2/przytkowice-pazdziernik-2026",
       "source": "going",
       "sources": [
-        "biletomat",
         "ebilet",
         "going"
       ]
@@ -1860,7 +1859,7 @@
       "city": "Wrocław",
       "venue": "SECRET WAREHOUSE",
       "artists": [
-        "suprynos"
+        "Odwi33rt"
       ],
       "genres": [
         "hard-techno",
@@ -1911,38 +1910,6 @@
       "source": "going",
       "sources": [
         "going"
-      ]
-    },
-    {
-      "title": "THE HALLOWEEN",
-      "date": "2026-10-31T22:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "Szwedzka 2",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 139.0,
-      "url": "https://biletomat.pl/wydarzenia/the-halloween-33902?eventId=358078",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
-      ]
-    },
-    {
-      "title": "Sfinksowe Halloween | Podwórko Art - Gdynia",
-      "date": "2026-10-31T22:00:00+01:00",
-      "city": "Trójmiasto",
-      "venue": "Podwórko Art",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 50.0,
-      "url": "https://biletomat.pl/wydarzenia/sfinksowe-halloween-podworko-art-gdynia-33903?eventId=358089",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
       ]
     },
     {
@@ -2133,7 +2100,7 @@
       "city": "Poznań",
       "venue": "Klub Tama",
       "artists": [
-        "Nu:Tone"
+        "London Elektricity"
       ],
       "genres": [
         "drum-and-bass"
@@ -2168,7 +2135,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "Nu:Tone"
+        "Makoto"
       ],
       "genres": [
         "drum-and-bass"
@@ -2375,7 +2342,7 @@
       "city": "Warszawa",
       "venue": "CHMURY",
       "artists": [
-        "AcidSitter"
+        "sexy cutts"
       ],
       "genres": [
         "acid"
@@ -3051,7 +3018,7 @@
       "city": "Katowice",
       "venue": "Królestwo",
       "artists": [
-        "LIVWASP"
+        "RBLTEK"
       ],
       "genres": [
         "electro"
@@ -3117,24 +3084,6 @@
       ]
     },
     {
-      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
-      "date": "2026-11-27T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
       "date": "2026-11-27T23:00:00+01:00",
       "city": "Wrocław",
@@ -3149,6 +3098,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-wroclaw-9333",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3233,24 +3200,6 @@
       ]
     },
     {
-      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
-      "date": "2026-11-28T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Katowice",
       "date": "2026-11-28T23:00:00+01:00",
       "city": "Katowice",
@@ -3265,6 +3214,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3742,7 +3709,7 @@
       "city": "Wrocław",
       "venue": "Terminal Event Center - Hala Orion",
       "artists": [
-        "Dr Obliterane"
+        "VRAXX"
       ],
       "genres": [
         "industrial",
@@ -3782,7 +3749,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "DJ Tag"
+        "Nico Brix"
       ],
       "genres": [
         "techno",
