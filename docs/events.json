@@ -1,57 +1,23 @@
 {
-  "updated": "2026-10-17T12:45:50+02:00",
-  "count": 217,
+  "updated": "2026-10-17T22:37:58+02:00",
+  "count": 213,
   "events": [
     {
-      "title": "ARTROSIS + CARO MANE | WARSZAWA",
-      "date": "2026-10-17T19:00:00+02:00",
+      "title": "BEAUZ | 17.10",
+      "date": "2026-10-17T23:00:00+02:00",
       "city": "Warszawa",
-      "venue": "Klub Mechanik",
+      "venue": "OCZKI",
       "artists": [
-        "Artrosis"
+        "KLIARSKA"
       ],
       "genres": [
-        "industrial"
+        "techno"
       ],
       "price_min": null,
-      "url": "https://goingapp.pl/wydarzenie/artrosis-caro-mane-klub-mechanik-warszawa-17-10-2026/warszawa-pazdziernik-2026",
-      "source": "going",
-      "sources": [
-        "going"
-      ]
-    },
-    {
-      "title": "ANDRYX RESIDENCY",
-      "date": "2026-10-17T22:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Cherry Club Wrocław",
-      "artists": [
-        "ANDRYX"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/andryx-paxtone-cherry-club-wroclaw-10020",
+      "url": "https://stage24.pl/wydarzenia/beauz-kliarska-edvvin-oczki-9237",
       "source": "stage24",
       "sources": [
         "stage24"
-      ]
-    },
-    {
-      "title": "Bassota Classy",
-      "date": "2026-10-17T22:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "Pod Gigantami",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 64.9,
-      "url": "https://www.ebilet.pl/muzyka/elektro-techno/bassota",
-      "source": "ebilet",
-      "sources": [
-        "ebilet"
       ]
     },
     {
@@ -67,24 +33,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/livvy-miedzymiastowa-9785",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "BEAUZ | 17.10",
-      "date": "2026-10-17T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "KLIARSKA"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/beauz-kliarska-edvvin-oczki-9237",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -192,7 +140,7 @@
       "city": "Szczecin",
       "venue": "Trafostacja Sztuki w Szczecinie",
       "artists": [
-        "Emilia Gołos"
+        "Cyprian Pakuła"
       ],
       "genres": [
         "electronic"
@@ -264,7 +212,7 @@
       "city": "Kraków",
       "venue": "PLAYHAUS",
       "artists": [
-        "KinkyOutsider"
+        "LAYDJ"
       ],
       "genres": [
         "electronic"
@@ -309,24 +257,6 @@
       ]
     },
     {
-      "title": "WEIKUM 4.0",
-      "date": "2026-10-23T23:00:00+02:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Weikum"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/weikum-oczki-9729",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "SZEPTY + HARDWAGON WROCŁAW w. SALVYAN, ANOLUXX, MONYAL",
       "date": "2026-10-23T23:00:00+02:00",
       "city": "Wrocław",
@@ -342,6 +272,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/szeptywroclaw-9483",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "WEIKUM 4.0",
+      "date": "2026-10-23T23:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Weikum"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/weikum-oczki-9729",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -856,12 +804,32 @@
       ]
     },
     {
+      "title": "Hardwagon Katowice: TRIPPED Hardcore Halloween",
+      "date": "2026-10-30T23:00:00+01:00",
+      "city": "Katowice",
+      "venue": "CEL",
+      "artists": [
+        "hardwagon"
+      ],
+      "genres": [
+        "industrial",
+        "hardcore",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/szepty-hardwagon-cel-9991",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "PARANØIA: KRAKÓW ( STK WAREHOUSE ) - 30.10.2026",
       "date": "2026-10-30T23:00:00+01:00",
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "SYNTHIA"
+        "china"
       ],
       "genres": [
         "bounce",
@@ -870,24 +838,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/h8me-ags-alexsarna-synthia-j-gro-obc18-n3rs-china-stk-47-warehouse-9830",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "ELY OAKS | 30.10.2026 | GDAŃSK, CRACKHOUSE",
-      "date": "2026-10-30T23:00:00+01:00",
-      "city": "Trójmiasto",
-      "venue": "Crackhouse",
-      "artists": [
-        "ely oaks"
-      ],
-      "genres": [
-        "bounce"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/ely-oaks-crackhouse-9294",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -913,20 +863,18 @@
       ]
     },
     {
-      "title": "Hardwagon Katowice: TRIPPED Hardcore Halloween",
+      "title": "ELY OAKS | 30.10.2026 | GDAŃSK, CRACKHOUSE",
       "date": "2026-10-30T23:00:00+01:00",
-      "city": "Katowice",
-      "venue": "CEL",
+      "city": "Trójmiasto",
+      "venue": "Crackhouse",
       "artists": [
-        "szepty"
+        "ely oaks"
       ],
       "genres": [
-        "industrial",
-        "hardcore",
-        "techno"
+        "bounce"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/szepty-hardwagon-cel-9991",
+      "url": "https://stage24.pl/wydarzenia/ely-oaks-crackhouse-9294",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -943,7 +891,7 @@
       "genres": [
         "techno"
       ],
-      "price_min": 60.0,
+      "price_min": 70.0,
       "url": "https://goingapp.pl/wydarzenie/cialo-skin-on-skin/wroclaw-pazdziernik-2026",
       "source": "going",
       "sources": [
@@ -1028,7 +976,7 @@
       "city": "Wrocław",
       "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
       "artists": [
-        "Dyyune"
+        "Dj Duch"
       ],
       "genres": [
         "house"
@@ -1079,6 +1027,24 @@
       ]
     },
     {
+      "title": "WIXAPOL HALLOWEEN NA BARCE ☠️ STATEK WIDOMO",
+      "date": "2026-10-31T22:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Kaskada",
+      "artists": [
+        "DJ SPORT SPICE"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wixapol-halloween-warszawa-10058",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "LUBLIN_HOUSE S02E01: Foyer Sali Operowej (CSK)",
       "date": "2026-10-31T22:00:00+01:00",
       "city": "Lublin",
@@ -1102,7 +1068,7 @@
       "city": "Wrocław",
       "venue": "SECRET WAREHOUSE",
       "artists": [
-        "VLINDERZ"
+        "Odwi33rt"
       ],
       "genres": [
         "hard-techno",
@@ -1156,18 +1122,17 @@
       ]
     },
     {
-      "title": "WIXAPOL HALLOWEEN NA BARCE ☠️ STATEK WIDOMO",
+      "title": "SANKTUARIUM | BESTIA",
       "date": "2026-10-31T22:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "Kaskada",
-      "artists": [
-        "MAJSTERSZTYK"
-      ],
+      "city": "Kraków",
+      "venue": "Claudius Hair Treser",
+      "artists": [],
       "genres": [
-        "electronic"
+        "techno",
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wixapol-halloween-warszawa-10058",
+      "url": "https://stage24.pl/wydarzenia/sanktuarium-bestia-9943",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1184,23 +1149,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/secret-location-10025",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SANKTUARIUM | BESTIA",
-      "date": "2026-10-31T22:00:00+01:00",
-      "city": "Kraków",
-      "venue": "Claudius Hair Treser",
-      "artists": [],
-      "genres": [
-        "techno",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sanktuarium-bestia-9943",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1225,18 +1173,19 @@
       ]
     },
     {
-      "title": "MM: HALLLOWEEN",
+      "title": "Hardwagon Kraków: AKIMBO Hardcore Halloween",
       "date": "2026-10-31T23:00:00+01:00",
       "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
+      "venue": "HYPE PARK",
       "artists": [
-        "IAN"
+        "hardwagon"
       ],
       "genres": [
-        "electronic"
+        "hardstyle",
+        "hardcore"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paxtone-ian-miedzymiastowa-9920",
+      "url": "https://stage24.pl/wydarzenia/akimbo-hw-9992",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1261,19 +1210,18 @@
       ]
     },
     {
-      "title": "Hardwagon Kraków: AKIMBO Hardcore Halloween",
+      "title": "MM: HALLLOWEEN",
       "date": "2026-10-31T23:00:00+01:00",
       "city": "Kraków",
-      "venue": "HYPE PARK",
+      "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "szepty"
+        "PAXTONE"
       ],
       "genres": [
-        "hardstyle",
-        "hardcore"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/akimbo-hw-9992",
+      "url": "https://stage24.pl/wydarzenia/paxtone-ian-miedzymiastowa-9920",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1288,7 +1236,7 @@
       "genres": [
         "techno"
       ],
-      "price_min": 85.0,
+      "price_min": 92.0,
       "url": "https://goingapp.pl/wydarzenie/lust-supper-x-cialo-pres-supperversion-wroclaw/wroclaw-pazdziernik-2026",
       "source": "going",
       "sources": [
@@ -2293,22 +2241,6 @@
       ]
     },
     {
-      "title": "EARGASM GOD I Techno Balkon 211126",
-      "date": "2026-11-21T23:00:00+01:00",
-      "city": "Trójmiasto",
-      "venue": "Techno Balkon",
-      "artists": [],
-      "genres": [
-        "techno"
-      ],
-      "price_min": 57.0,
-      "url": "https://biletomat.pl/wydarzenia/eargasm-god-i-techno-balkon-211126-33860?eventId=357800",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
-      ]
-    },
-    {
       "title": "XVI Międzynarodowy Festiwal Ambientalny - dzień II",
       "date": "2026-11-22T19:00:00+01:00",
       "city": "Wrocław",
@@ -2354,22 +2286,6 @@
       "source": "ebilet",
       "sources": [
         "ebilet"
-      ]
-    },
-    {
-      "title": "The Dumplings",
-      "date": "2026-11-26T20:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Klub Tama",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 158.0,
-      "url": "https://biletomat.pl/wydarzenia/the-dumplings-32589?eventId=349953",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
       ]
     },
     {
@@ -2597,7 +2513,7 @@
       "city": "Poznań",
       "venue": "Dragon Social Club",
       "artists": [
-        "The Surfin' Souls"
+        "AcidSitter"
       ],
       "genres": [
         "acid"
@@ -3197,7 +3113,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "Regain"
+        "Konzi DJ"
       ],
       "genres": [
         "hardstyle",
@@ -3279,6 +3195,22 @@
       ]
     },
     {
+      "title": "Alicja w Krainie Czarów - A psychedelic & progressive teaparty",
+      "date": "2026-12-31T19:45:00+01:00",
+      "city": "Poznań",
+      "venue": "w sercu",
+      "artists": [],
+      "genres": [
+        "trance"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/w-sercu-10079",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – NICOLAS JULIAN & more",
       "date": "2026-12-31T21:00:00+01:00",
       "city": "Wrocław",
@@ -3298,22 +3230,6 @@
       ]
     },
     {
-      "title": "Sylwester w Lux Club Suwałki / Największa impreza w Centrum!",
-      "date": "2026-12-31T21:00:00+01:00",
-      "city": "Suwałki",
-      "venue": "Lux Night Club",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sylwesterwluxie-10055",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "Sylwester 26/27 With Deep In My Soul and Proggcast",
       "date": "2026-12-31T21:00:00+01:00",
       "city": "Szczecin",
@@ -3324,6 +3240,22 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/after-ego-10059",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Sylwester w Lux Club Suwałki / Największa impreza w Centrum!",
+      "date": "2026-12-31T21:00:00+01:00",
+      "city": "Suwałki",
+      "venue": "Lux Night Club",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/sylwesterwluxie-10055",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3354,7 +3286,7 @@
       "title": "Wisłoujście NYE",
       "date": "2026-12-31T21:00:00+01:00",
       "city": "Trójmiasto",
-      "venue": "Amber Expo",
+      "venue": "AMBEREXPO",
       "artists": [],
       "genres": [
         "techno",
@@ -3392,7 +3324,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "Diana d'Rouze"
+        "DJ Lopez"
       ],
       "genres": [
         "techno",
@@ -3501,7 +3433,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "PEGASSI"
+        "Aen"
       ],
       "genres": [
         "rave"
