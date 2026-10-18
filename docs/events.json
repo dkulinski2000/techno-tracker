@@ -1,23 +1,7 @@
 {
-  "updated": "2026-10-18T13:07:30+02:00",
+  "updated": "2026-10-18T22:45:22+02:00",
   "count": 211,
   "events": [
-    {
-      "title": "V Poznański Salon Ambientu",
-      "date": "2026-10-18T18:30:00+02:00",
-      "city": "Poznań",
-      "venue": "Pawilon - Odział Galerii Miejskiej Arsenał",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 54.9,
-      "url": "https://www.ebilet.pl/muzyka/elektro-techno/poznanski-salon-ambientu",
-      "source": "ebilet",
-      "sources": [
-        "ebilet"
-      ]
-    },
     {
       "title": "TRAP HOUSE PARTY Vol.1 / RADOM 22.10 / PIWNICA - FOOD HALL",
       "date": "2026-10-22T19:00:00+02:00",
@@ -77,7 +61,7 @@
       "city": "Szczecin",
       "venue": "Trafostacja Sztuki w Szczecinie",
       "artists": [
-        "Robert Piotrowicz"
+        "Cyprian Pakuła"
       ],
       "genres": [
         "electronic"
@@ -149,7 +133,7 @@
       "city": "Kraków",
       "venue": "PLAYHAUS",
       "artists": [
-        "LAYDJ"
+        "Capri"
       ],
       "genres": [
         "electronic"
@@ -194,27 +178,6 @@
       ]
     },
     {
-      "title": "SZEPTY + HARDWAGON WROCŁAW w. SALVYAN, ANOLUXX, MONYAL",
-      "date": "2026-10-23T23:00:00+02:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "hardwagon"
-      ],
-      "genres": [
-        "industrial",
-        "hardstyle",
-        "hardcore",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/szeptywroclaw-9483",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "WEIKUM 4.0",
       "date": "2026-10-23T23:00:00+02:00",
       "city": "Warszawa",
@@ -227,6 +190,27 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/weikum-oczki-9729",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SZEPTY + HARDWAGON WROCŁAW w. SALVYAN, ANOLUXX, MONYAL",
+      "date": "2026-10-23T23:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "szepty"
+      ],
+      "genres": [
+        "industrial",
+        "hardstyle",
+        "hardcore",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/szeptywroclaw-9483",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -389,8 +373,8 @@
       "city": "Warszawa",
       "venue": "AfterDark",
       "artists": [
-        "doomer saddancing",
-        "SNAKEBYTE"
+        "DEATHYARD",
+        "doomer saddancing"
       ],
       "genres": [
         "electro",
@@ -404,19 +388,39 @@
       ]
     },
     {
-      "title": "URBAN TRIBE VOL. 3",
+      "title": "MM: PARADISO",
       "date": "2026-10-24T23:00:00+02:00",
-      "city": "Katowice",
-      "venue": "Piąty Dom",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "NERØA"
+        "MADI"
       ],
       "genres": [
-        "techno",
-        "house"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/piaty-dom-9896",
+      "url": "https://stage24.pl/wydarzenia/lay-dj-madi-miedzymiastowa-9786",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
+      "date": "2026-10-24T23:00:00+02:00",
+      "city": "Kraków",
+      "venue": "HYPE PARK",
+      "artists": [
+        "szepty"
+      ],
+      "genres": [
+        "schranz",
+        "industrial",
+        "hardstyle",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -454,39 +458,19 @@
       ]
     },
     {
-      "title": "MM: PARADISO",
+      "title": "URBAN TRIBE VOL. 3",
       "date": "2026-10-24T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
+      "city": "Katowice",
+      "venue": "Piąty Dom",
       "artists": [
-        "Lay Dj"
+        "VELUNA"
       ],
       "genres": [
-        "electronic"
+        "techno",
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/lay-dj-madi-miedzymiastowa-9786",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SZEPTY KRAKÓW w. NOISE NOT WAR, SALVYAN",
-      "date": "2026-10-24T23:00:00+02:00",
-      "city": "Kraków",
-      "venue": "HYPE PARK",
-      "artists": [
-        "szepty"
-      ],
-      "genres": [
-        "schranz",
-        "industrial",
-        "hardstyle",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/szeptykrakow-9484",
+      "url": "https://stage24.pl/wydarzenia/piaty-dom-9896",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -605,7 +589,7 @@
       "city": "Warszawa",
       "venue": "Smolna",
       "artists": [
-        "VIGILANT"
+        "ZO.MRAN"
       ],
       "genres": [
         "electronic"
@@ -687,25 +671,6 @@
       ]
     },
     {
-      "title": "WIXAPOL HALLOWEEN: ROTTERDAM TERROR CORPS DJ DISTORTION & MC RAW",
-      "date": "2026-10-30T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "TRANSFORMATOR",
-      "artists": [
-        "CZOPA CZUPS"
-      ],
-      "genres": [
-        "hardcore",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wixapol-halloween-wroclaw-rotterdam-terror-corps-9768",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRIBUTE TO CRYSTAL CASTLES - Sopot",
       "date": "2026-10-30T22:00:00+01:00",
       "city": "Trójmiasto",
@@ -718,6 +683,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-sopot-8665",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "WIXAPOL HALLOWEEN: ROTTERDAM TERROR CORPS DJ DISTORTION & MC RAW",
+      "date": "2026-10-30T22:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [
+        "DJ DISTORTION"
+      ],
+      "genres": [
+        "hardcore",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wixapol-halloween-wroclaw-rotterdam-terror-corps-9768",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -741,26 +725,6 @@
       ]
     },
     {
-      "title": "PARANØIA: KRAKÓW ( STK WAREHOUSE ) - 30.10.2026",
-      "date": "2026-10-30T23:00:00+01:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [
-        "SYNTHIA"
-      ],
-      "genres": [
-        "bounce",
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/h8me-ags-alexsarna-synthia-j-gro-obc18-n3rs-china-stk-47-warehouse-9830",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
       "date": "2026-10-30T23:00:00+01:00",
       "city": "Warszawa",
@@ -774,6 +738,26 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "PARANØIA: KRAKÓW ( STK WAREHOUSE ) - 30.10.2026",
+      "date": "2026-10-30T23:00:00+01:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [
+        "OBC18+"
+      ],
+      "genres": [
+        "bounce",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/h8me-ags-alexsarna-synthia-j-gro-obc18-n3rs-china-stk-47-warehouse-9830",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -860,7 +844,7 @@
       "city": "Bydgoszcz",
       "venue": "Botanic Bydgoszcz",
       "artists": [
-        "Reborn Sound System"
+        "Damian S"
       ],
       "genres": [
         "electronic"
@@ -908,6 +892,24 @@
       ]
     },
     {
+      "title": "Bal Dzikich w Zamku Leśnica",
+      "date": "2026-10-31T21:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
+      "artists": [
+        "Scyntero"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/dj-duch-dyyune-scyntero-vvydra-osrodek-postaw-tworczych-zamek-zamek-w-lesnicy-7712",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "GusGus dj set (Biggi Veira) | Sala Teatralna | Kombinat",
       "date": "2026-10-31T21:00:00+01:00",
       "city": "Kraków",
@@ -920,24 +922,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/gusgus-kemot-daniel-drumz-nowe-centrum-administracyjne-kombinat-9970",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Bal Dzikich w Zamku Leśnica",
-      "date": "2026-10-31T21:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ośrodek Postaw Twórczych ZAMEK (Zamek w Leśnicy)",
-      "artists": [
-        "Dyyune"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dj-duch-dyyune-scyntero-vvydra-osrodek-postaw-tworczych-zamek-zamek-w-lesnicy-7712",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -964,18 +948,57 @@
       ]
     },
     {
-      "title": "LA INCOGNITA SIERRA HALOWEEN",
+      "title": "FREAK of RAVE: WAREHOUSE SMASHER III (HALLOWEEN)",
       "date": "2026-10-31T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
+      "city": "Wrocław",
+      "venue": "SECRET WAREHOUSE",
       "artists": [
-        "Ewelina Krupa"
+        "suprynos"
       ],
       "genres": [
-        "electronic"
+        "hard-techno",
+        "industrial",
+        "hardstyle",
+        "hardcore",
+        "bounce",
+        "rave"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/neevald-peqeno-ewelina-krupa-slodownia-club-9887",
+      "url": "https://stage24.pl/wydarzenia/rave-wroclaw-magazyn-warehouse-gabber-hardtechno-underground-secret-location-odwi33rt-freak-of-rave-smasher-honoto-kamile-d00b-dj-tego-typu-vlinderz-michuwa-hardstyle-9585",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "LUBLIN_HOUSE S02E01: Foyer Sali Operowej (CSK)",
+      "date": "2026-10-31T22:00:00+01:00",
+      "city": "Lublin",
+      "venue": "Sala Operowa CSK",
+      "artists": [
+        "Duszne Granie"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/duszne-granie-barnim-mrlex-duss-sala-operowa-csk-9756",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "🎃 SECRET RAVE CZEWA — PUMPKIN RAVE V2 🎃 31.10",
+      "date": "2026-10-31T22:00:00+01:00",
+      "city": "Polska",
+      "venue": "SECRET LOCATION",
+      "artists": [],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/secret-location-10025",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -987,7 +1010,7 @@
       "city": "Warszawa",
       "venue": "Kaskada",
       "artists": [
-        "MIKOUAJ REJW"
+        "DJ SPORT SPICE"
       ],
       "genres": [
         "electronic"
@@ -1000,18 +1023,18 @@
       ]
     },
     {
-      "title": "LUBLIN_HOUSE S02E01: Foyer Sali Operowej (CSK)",
+      "title": "LA INCOGNITA SIERRA HALOWEEN",
       "date": "2026-10-31T22:00:00+01:00",
-      "city": "Lublin",
-      "venue": "Sala Operowa CSK",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
       "artists": [
-        "Barnim"
+        "neevald"
       ],
       "genres": [
-        "house"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/duszne-granie-barnim-mrlex-duss-sala-operowa-csk-9756",
+      "url": "https://stage24.pl/wydarzenia/neevald-peqeno-ewelina-krupa-slodownia-club-9887",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1053,45 +1076,6 @@
       ]
     },
     {
-      "title": "🎃 SECRET RAVE CZEWA — PUMPKIN RAVE V2 🎃 31.10",
-      "date": "2026-10-31T22:00:00+01:00",
-      "city": "Polska",
-      "venue": "SECRET LOCATION",
-      "artists": [],
-      "genres": [
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/secret-location-10025",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "FREAK of RAVE: WAREHOUSE SMASHER III (HALLOWEEN)",
-      "date": "2026-10-31T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "SECRET WAREHOUSE",
-      "artists": [
-        "heckboy"
-      ],
-      "genres": [
-        "hard-techno",
-        "industrial",
-        "hardstyle",
-        "hardcore",
-        "bounce",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/rave-wroclaw-magazyn-warehouse-gabber-hardtechno-underground-secret-location-odwi33rt-freak-of-rave-smasher-honoto-kamile-d00b-dj-tego-typu-vlinderz-michuwa-hardstyle-9585",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "Ciało live: Halloween Special w/ ALIGNMENT",
       "date": "2026-10-31T22:00:00+01:00",
       "city": "Wrocław",
@@ -1110,12 +1094,30 @@
       ]
     },
     {
+      "title": "TRIBUTE TO CRYSTAL CASTLES - Poznań",
+      "date": "2026-10-31T23:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Klub 2progi",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/ttcc-poznan-8666",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "MM: HALLLOWEEN",
       "date": "2026-10-31T23:00:00+01:00",
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "IAN"
+        "PAXTONE"
       ],
       "genres": [
         "electronic"
@@ -1133,7 +1135,7 @@
       "city": "Kraków",
       "venue": "HYPE PARK",
       "artists": [
-        "hardwagon"
+        "szepty"
       ],
       "genres": [
         "hardstyle",
@@ -1141,24 +1143,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/akimbo-hw-9992",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "TRIBUTE TO CRYSTAL CASTLES - Poznań",
-      "date": "2026-10-31T23:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Klub 2progi",
-      "artists": [
-        "doomer saddancing"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/ttcc-poznan-8666",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1316,7 +1300,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "oriole"
+        "Anadelle"
       ],
       "genres": [
         "electronic"
@@ -1436,24 +1420,6 @@
       ]
     },
     {
-      "title": "WeGroovin' Loui & Tommy Gustav",
-      "date": "2026-11-07T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "Kulterman"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/loui-tommy-gustav-kulterman-slodownia-club-10082",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "LIQUID SYMPHONY: London Elektricity / Makoto / Nu:Tone | Wrocław",
       "date": "2026-11-07T22:00:00+01:00",
       "city": "Wrocław",
@@ -1466,6 +1432,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/london-elektricity-makoto-nutone-cialo-9324",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "WeGroovin' Loui & Tommy Gustav",
+      "date": "2026-11-07T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "Kulterman"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/loui-tommy-gustav-kulterman-slodownia-club-10082",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1513,7 +1497,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "Jake Fill"
+        "TBA"
       ],
       "genres": [
         "electronic"
@@ -1635,7 +1619,7 @@
       "city": "Warszawa",
       "venue": "CHMURY",
       "artists": [
-        "sexy cutts"
+        "AcidSitter"
       ],
       "genres": [
         "acid"
@@ -1709,7 +1693,7 @@
       "city": "Dąbrowa Górnicza",
       "venue": "Faithful - Pracownia Ciała i Ducha",
       "artists": [
-        "Rita Raga"
+        "Endrofinacja"
       ],
       "genres": [
         "rave"
@@ -1787,7 +1771,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "pequeño"
+        "neevald"
       ],
       "genres": [
         "house"
@@ -1820,23 +1804,6 @@
       ]
     },
     {
-      "title": "VELOX X SALTY PLEASURE / TRANSFORMATOR",
-      "date": "2026-11-14T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "TRANSFORMATOR",
-      "artists": [],
-      "genres": [
-        "bounce",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/transformator-9998",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "FEDDE LE GRAND | TAMA 14.11",
       "date": "2026-11-14T23:00:00+01:00",
       "city": "Poznań",
@@ -1850,6 +1817,23 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/fedde-le-grand-tama-9852",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "VELOX X SALTY PLEASURE / TRANSFORMATOR",
+      "date": "2026-11-14T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [],
+      "genres": [
+        "bounce",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/transformator-9998",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2327,7 +2311,7 @@
       "city": "Katowice",
       "venue": "Królestwo",
       "artists": [
-        "RBLTEK"
+        "LIVWASP"
       ],
       "genres": [
         "electro"
@@ -2393,6 +2377,24 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
       "date": "2026-11-27T23:00:00+01:00",
       "city": "Wrocław",
@@ -2407,24 +2409,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-wroclaw-9333",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
-      "date": "2026-11-27T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2490,6 +2474,22 @@
       ]
     },
     {
+      "title": "EPICKA MUZYKA Z GIER I FILMÓW by Dreamlive Concerts | Warszawa",
+      "date": "2026-11-28T20:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Teatr WAM",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 102.0,
+      "url": "https://biletomat.pl/wydarzenia/epicka-muzyka-z-gier-i-filmow-by-dreamlive-concerts-warszawa-30219?eventId=360323",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "Claptone",
       "date": "2026-11-28T20:00:00+01:00",
       "city": "Wrocław",
@@ -2545,7 +2545,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "JanaVitligo"
+        "TOYA"
       ],
       "genres": [
         "electronic"
@@ -3070,7 +3070,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "CUBEHARD"
+        "Nightcraft"
       ],
       "genres": [
         "hardstyle",
@@ -3168,25 +3168,6 @@
       ]
     },
     {
-      "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – NICOLAS JULIAN & more",
-      "date": "2026-12-31T21:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Terminal Event Center - Hala Orion",
-      "artists": [
-        "Dr Obliterane"
-      ],
-      "genres": [
-        "industrial",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/nicolas-julian-charlie-sparks-negitiv-vraxx-schellt-dr-obliterane-terminal-event-center-hala-orion-9704",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "Sylwester 26/27 With Deep In My Soul and Proggcast",
       "date": "2026-12-31T21:00:00+01:00",
       "city": "Szczecin",
@@ -3197,6 +3178,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/after-ego-10059",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – NICOLAS JULIAN & more",
+      "date": "2026-12-31T21:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Terminal Event Center - Hala Orion",
+      "artists": [
+        "VRAXX"
+      ],
+      "genres": [
+        "industrial",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/nicolas-julian-charlie-sparks-negitiv-vraxx-schellt-dr-obliterane-terminal-event-center-hala-orion-9704",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3281,7 +3281,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "Wix Colina"
+        "Nico Brix"
       ],
       "genres": [
         "techno",
@@ -3390,7 +3390,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "Aen"
+        "EVIUS"
       ],
       "genres": [
         "rave"
