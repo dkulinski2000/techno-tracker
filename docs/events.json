@@ -1,23 +1,7 @@
 {
-  "updated": "2026-10-28T13:56:11+01:00",
-  "count": 221,
+  "updated": "2026-10-28T23:36:31+01:00",
+  "count": 224,
   "events": [
-    {
-      "title": "pluko",
-      "date": "2026-10-28T18:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "Klub Hydrozagadka",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 98.9,
-      "url": "https://www.ebilet.pl/muzyka/elektro-techno/pluko",
-      "source": "ebilet",
-      "sources": [
-        "ebilet"
-      ]
-    },
     {
       "title": "XXI Warszawski Salon Ambientu",
       "date": "2026-10-29T18:30:00+01:00",
@@ -40,7 +24,7 @@
       "city": "Warszawa",
       "venue": "Smolna",
       "artists": [
-        "Omran Aboassaf"
+        "VIGILANT"
       ],
       "genres": [
         "electronic"
@@ -140,6 +124,25 @@
       ]
     },
     {
+      "title": "WIXAPOL HALLOWEEN: ROTTERDAM TERROR CORPS DJ DISTORTION & MC RAW",
+      "date": "2026-10-30T22:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [
+        "ROTTERDAM TERROR CORPS"
+      ],
+      "genres": [
+        "hardcore",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wixapol-halloween-wroclaw-rotterdam-terror-corps-9768",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRIBUTE TO CRYSTAL CASTLES - Sopot",
       "date": "2026-10-30T22:00:00+01:00",
       "city": "Trójmiasto",
@@ -152,25 +155,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/ttcc-sopot-8665",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "WIXAPOL HALLOWEEN: ROTTERDAM TERROR CORPS DJ DISTORTION & MC RAW",
-      "date": "2026-10-30T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "TRANSFORMATOR",
-      "artists": [
-        "Wixapol"
-      ],
-      "genres": [
-        "hardcore",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wixapol-halloween-wroclaw-rotterdam-terror-corps-9768",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -194,19 +178,20 @@
       ]
     },
     {
-      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
+      "title": "PARANØIA: KRAKÓW ( STK WAREHOUSE ) - 30.10.2026",
       "date": "2026-10-30T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
       "artists": [
-        "CTRL."
+        "ags"
       ],
       "genres": [
-        "psytrance",
-        "electro"
+        "bounce",
+        "techno",
+        "rave"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
+      "url": "https://stage24.pl/wydarzenia/h8me-ags-alexsarna-synthia-j-gro-obc18-n3rs-china-stk-47-warehouse-9830",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -218,7 +203,7 @@
       "city": "Katowice",
       "venue": "CEL",
       "artists": [
-        "szepty"
+        "hardwagon"
       ],
       "genres": [
         "industrial",
@@ -233,20 +218,19 @@
       ]
     },
     {
-      "title": "PARANØIA: KRAKÓW ( STK WAREHOUSE ) - 30.10.2026",
+      "title": "CTRL. pres. Halloween Trip w. INFECTED MUSHROOM @ Oczki | 30.10",
       "date": "2026-10-30T23:00:00+01:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
+      "city": "Warszawa",
+      "venue": "OCZKI",
       "artists": [
-        "china"
+        "Infected Mushroom"
       ],
       "genres": [
-        "bounce",
-        "techno",
-        "rave"
+        "psytrance",
+        "electro"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/h8me-ags-alexsarna-synthia-j-gro-obc18-n3rs-china-stk-47-warehouse-9830",
+      "url": "https://stage24.pl/wydarzenia/infected-mushroom-oczki-9128",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -313,7 +297,7 @@
       "city": "Bydgoszcz",
       "venue": "Botanic Bydgoszcz",
       "artists": [
-        "Seb Hennig"
+        "Nitrous Oxide"
       ],
       "genres": [
         "electronic"
@@ -361,6 +345,25 @@
       ]
     },
     {
+      "title": "GusGus dj set (Biggi Veira) | Sala Teatralna | Kombinat",
+      "date": "2026-10-31T21:00:00+01:00",
+      "city": "Kraków",
+      "venue": "Nowe Centrum Administracyjne (Kombinat)",
+      "artists": [
+        "GusGus"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 127.9,
+      "url": "https://stage24.pl/wydarzenia/gusgus-kemot-daniel-drumz-nowe-centrum-administracyjne-kombinat-9970",
+      "source": "stage24",
+      "sources": [
+        "ebilet",
+        "stage24"
+      ]
+    },
+    {
       "title": "Bal Dzikich w Zamku Leśnica",
       "date": "2026-10-31T21:00:00+01:00",
       "city": "Wrocław",
@@ -375,25 +378,6 @@
       "url": "https://stage24.pl/wydarzenia/dj-duch-dyyune-scyntero-vvydra-osrodek-postaw-tworczych-zamek-zamek-w-lesnicy-7712",
       "source": "stage24",
       "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "GusGus dj set (Biggi Veira) | Sala Teatralna | Kombinat",
-      "date": "2026-10-31T21:00:00+01:00",
-      "city": "Kraków",
-      "venue": "Nowe Centrum Administracyjne (Kombinat)",
-      "artists": [
-        "Daniel Drumz"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": 127.9,
-      "url": "https://stage24.pl/wydarzenia/gusgus-kemot-daniel-drumz-nowe-centrum-administracyjne-kombinat-9970",
-      "source": "stage24",
-      "sources": [
-        "ebilet",
         "stage24"
       ]
     },
@@ -418,17 +402,23 @@
       ]
     },
     {
-      "title": "SANKTUARIUM | BESTIA",
+      "title": "FREAK of RAVE: WAREHOUSE SMASHER III (HALLOWEEN)",
       "date": "2026-10-31T22:00:00+01:00",
-      "city": "Kraków",
-      "venue": "Claudius Hair Treser",
-      "artists": [],
+      "city": "Wrocław",
+      "venue": "SECRET WAREHOUSE",
+      "artists": [
+        "kamile"
+      ],
       "genres": [
-        "techno",
-        "house"
+        "hard-techno",
+        "industrial",
+        "hardstyle",
+        "hardcore",
+        "bounce",
+        "rave"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sanktuarium-bestia-9943",
+      "url": "https://stage24.pl/wydarzenia/rave-wroclaw-magazyn-warehouse-gabber-hardtechno-underground-secret-location-odwi33rt-freak-of-rave-smasher-honoto-kamile-d00b-dj-tego-typu-vlinderz-michuwa-hardstyle-9585",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -440,7 +430,7 @@
       "city": "Warszawa",
       "venue": "Kaskada",
       "artists": [
-        "PLATTER"
+        "MIKOUAJ REJW"
       ],
       "genres": [
         "electronic"
@@ -453,41 +443,17 @@
       ]
     },
     {
-      "title": "LA INCOGNITA SIERRA HALOWEEN",
+      "title": "SANKTUARIUM | BESTIA",
       "date": "2026-10-31T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "neevald"
-      ],
+      "city": "Kraków",
+      "venue": "Claudius Hair Treser",
+      "artists": [],
       "genres": [
-        "electronic"
+        "techno",
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/neevald-peqeno-ewelina-krupa-slodownia-club-9887",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "FREAK of RAVE: WAREHOUSE SMASHER III (HALLOWEEN)",
-      "date": "2026-10-31T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "SECRET WAREHOUSE",
-      "artists": [
-        "d00b"
-      ],
-      "genres": [
-        "hard-techno",
-        "industrial",
-        "hardstyle",
-        "hardcore",
-        "bounce",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/rave-wroclaw-magazyn-warehouse-gabber-hardtechno-underground-secret-location-odwi33rt-freak-of-rave-smasher-honoto-kamile-d00b-dj-tego-typu-vlinderz-michuwa-hardstyle-9585",
+      "url": "https://stage24.pl/wydarzenia/sanktuarium-bestia-9943",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -506,6 +472,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/duszne-granie-barnim-mrlex-duss-sala-operowa-csk-9756",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "LA INCOGNITA SIERRA HALOWEEN",
+      "date": "2026-10-31T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "neevald"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/neevald-peqeno-ewelina-krupa-slodownia-club-9887",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -584,6 +568,24 @@
       ]
     },
     {
+      "title": "MM: HALLLOWEEN",
+      "date": "2026-10-31T23:00:00+01:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "IAN"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paxtone-ian-miedzymiastowa-9920",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Hardwagon Kraków: AKIMBO Hardcore Halloween",
       "date": "2026-10-31T23:00:00+01:00",
       "city": "Kraków",
@@ -597,24 +599,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/akimbo-hw-9992",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: HALLLOWEEN",
-      "date": "2026-10-31T23:00:00+01:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "PAXTONE"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paxtone-ian-miedzymiastowa-9920",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -808,7 +792,7 @@
       "city": "Łódź",
       "venue": "Wejście 3/W3",
       "artists": [
-        "BLEJT"
+        "Biuro Ochrony Pompy"
       ],
       "genres": [
         "techno",
@@ -843,7 +827,7 @@
       "city": "Poznań",
       "venue": "Klub Tama",
       "artists": [
-        "Makoto"
+        "London Elektricity"
       ],
       "genres": [
         "drum-and-bass"
@@ -930,18 +914,18 @@
       ]
     },
     {
-      "title": "ST - WAŻNE Z KIM! x DJ Kuba&Neitan - Bank Club WWA",
+      "title": "LIQUID SYMPHONY: London Elektricity / Makoto / Nu:Tone | Wrocław",
       "date": "2026-11-07T22:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "BANK CLUB",
+      "city": "Wrocław",
+      "venue": "Ciało",
       "artists": [
-        "DJ KUBA&NEITAN"
+        "Makoto"
       ],
       "genres": [
-        "house"
+        "drum-and-bass"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-bank-club-10207",
+      "url": "https://stage24.pl/wydarzenia/london-elektricity-makoto-nutone-cialo-9324",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -966,18 +950,18 @@
       ]
     },
     {
-      "title": "LIQUID SYMPHONY: London Elektricity / Makoto / Nu:Tone | Wrocław",
+      "title": "ST - WAŻNE Z KIM! x DJ Kuba&Neitan - Bank Club WWA",
       "date": "2026-11-07T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
+      "city": "Warszawa",
+      "venue": "BANK CLUB",
       "artists": [
-        "Nu:Tone"
+        "DJ KUBA&NEITAN"
       ],
       "genres": [
-        "drum-and-bass"
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/london-elektricity-makoto-nutone-cialo-9324",
+      "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-bank-club-10207",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1025,7 +1009,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "TBA"
+        "Jake Fill"
       ],
       "genres": [
         "electronic"
@@ -1078,7 +1062,7 @@
       "city": "Warszawa",
       "venue": "Butelkownia",
       "artists": [
-        "Roni Size"
+        "Ed Rush"
       ],
       "genres": [
         "drum-and-bass",
@@ -1311,7 +1295,7 @@
       "city": "Dąbrowa Górnicza",
       "venue": "Faithful - Pracownia Ciała i Ducha",
       "artists": [
-        "Rita Raga"
+        "Endrofinacja"
       ],
       "genres": [
         "rave"
@@ -1743,7 +1727,7 @@
       "city": "Poznań",
       "venue": "SCHRON44",
       "artists": [
-        "BOBAIO"
+        "xcessive"
       ],
       "genres": [
         "bounce",
@@ -1853,7 +1837,7 @@
       "city": "Toruń",
       "venue": "NRD",
       "artists": [
-        "TORRENTZ"
+        "MIKOUAJ REJW"
       ],
       "genres": [
         "electronic"
@@ -2017,7 +2001,7 @@
       "city": "Katowice",
       "venue": "Królestwo",
       "artists": [
-        "RBLTEK"
+        "LIVWASP"
       ],
       "genres": [
         "electro"
@@ -2265,7 +2249,7 @@
       ]
     },
     {
-      "title": "Erol Alkan | after Tauron Nowa Muzyka Katowice | Hipnoza",
+      "title": "Erol Alkan | after Tauron Nowa Muzyka Katowice",
       "date": "2026-11-28T21:00:00+01:00",
       "city": "Katowice",
       "venue": "Jazz Club Hipnoza",
@@ -2274,11 +2258,10 @@
         "house",
         "rave"
       ],
-      "price_min": 72.0,
-      "url": "https://biletomat.pl/wydarzenia/erol-alkan-after-tauron-nowa-muzyka-katowice-hipnoza-33787?eventId=357449",
-      "source": "biletomat",
+      "price_min": 75.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/erol-alkan",
+      "source": "ebilet",
       "sources": [
-        "biletomat",
         "ebilet"
       ]
     },
@@ -2288,13 +2271,31 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "JanaVitligo"
+        "TOYA"
       ],
       "genres": [
         "electronic"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/toya-janavitligo-slodownia-club-10087",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: ANDRZEJKI",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "IAN"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/dirty-rush-ian-miedzymiastowa-10243",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2741,7 +2742,7 @@
       "city": "Poznań",
       "venue": "Dom Technika",
       "artists": [
-        "Iraada"
+        "Rita Raga"
       ],
       "genres": [
         "psytrance",
@@ -2798,7 +2799,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "ags"
+        "SYNTHIA"
       ],
       "genres": [
         "techno"
@@ -2839,12 +2840,14 @@
         "Kontravoid"
       ],
       "genres": [
-        "industrial"
+        "industrial",
+        "electronic"
       ],
       "price_min": 109.0,
       "url": "https://goingapp.pl/wydarzenie/kontravoid-spike-hellis-poznan/poznan-grudzien-2026",
       "source": "going",
       "sources": [
+        "ebilet",
         "going"
       ]
     },
@@ -2887,7 +2890,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "max respect"
+        "Rage Construct"
       ],
       "genres": [
         "hardstyle",
@@ -3041,7 +3044,7 @@
       "city": "Wrocław",
       "venue": "Terminal Event Center - Hala Orion",
       "artists": [
-        "Schellt"
+        "Negitiv"
       ],
       "genres": [
         "industrial",
@@ -3143,6 +3146,22 @@
       ]
     },
     {
+      "title": "Sylwester na W/W Rooftop",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "WDECH WYDECH ROOFTOP",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Christian Löffler Live NYE | Poznań | B17",
       "date": "2026-12-31T22:00:00+01:00",
       "city": "Poznań",
@@ -3156,22 +3175,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/christian-loffler-klub-b17-10014",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Sylwester na W/W Rooftop",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "WDECH WYDECH ROOFTOP",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -3199,7 +3202,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "Diana d'Rouze"
+        "Wix Colina"
       ],
       "genres": [
         "techno",
@@ -3374,7 +3377,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "Aen"
+        "PEGASSI"
       ],
       "genres": [
         "rave"
@@ -3518,6 +3521,23 @@
       "source": "going",
       "sources": [
         "going"
+      ]
+    },
+    {
+      "title": "MOMENTUUM PRES. 3DAYWKND (NL) [BCCO, atöm., 6XL] - POLAND DEBUT",
+      "date": "2027-03-05T23:00:00+01:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-10244",
+      "source": "stage24",
+      "sources": [
+        "stage24"
       ]
     },
     {
@@ -3694,6 +3714,28 @@
       ]
     },
     {
+      "title": "Euforia Dźwięku w Warszawie",
+      "date": "2027-04-03T20:00:00+02:00",
+      "city": "Warszawa",
+      "venue": "Progresja",
+      "artists": [
+        "Bryan Kearney",
+        "John O'Callaghan",
+        "Paul van Dyk"
+      ],
+      "genres": [
+        "trance",
+        "house",
+        "techno"
+      ],
+      "price_min": 159.0,
+      "url": "https://goingapp.pl/wydarzenie/ed-t-euforia-dzwieku/warszawa-kwiecien-2027",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
       "title": "ELECTRO SYMPHONY: ORCHESTRA DANCE PARTY",
       "date": "2027-04-09T20:00:00+02:00",
       "city": "Warszawa",
@@ -3716,7 +3758,7 @@
       "city": "Katowice",
       "venue": "P23 Katowice",
       "artists": [
-        "D.a.v.e The Drummer"
+        "Dj Tag Tresor Berlin"
       ],
       "genres": [
         "acid",
@@ -3910,6 +3952,22 @@
       "source": "biletomat",
       "sources": [
         "biletomat"
+      ]
+    },
+    {
+      "title": "Summer Castle Festival 2027",
+      "date": "2027-08-27T19:00:00+02:00",
+      "city": "Bytów",
+      "venue": "Dziedziniec Zamkowy w Bytowie",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 170.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/summer-castle-festival",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
       ]
     },
     {
