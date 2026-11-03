@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T16:55:12+01:00",
-  "count": 189,
+  "updated": "2026-11-03T01:59:12+01:00",
+  "count": 190,
   "events": [
     {
       "title": "Mietze Conte",
@@ -88,7 +88,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "VRAXX"
+        "Anadelle"
       ],
       "genres": [
         "electronic"
@@ -106,7 +106,7 @@
       "city": "Łódź",
       "venue": "Wejście 3/W3",
       "artists": [
-        "TORRENTZ"
+        "Biuro Ochrony Pompy"
       ],
       "genres": [
         "techno",
@@ -141,7 +141,7 @@
       "city": "Poznań",
       "venue": "Klub Tama",
       "artists": [
-        "London Elektricity"
+        "Makoto"
       ],
       "genres": [
         "drum-and-bass"
@@ -323,7 +323,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "TBA"
+        "Jake Fill"
       ],
       "genres": [
         "electronic"
@@ -376,7 +376,7 @@
       "city": "Warszawa",
       "venue": "Butelkownia",
       "artists": [
-        "Black Sun Empire"
+        "Roni Size"
       ],
       "genres": [
         "drum-and-bass",
@@ -497,7 +497,7 @@
       "city": "Szczecin",
       "venue": "HALA ODRA",
       "artists": [
-        "Sylvo"
+        "Matpap"
       ],
       "genres": [
         "schranz",
@@ -553,7 +553,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "VRAXX"
+        "marcelitumelis"
       ],
       "genres": [
         "techno",
@@ -627,7 +627,7 @@
       "city": "Dąbrowa Górnicza",
       "venue": "Faithful - Pracownia Ciała i Ducha",
       "artists": [
-        "Endrofinacja"
+        "Rita Raga"
       ],
       "genres": [
         "rave"
@@ -732,6 +732,25 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-krakow-9334",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "URBAN TRIBE VOL. 4",
+      "date": "2026-11-14T23:00:00+01:00",
+      "city": "Katowice",
+      "venue": "Piąty Dom",
+      "artists": [
+        "NERØA"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/piaty-dom-10300",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1077,7 +1096,7 @@
       "city": "Poznań",
       "venue": "SCHRON44",
       "artists": [
-        "xcessive"
+        "STARA"
       ],
       "genres": [
         "bounce",
@@ -2016,6 +2035,22 @@
       ]
     },
     {
+      "title": "DUALISM",
+      "date": "2026-12-11T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/oczki-10228",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "RYSY | Hype Park Kraków 11.12.2026",
       "date": "2026-12-11T23:00:00+01:00",
       "city": "Kraków",
@@ -2028,22 +2063,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rysy-hype-park-10263",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "DUALISM",
-      "date": "2026-12-11T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/oczki-10228",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2104,7 +2123,7 @@
       "city": "Poznań",
       "venue": "Dom Technika",
       "artists": [
-        "Illegible"
+        "Devi Divine"
       ],
       "genres": [
         "psytrance",
@@ -2156,24 +2175,6 @@
       ]
     },
     {
-      "title": "PARANØIA: MYU:SA [BE] | MUZAN [SKG] 12.12.2026 | Wrocław, Ciało",
-      "date": "2026-12-12T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "SYNTHIA"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paranoiacialo12122k26-10178",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "Drop w/ Tanukichi, Original Sin, Magnetude",
       "date": "2026-12-12T23:00:00+01:00",
       "city": "Kraków",
@@ -2188,6 +2189,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/drop-hype-park-9829",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "PARANØIA: MYU:SA [BE] | MUZAN [SKG] 12.12.2026 | Wrocław, Ciało",
+      "date": "2026-12-12T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "MGSK"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paranoiacialo12122k26-10178",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2252,7 +2271,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "J-GRO"
+        "Konzi DJ"
       ],
       "genres": [
         "hardstyle",
@@ -2271,7 +2290,7 @@
       "city": "Szczecin",
       "venue": "HALA ODRA",
       "artists": [
-        "Qbacki"
+        "Adrian Nux"
       ],
       "genres": [
         "techno",
@@ -2369,6 +2388,25 @@
       ]
     },
     {
+      "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – NICOLAS JULIAN & more",
+      "date": "2026-12-31T21:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Terminal Event Center - Hala Orion",
+      "artists": [
+        "NICOLAS JULIAN"
+      ],
+      "genres": [
+        "industrial",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/nicolas-julian-charlie-sparks-negitiv-vraxx-schellt-dr-obliterane-terminal-event-center-hala-orion-9704",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Sylwester w Lux Club Suwałki / Największa impreza w Centrum!",
       "date": "2026-12-31T21:00:00+01:00",
       "city": "Suwałki",
@@ -2401,25 +2439,6 @@
       ]
     },
     {
-      "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – NICOLAS JULIAN & more",
-      "date": "2026-12-31T21:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Terminal Event Center - Hala Orion",
-      "artists": [
-        "VRAXX"
-      ],
-      "genres": [
-        "industrial",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/nicolas-julian-charlie-sparks-negitiv-vraxx-schellt-dr-obliterane-terminal-event-center-hala-orion-9704",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – 31.12.2026 | NICOLAS JULIAN, CHARLIE SPARKS, NEGITIV & MORE",
       "date": "2026-12-31T21:00:00+01:00",
       "city": "Wrocław",
@@ -2441,12 +2460,28 @@
       ]
     },
     {
+      "title": "Sylwester na W/W Rooftop",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "WDECH WYDECH ROOFTOP",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "SYLWESTER | SŁODO ROYALE 027",
       "date": "2026-12-31T22:00:00+01:00",
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "neevald"
+        "pequeño"
       ],
       "genres": [
         "house"
@@ -2478,28 +2513,12 @@
       ]
     },
     {
-      "title": "Sylwester na W/W Rooftop",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "WDECH WYDECH ROOFTOP",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "RAVE IN BRESLAU | 9.01 | Transformator",
       "date": "2027-01-09T23:00:00+01:00",
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "Nico Brix"
+        "Wix Colina"
       ],
       "genres": [
         "techno",
@@ -2579,6 +2598,7 @@
       "url": "https://goingapp.pl/wydarzenie/tranceformations-2027-10-edycja/wroclaw-styczen-2027",
       "source": "going",
       "sources": [
+        "biletomat",
         "ebilet",
         "going"
       ]
