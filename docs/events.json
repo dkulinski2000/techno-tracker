@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T00:24:33+01:00",
-  "count": 194,
+  "updated": "2026-11-04T15:34:01+01:00",
+  "count": 200,
   "events": [
     {
       "title": "Mietze Conte",
@@ -88,7 +88,7 @@
       "city": "Warszawa",
       "venue": "Piękno",
       "artists": [
-        "oriole"
+        "Malevolento"
       ],
       "genres": [
         "electronic"
@@ -141,7 +141,7 @@
       "city": "Poznań",
       "venue": "Klub Tama",
       "artists": [
-        "London Elektricity"
+        "Makoto"
       ],
       "genres": [
         "drum-and-bass"
@@ -228,18 +228,18 @@
       ]
     },
     {
-      "title": "ST - WAŻNE Z KIM! x DJ Kuba&Neitan - Bank Club WWA",
+      "title": "LIQUID SYMPHONY: London Elektricity / Makoto / Nu:Tone | Wrocław",
       "date": "2026-11-07T22:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "BANK CLUB",
+      "city": "Wrocław",
+      "venue": "Ciało",
       "artists": [
-        "DJ KUBA&NEITAN"
+        "Nu:Tone"
       ],
       "genres": [
-        "house"
+        "drum-and-bass"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-bank-club-10207",
+      "url": "https://stage24.pl/wydarzenia/london-elektricity-makoto-nutone-cialo-9324",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -251,7 +251,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "Loui"
+        "Tommy Gustav"
       ],
       "genres": [
         "house"
@@ -264,18 +264,18 @@
       ]
     },
     {
-      "title": "LIQUID SYMPHONY: London Elektricity / Makoto / Nu:Tone | Wrocław",
+      "title": "ST - WAŻNE Z KIM! x DJ Kuba&Neitan - Bank Club WWA",
       "date": "2026-11-07T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
+      "city": "Warszawa",
+      "venue": "BANK CLUB",
       "artists": [
-        "London Elektricity"
+        "DJ KUBA&NEITAN"
       ],
       "genres": [
-        "drum-and-bass"
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/london-elektricity-makoto-nutone-cialo-9324",
+      "url": "https://stage24.pl/wydarzenia/dj-kubaandneitan-bank-club-10207",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -351,24 +351,6 @@
       ]
     },
     {
-      "title": "Krajna Retro Festival",
-      "date": "2026-11-10T19:00:00+01:00",
-      "city": "Sępólno Krajeńskie",
-      "venue": "Krajna Arena",
-      "artists": [
-        "Krajna Retro Festival"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/krajna-retro-festival-krajna-arena-9645",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "KINGS OF D'N'B | Butelkownia | Warszawa",
       "date": "2026-11-10T19:00:00+01:00",
       "city": "Warszawa",
@@ -382,6 +364,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/roni-size-black-sun-empire-ed-rush-dj-aprodithe-butelkownia-9690",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Krajna Retro Festival",
+      "date": "2026-11-10T19:00:00+01:00",
+      "city": "Sępólno Krajeńskie",
+      "venue": "Krajna Arena",
+      "artists": [
+        "Krajna Retro Festival"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/krajna-retro-festival-krajna-arena-9645",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -441,7 +441,7 @@
       "city": "Warszawa",
       "venue": "Smolna",
       "artists": [
-        "essex"
+        "Etnika Elektronika"
       ],
       "genres": [
         "electronic"
@@ -533,7 +533,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "WRK"
+        "VRAXX"
       ],
       "genres": [
         "techno",
@@ -587,7 +587,7 @@
       "city": "Dąbrowa Górnicza",
       "venue": "Faithful - Pracownia Ciała i Ducha",
       "artists": [
-        "Endrofinacja"
+        "Rita Raga"
       ],
       "genres": [
         "rave"
@@ -703,7 +703,7 @@
       "city": "Katowice",
       "venue": "Piąty Dom",
       "artists": [
-        "NERØA"
+        "VELUNA"
       ],
       "genres": [
         "techno",
@@ -1056,7 +1056,7 @@
       "city": "Poznań",
       "venue": "SCHRON44",
       "artists": [
-        "DJ FA**OT"
+        "DAIMOKU"
       ],
       "genres": [
         "bounce",
@@ -1124,22 +1124,19 @@
       ]
     },
     {
-      "title": "SECRET RAVE Ełk 21.11 // Bounce & Hard Techno & Hardstyle",
+      "title": "HI FIVE with LULU MALINA – 5. URODZINY KLUBU PLASTELINA",
       "date": "2026-11-21T21:00:00+01:00",
-      "city": "Ełk",
-      "venue": "Ełk",
+      "city": "Koszalin",
+      "venue": "Plastelina",
       "artists": [
-        "Hard To Explain"
+        "Lulu Malina"
       ],
       "genres": [
-        "hard-techno",
-        "hardstyle",
-        "bounce",
-        "techno",
-        "rave"
+        "drum-and-bass",
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/hard-to-explain-elk-10012",
+      "url": "https://stage24.pl/wydarzenia/lulu-malina-plastelina-10256",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1166,19 +1163,22 @@
       ]
     },
     {
-      "title": "HI FIVE with LULU MALINA – 5. URODZINY KLUBU PLASTELINA",
+      "title": "SECRET RAVE Ełk 21.11 // Bounce & Hard Techno & Hardstyle",
       "date": "2026-11-21T21:00:00+01:00",
-      "city": "Koszalin",
-      "venue": "Plastelina",
+      "city": "Ełk",
+      "venue": "Ełk",
       "artists": [
-        "Lulu Malina"
+        "Hard To Explain"
       ],
       "genres": [
-        "drum-and-bass",
-        "house"
+        "hard-techno",
+        "hardstyle",
+        "bounce",
+        "techno",
+        "rave"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/lulu-malina-plastelina-10256",
+      "url": "https://stage24.pl/wydarzenia/hard-to-explain-elk-10012",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1397,6 +1397,24 @@
       ]
     },
     {
+      "title": "Electro Slow 2.0 - Carla Roca & more",
+      "date": "2026-11-27T20:00:00+01:00",
+      "city": "Katowice",
+      "venue": "Królestwo",
+      "artists": [
+        "LIVWASP"
+      ],
+      "genres": [
+        "electro"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/krolestwo-9249",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "RAT KRU | Lublin | Graffiti | piątek 27.11.",
       "date": "2026-11-27T20:00:00+01:00",
       "city": "Lublin",
@@ -1409,24 +1427,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rat-kru-klub-graffiti-10289",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Electro Slow 2.0 - Carla Roca & more",
-      "date": "2026-11-27T20:00:00+01:00",
-      "city": "Katowice",
-      "venue": "Królestwo",
-      "artists": [
-        "RBLTEK"
-      ],
-      "genres": [
-        "electro"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/krolestwo-9249",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1537,6 +1537,24 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
       "date": "2026-11-27T23:00:00+01:00",
       "city": "Wrocław",
@@ -1551,24 +1569,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-wroclaw-9333",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
-      "date": "2026-11-27T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1722,12 +1722,28 @@
       ]
     },
     {
+      "title": "LUBLIN_HOUSE x Andrzejki: Foyer Sali Operowej (CSK)",
+      "date": "2026-11-28T22:00:00+01:00",
+      "city": "Lublin",
+      "venue": "Centrum Spotkania Kultur w Lublinie",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/centrum-spotkania-kultur-w-lublinie-10316",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Andrzejki są KOBIETĄ!",
       "date": "2026-11-28T22:00:00+01:00",
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "JanaVitligo"
+        "TOYA"
       ],
       "genres": [
         "electronic"
@@ -1740,16 +1756,18 @@
       ]
     },
     {
-      "title": "LUBLIN_HOUSE x Andrzejki: Foyer Sali Operowej (CSK)",
-      "date": "2026-11-28T22:00:00+01:00",
-      "city": "Lublin",
-      "venue": "Centrum Spotkania Kultur w Lublinie",
-      "artists": [],
+      "title": "MM: ANDRZEJKI",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "IAN"
+      ],
       "genres": [
-        "house"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/centrum-spotkania-kultur-w-lublinie-10316",
+      "url": "https://stage24.pl/wydarzenia/dirty-rush-ian-miedzymiastowa-10243",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1788,24 +1806,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: ANDRZEJKI",
-      "date": "2026-11-28T23:00:00+01:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "DIRTY RUSH"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dirty-rush-ian-miedzymiastowa-10243",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1976,14 +1976,13 @@
       ]
     },
     {
-      "title": "MOMENTUUM x NO SAD TECHNO: SYNKRETIC 2",
+      "title": "SYNKRETIC 2: GROOVE & BOUNCE ALL NIGHTER",
       "date": "2026-12-05T23:00:00+01:00",
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [],
       "genres": [
         "bounce",
-        "techno",
         "rave"
       ],
       "price_min": null,
@@ -2134,7 +2133,7 @@
       "city": "Poznań",
       "venue": "Dom Technika",
       "artists": [
-        "Rita Raga"
+        "Iraada"
       ],
       "genres": [
         "psytrance",
@@ -2186,6 +2185,24 @@
       ]
     },
     {
+      "title": "PARANØIA: MYU:SA [BE] | MUZAN [SKG] 12.12.2026 | Wrocław, Ciało",
+      "date": "2026-12-12T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "SYNTHIA"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paranoiacialo12122k26-10178",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Drop w/ Tanukichi, Original Sin, Magnetude",
       "date": "2026-12-12T23:00:00+01:00",
       "city": "Kraków",
@@ -2200,24 +2217,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/drop-hype-park-9829",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "PARANØIA: MYU:SA [BE] | MUZAN [SKG] 12.12.2026 | Wrocław, Ciało",
-      "date": "2026-12-12T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "MGSK"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paranoiacialo12122k26-10178",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2282,7 +2281,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "Konzi DJ"
+        "Rage Construct"
       ],
       "genres": [
         "hardstyle",
@@ -2301,7 +2300,7 @@
       "city": "Szczecin",
       "venue": "HALA ODRA",
       "artists": [
-        "Daniel Stetting"
+        "Adrian Nux"
       ],
       "genres": [
         "techno",
@@ -2328,6 +2327,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/le-bask-underground-pub-9640",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Koncert Huncho 730 + AfterParty - 26 Grudnia - Drugi Dzień Świąt",
+      "date": "2026-12-26T21:00:00+01:00",
+      "city": "Kielce",
+      "venue": "UltraViolet Exclusive Club",
+      "artists": [
+        "730 Huncho"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/730-huncho-ultraviolet-exclusive-club-10322",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2396,6 +2413,22 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "New Year's Eve 2026/2027 | X-Demon Katowice",
+      "date": "2026-12-31T20:00:00+01:00",
+      "city": "Katowice",
+      "venue": "X-Demon Katowice",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 97.0,
+      "url": "https://biletomat.pl/wydarzenia/new-years-eve-20262027-x-demon-katowice-34392?eventId=360889",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -2471,6 +2504,23 @@
       ]
     },
     {
+      "title": "Wisłoujście NYE",
+      "date": "2026-12-31T21:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "AMBEREXPO",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": 245.0,
+      "url": "https://biletomat.pl/wydarzenia/wisloujscie-nye-34208?eventId=359940",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "SYLWESTER | SŁODO ROYALE 027",
       "date": "2026-12-31T22:00:00+01:00",
       "city": "Poznań",
@@ -2483,6 +2533,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/bartes-neevald-sylwester-impreza-noworoczna-slodownia-club-10206",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: NEW YEAR'S EVE",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "PAXTONE"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paxtone-miedzymiastowa-10315",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2518,24 +2586,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: NEW YEAR'S EVE",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "PAXTONE"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paxtone-miedzymiastowa-10315",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2608,6 +2658,28 @@
       "source": "going",
       "sources": [
         "going"
+      ]
+    },
+    {
+      "title": "STAN CHRIST | NOCLIP x CIAŁO | 23.01",
+      "date": "2027-01-23T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Stan Christ"
+      ],
+      "genres": [
+        "hardstyle",
+        "hardcore",
+        "trance",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stan-christ-cialo-9927",
+      "source": "stage24",
+      "sources": [
+        "stage24"
       ]
     },
     {
@@ -2757,7 +2829,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "PEGASSI"
+        "Aen"
       ],
       "genres": [
         "rave"
@@ -2977,6 +3049,22 @@
       ]
     },
     {
+      "title": "twocolors",
+      "date": "2027-03-11T18:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Klub Hybrydy",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 129.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/twocolors",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "BONOBO. Distance In Static - Live",
       "date": "2027-03-13T20:00:00+01:00",
       "city": "Trójmiasto",
@@ -3073,6 +3161,22 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "BASSLAND 2027 | ANDY C | AUDIO | GDAŃSK",
+      "date": "2027-03-20T22:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "B90",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 125.0,
+      "url": "https://biletomat.pl/wydarzenia/bassland-2027-andy-c-audio-gdansk-34510?eventId=361604",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -3335,19 +3439,21 @@
       ]
     },
     {
-      "title": "EUFORIA FESTIVAL 2027",
-      "date": "2027-06-25T18:00:00+02:00",
-      "city": "Boszkowo",
-      "venue": "Ośrodek Wypoczynkowy Sadyba",
+      "title": "Euforia Festival 2027",
+      "date": "2027-06-25T19:00:00+02:00",
+      "city": "Boszkowo-Letnisko",
+      "venue": "Ośrodek wypoczynkowy \"Sadyba\"",
       "artists": [],
       "genres": [
+        "techno",
         "electronic"
       ],
-      "price_min": 169.0,
-      "url": "https://biletomat.pl/wydarzenia/euforia-festival-2027-30104?eventId=361354",
-      "source": "biletomat",
+      "price_min": 154.0,
+      "url": "https://goingapp.pl/wydarzenie/euforia-festival-2027/boszkowo-letnisko-czerwiec-2027",
+      "source": "going",
       "sources": [
-        "biletomat"
+        "biletomat",
+        "going"
       ]
     },
     {
