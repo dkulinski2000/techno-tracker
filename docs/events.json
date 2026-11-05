@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T00:40:33+01:00",
-  "count": 200,
+  "updated": "2026-11-05T15:40:37+01:00",
+  "count": 205,
   "events": [
     {
       "title": "Mietze Conte",
@@ -228,24 +228,6 @@
       ]
     },
     {
-      "title": "WeGroovin' Loui & Tommy Gustav",
-      "date": "2026-11-07T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "Loui"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/loui-tommy-gustav-kulterman-slodownia-club-10082",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "LIQUID SYMPHONY: London Elektricity / Makoto / Nu:Tone | Wrocław",
       "date": "2026-11-07T22:00:00+01:00",
       "city": "Wrocław",
@@ -282,6 +264,24 @@
       ]
     },
     {
+      "title": "WeGroovin' Loui & Tommy Gustav",
+      "date": "2026-11-07T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "Kulterman"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/loui-tommy-gustav-kulterman-slodownia-club-10082",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "BOILER ROOM WARSAW 2026",
       "date": "2026-11-07T22:00:00+01:00",
       "city": "Warszawa",
@@ -303,7 +303,7 @@
       "city": "Wrocław",
       "venue": "Klub Transformator",
       "artists": [
-        "TBA"
+        "Jake Fill"
       ],
       "genres": [
         "electronic"
@@ -351,6 +351,25 @@
       ]
     },
     {
+      "title": "KINGS OF D'N'B | Niebo | Warszawa",
+      "date": "2026-11-10T19:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "NIEBO",
+      "artists": [
+        "Ed Rush"
+      ],
+      "genres": [
+        "drum-and-bass",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/roni-size-black-sun-empire-ed-rush-dj-aprodithe-butelkownia-9690",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Krajna Retro Festival",
       "date": "2026-11-10T19:00:00+01:00",
       "city": "Sępólno Krajeńskie",
@@ -363,25 +382,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/krajna-retro-festival-krajna-arena-9645",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "KINGS OF D'N'B | Butelkownia | Warszawa",
-      "date": "2026-11-10T19:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "Butelkownia",
-      "artists": [
-        "Roni Size"
-      ],
-      "genres": [
-        "drum-and-bass",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/roni-size-black-sun-empire-ed-rush-dj-aprodithe-butelkownia-9690",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -441,7 +441,7 @@
       "city": "Warszawa",
       "venue": "Smolna",
       "artists": [
-        "essex"
+        "Etnika Elektronika"
       ],
       "genres": [
         "electronic"
@@ -459,7 +459,7 @@
       "city": "Warszawa",
       "venue": "CHMURY",
       "artists": [
-        "AcidSitter"
+        "sexy cutts"
       ],
       "genres": [
         "acid"
@@ -477,7 +477,7 @@
       "city": "Szczecin",
       "venue": "HALA ODRA",
       "artists": [
-        "Rzeźnik"
+        "Cranz"
       ],
       "genres": [
         "schranz",
@@ -533,7 +533,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "JÓZEF KEUNER"
+        "marcelitumelis"
       ],
       "genres": [
         "techno",
@@ -587,7 +587,7 @@
       "city": "Dąbrowa Górnicza",
       "venue": "Faithful - Pracownia Ciała i Ducha",
       "artists": [
-        "Endrofinacja"
+        "Rita Raga"
       ],
       "genres": [
         "rave"
@@ -665,7 +665,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "pequeño"
+        "neevald"
       ],
       "genres": [
         "house"
@@ -698,17 +698,19 @@
       ]
     },
     {
-      "title": "VELOX X SALTY PLEASURE / TRANSFORMATOR",
+      "title": "URBAN TRIBE VOL. 4",
       "date": "2026-11-14T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "TRANSFORMATOR",
-      "artists": [],
+      "city": "Katowice",
+      "venue": "Piąty Dom",
+      "artists": [
+        "THEDIEM"
+      ],
       "genres": [
-        "bounce",
-        "techno"
+        "techno",
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/transformator-9998",
+      "url": "https://stage24.pl/wydarzenia/piaty-dom-10300",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -734,19 +736,17 @@
       ]
     },
     {
-      "title": "URBAN TRIBE VOL. 4",
+      "title": "VELOX X SALTY PLEASURE / TRANSFORMATOR",
       "date": "2026-11-14T23:00:00+01:00",
-      "city": "Katowice",
-      "venue": "Piąty Dom",
-      "artists": [
-        "VELUNA"
-      ],
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [],
       "genres": [
-        "techno",
-        "house"
+        "bounce",
+        "techno"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/piaty-dom-10300",
+      "url": "https://stage24.pl/wydarzenia/transformator-9998",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1056,7 +1056,7 @@
       "city": "Poznań",
       "venue": "SCHRON44",
       "artists": [
-        "SCHELLT"
+        "BOBAIO"
       ],
       "genres": [
         "bounce",
@@ -1218,6 +1218,24 @@
       ]
     },
     {
+      "title": "KUKI NA WIXAPOLU W TORUNIU",
+      "date": "2026-11-21T22:00:00+01:00",
+      "city": "Toruń",
+      "venue": "NRD",
+      "artists": [
+        "MIKOUAJ REJW"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wixapol-kuki-torun-10146",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Gdańsk",
       "date": "2026-11-21T22:00:00+01:00",
       "city": "Trójmiasto",
@@ -1232,24 +1250,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-gdansk-9337",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "KUKI NA WIXAPOLU W TORUNIU",
-      "date": "2026-11-21T22:00:00+01:00",
-      "city": "Toruń",
-      "venue": "NRD",
-      "artists": [
-        "Wixapol"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wixapol-kuki-torun-10146",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1397,24 +1397,6 @@
       ]
     },
     {
-      "title": "Electro Slow 2.0 - Carla Roca & more",
-      "date": "2026-11-27T20:00:00+01:00",
-      "city": "Katowice",
-      "venue": "Królestwo",
-      "artists": [
-        "LIVWASP"
-      ],
-      "genres": [
-        "electro"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/krolestwo-9249",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "RAT KRU | Lublin | Graffiti | piątek 27.11.",
       "date": "2026-11-27T20:00:00+01:00",
       "city": "Lublin",
@@ -1427,6 +1409,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rat-kru-klub-graffiti-10289",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Electro Slow 2.0 - Carla Roca & more",
+      "date": "2026-11-27T20:00:00+01:00",
+      "city": "Katowice",
+      "venue": "Królestwo",
+      "artists": [
+        "RBLTEK"
+      ],
+      "genres": [
+        "electro"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/krolestwo-9249",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1491,7 +1491,7 @@
       "city": "Trójmiasto",
       "venue": "Crackhouse",
       "artists": [
-        "MIKOUAJ REJW"
+        "KURIOZUM"
       ],
       "genres": [
         "hardstyle",
@@ -1722,6 +1722,22 @@
       ]
     },
     {
+      "title": "LUBLIN_HOUSE x Andrzejki: Foyer Sali Operowej (CSK)",
+      "date": "2026-11-28T22:00:00+01:00",
+      "city": "Lublin",
+      "venue": "Centrum Spotkania Kultur w Lublinie",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/centrum-spotkania-kultur-w-lublinie-10316",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Andrzejki są KOBIETĄ!",
       "date": "2026-11-28T22:00:00+01:00",
       "city": "Poznań",
@@ -1734,22 +1750,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/toya-janavitligo-slodownia-club-10087",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "LUBLIN_HOUSE x Andrzejki: Foyer Sali Operowej (CSK)",
-      "date": "2026-11-28T22:00:00+01:00",
-      "city": "Lublin",
-      "venue": "Centrum Spotkania Kultur w Lublinie",
-      "artists": [],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/centrum-spotkania-kultur-w-lublinie-10316",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1781,7 +1781,7 @@
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "IAN"
+        "DIRTY RUSH"
       ],
       "genres": [
         "electronic"
@@ -2190,7 +2190,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "MUZAN"
+        "JULEESOH"
       ],
       "genres": [
         "techno"
@@ -2276,12 +2276,44 @@
       ]
     },
     {
+      "title": "Obsession: KOBOSIL | TASSERY | CANICHE",
+      "date": "2026-12-18T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Klub Tama",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 179.0,
+      "url": "https://biletomat.pl/wydarzenia/obsession-kobosil-tassery-caniche-33842?eventId=357724",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
+      "title": "CATZ 'N DOGZ | SZCZECIN",
+      "date": "2026-12-18T23:00:00+01:00",
+      "city": "Szczecin",
+      "venue": "Hala Odra",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 59.0,
+      "url": "https://biletomat.pl/wydarzenia/catz-n-dogz-szczecin-34539?eventId=361800",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "NORTHCORE pres. A NIGHT WITH NIGHTCRAFT",
       "date": "2026-12-19T20:00:00+01:00",
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "Konzi DJ"
+        "CUBEHARD"
       ],
       "genres": [
         "hardstyle",
@@ -2300,7 +2332,7 @@
       "city": "Szczecin",
       "venue": "HALA ODRA",
       "artists": [
-        "JZNH"
+        "MP_DJ"
       ],
       "genres": [
         "techno",
@@ -2330,6 +2362,23 @@
       "source": "stage24",
       "sources": [
         "stage24"
+      ]
+    },
+    {
+      "title": "JOHANNES SCHUSTER I Techno Balkon 191226 I GDAŃSK",
+      "date": "2026-12-19T23:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "Techno Balkon",
+      "artists": [],
+      "genres": [
+        "techno",
+        "rave"
+      ],
+      "price_min": 67.0,
+      "url": "https://biletomat.pl/wydarzenia/johannes-schuster-i-techno-balkon-191226-i-gdansk-34482?eventId=361360",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
@@ -2416,6 +2465,22 @@
       ]
     },
     {
+      "title": "New Year's Eve 2026/2027 | X-Demon Poznań",
+      "date": "2026-12-31T20:00:00+01:00",
+      "city": "Poznań",
+      "venue": "X-Demon Poznań",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 96.0,
+      "url": "https://biletomat.pl/wydarzenia/new-years-eve-20262027-x-demon-poznan-34391?eventId=360888",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "New Year's Eve 2026/2027 | X-Demon Katowice",
       "date": "2026-12-31T20:00:00+01:00",
       "city": "Katowice",
@@ -2432,12 +2497,28 @@
       ]
     },
     {
+      "title": "Sylwester 26/27 With Deep In My Soul and Proggcast",
+      "date": "2026-12-31T21:00:00+01:00",
+      "city": "Szczecin",
+      "venue": "After Ego",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/after-ego-10059",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – NICOLAS JULIAN & more",
       "date": "2026-12-31T21:00:00+01:00",
       "city": "Wrocław",
       "venue": "Terminal Event Center - Hala Orion",
       "artists": [
-        "Negitiv"
+        "NICOLAS JULIAN"
       ],
       "genres": [
         "industrial",
@@ -2461,22 +2542,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/sylwesterwluxie-10055",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Sylwester 26/27 With Deep In My Soul and Proggcast",
-      "date": "2026-12-31T21:00:00+01:00",
-      "city": "Szczecin",
-      "venue": "After Ego",
-      "artists": [],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/after-ego-10059",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2521,40 +2586,6 @@
       ]
     },
     {
-      "title": "SYLWESTER | SŁODO ROYALE 027",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "Bartes"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/bartes-neevald-sylwester-impreza-noworoczna-slodownia-club-10206",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Sylwester na W/W Rooftop",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "WDECH WYDECH ROOFTOP",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "Christian Löffler Live NYE | Poznań | B17",
       "date": "2026-12-31T22:00:00+01:00",
       "city": "Poznań",
@@ -2592,6 +2623,67 @@
       ]
     },
     {
+      "title": "Sylwester na W/W Rooftop",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "WDECH WYDECH ROOFTOP",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SYLWESTER | SŁODO ROYALE 027",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "Bartes"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/bartes-neevald-sylwester-impreza-noworoczna-slodownia-club-10206",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Twój tydzień w Alpach z Taksidi | Voucher",
+      "date": "2027-01-01T00:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "TAKSIDI",
+      "artists": [
+        "DJ NARO",
+        "DJ NOZ",
+        "Jonatan",
+        "JWP",
+        "Kaeyra",
+        "Last Robots",
+        "Miły ATZ",
+        "Sept",
+        "Sincz"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "price_min": 500.0,
+      "url": "https://goingapp.pl/wydarzenie/taksidi-voucher/warszawa-styczen-2028",
+      "source": "going",
+      "sources": [
+        "going"
+      ]
+    },
+    {
       "title": "KONCERT Z OKAZJI 13 URODZIN GIG PATROL WROCŁAW",
       "date": "2027-01-08T19:00:00+01:00",
       "city": "Wrocław",
@@ -2608,12 +2700,28 @@
       ]
     },
     {
+      "title": "Westbam | X-Demon Poznań",
+      "date": "2027-01-08T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "X-Demon Poznań",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 32.0,
+      "url": "https://biletomat.pl/wydarzenia/westbam-x-demon-poznan-31131?eventId=361816",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
+      ]
+    },
+    {
       "title": "RAVE IN BRESLAU | 9.01 | Transformator",
       "date": "2027-01-09T23:00:00+01:00",
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "Diana d'Rouze"
+        "DJ Tag"
       ],
       "genres": [
         "techno",
@@ -2829,7 +2937,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "Aen"
+        "PEGASSI"
       ],
       "genres": [
         "rave"
@@ -3259,7 +3367,7 @@
       "city": "Katowice",
       "venue": "P23 Katowice",
       "artists": [
-        "D.a.v.e The Drummer"
+        "Dj Tag Tresor Berlin"
       ],
       "genres": [
         "acid",
@@ -3535,33 +3643,6 @@
       "source": "ebilet",
       "sources": [
         "ebilet"
-      ]
-    },
-    {
-      "title": "Twój tydzień w Alpach z Taksidi | Voucher",
-      "date": "2028-01-01T00:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "TAKSIDI",
-      "artists": [
-        "DJ NARO",
-        "DJ NOZ",
-        "Jonatan",
-        "JWP",
-        "Kaeyra",
-        "Last Robots",
-        "Miły ATZ",
-        "Sept",
-        "Sincz"
-      ],
-      "genres": [
-        "house",
-        "techno"
-      ],
-      "price_min": 500.0,
-      "url": "https://goingapp.pl/wydarzenie/taksidi-voucher/warszawa-styczen-2028",
-      "source": "going",
-      "sources": [
-        "going"
       ]
     }
   ]
