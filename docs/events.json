@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T14:26:20+01:00",
-  "count": 195,
+  "updated": "2026-11-08T23:06:29+01:00",
+  "count": 194,
   "events": [
     {
       "title": "MAYDAY Poland \"ICONIC\"",
@@ -109,7 +109,7 @@
       "city": "Warszawa",
       "venue": "Smolna",
       "artists": [
-        "essex"
+        "Etnika Elektronika"
       ],
       "genres": [
         "electronic"
@@ -127,7 +127,7 @@
       "city": "Warszawa",
       "venue": "CHMURY",
       "artists": [
-        "AcidSitter"
+        "sexy cutts"
       ],
       "genres": [
         "acid"
@@ -145,7 +145,7 @@
       "city": "Szczecin",
       "venue": "HALA ODRA",
       "artists": [
-        "Matpap"
+        "Papis"
       ],
       "genres": [
         "schranz",
@@ -201,7 +201,7 @@
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "VRAXX"
+        "WRK"
       ],
       "genres": [
         "techno",
@@ -255,7 +255,7 @@
       "city": "Dąbrowa Górnicza",
       "venue": "Faithful - Pracownia Ciała i Ducha",
       "artists": [
-        "Rita Raga"
+        "Endrofinacja"
       ],
       "genres": [
         "rave"
@@ -371,7 +371,7 @@
       "city": "Katowice",
       "venue": "Piąty Dom",
       "artists": [
-        "Dr NARKØZ"
+        "NERØA"
       ],
       "genres": [
         "techno",
@@ -379,6 +379,23 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/piaty-dom-10300",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "VELOX X SALTY PLEASURE / TRANSFORMATOR",
+      "date": "2026-11-14T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [],
+      "genres": [
+        "bounce",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/transformator-9998",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -398,23 +415,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/fedde-le-grand-tama-9852",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "VELOX X SALTY PLEASURE / TRANSFORMATOR",
-      "date": "2026-11-14T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "TRANSFORMATOR",
-      "artists": [],
-      "genres": [
-        "bounce",
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/transformator-9998",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -677,6 +677,22 @@
       ]
     },
     {
+      "title": "WROCŁAW AFRO SOUND",
+      "date": "2026-11-20T22:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "AFTER ONE NIGHT CLUB",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/afrosound-10358",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Poznań",
       "date": "2026-11-20T22:00:00+01:00",
       "city": "Poznań",
@@ -691,22 +707,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trianspotting-poznan-9336",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "WROCŁAW AFRO SOUND",
-      "date": "2026-11-20T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "AFTER ONE NIGHT CLUB",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/afrosound-10358",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -740,7 +740,7 @@
       "city": "Poznań",
       "venue": "SCHRON44",
       "artists": [
-        "BOBAIO"
+        "STARA"
       ],
       "genres": [
         "bounce",
@@ -808,25 +808,6 @@
       ]
     },
     {
-      "title": "HI FIVE with LULU MALINA – 5. URODZINY KLUBU PLASTELINA",
-      "date": "2026-11-21T21:00:00+01:00",
-      "city": "Koszalin",
-      "venue": "Plastelina",
-      "artists": [
-        "Lulu Malina"
-      ],
-      "genres": [
-        "drum-and-bass",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/lulu-malina-plastelina-10256",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "SECRET RAVE Ełk 21.11 // Bounce & Hard Techno & Hardstyle",
       "date": "2026-11-21T21:00:00+01:00",
       "city": "Ełk",
@@ -869,6 +850,25 @@
       ]
     },
     {
+      "title": "HI FIVE with LULU MALINA – 5. URODZINY KLUBU PLASTELINA",
+      "date": "2026-11-21T21:00:00+01:00",
+      "city": "Koszalin",
+      "venue": "Plastelina",
+      "artists": [
+        "Lulu Malina"
+      ],
+      "genres": [
+        "drum-and-bass",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/lulu-malina-plastelina-10256",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "DJ SASH 21.11 ☆ ECUADOR",
       "date": "2026-11-21T21:00:00+01:00",
       "city": "Przytkowice",
@@ -891,7 +891,7 @@
       "city": "Kraków",
       "venue": "Wesoła Immersive",
       "artists": [
-        "AGNT"
+        "Pablo Brożyna"
       ],
       "genres": [
         "trance",
@@ -927,7 +927,7 @@
       "city": "Toruń",
       "venue": "NRD",
       "artists": [
-        "TORRENTZ"
+        "Wixapol"
       ],
       "genres": [
         "electronic"
@@ -978,6 +978,24 @@
       ]
     },
     {
+      "title": "CTRL. pres. SWIMMING PAUL @ Oczki, Warszawa | 21.11",
+      "date": "2026-11-21T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "SWIMMING PAUL"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/swimming-paul-oczki-9135",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Rave jak w '93 Kraków 👽 STK 47 Warehouse",
       "date": "2026-11-21T23:00:00+01:00",
       "city": "Kraków",
@@ -995,24 +1013,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rave93-krakow-10357",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "CTRL. pres. SWIMMING PAUL @ Oczki, Warszawa | 21.11",
-      "date": "2026-11-21T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "SWIMMING PAUL"
-      ],
-      "genres": [
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/swimming-paul-oczki-9135",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1089,7 +1089,7 @@
       "city": "Warszawa",
       "venue": "Smolna",
       "artists": [
-        "JĘGA"
+        "ANIKA"
       ],
       "genres": [
         "psytrance",
@@ -1169,7 +1169,7 @@
       "city": "Katowice",
       "venue": "Królestwo",
       "artists": [
-        "Lunea"
+        "LIVWASP"
       ],
       "genres": [
         "electro"
@@ -1288,6 +1288,24 @@
       ]
     },
     {
+      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
+      "date": "2026-11-27T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Wrocław",
       "date": "2026-11-27T23:00:00+01:00",
       "city": "Wrocław",
@@ -1302,24 +1320,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-wroclaw-9333",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Paolo Ferrara | 27.11 | WARSZAWA",
-      "date": "2026-11-27T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [
-        "Paolo Ferrara"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-oczki-9363",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1473,24 +1473,6 @@
       ]
     },
     {
-      "title": "Andrzejki są KOBIETĄ!",
-      "date": "2026-11-28T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "JanaVitligo"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/toya-janavitligo-slodownia-club-10087",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "LUBLIN_HOUSE x Andrzejki: Foyer Sali Operowej (CSK)",
       "date": "2026-11-28T22:00:00+01:00",
       "city": "Lublin",
@@ -1507,20 +1489,18 @@
       ]
     },
     {
-      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Katowice",
-      "date": "2026-11-28T23:00:00+01:00",
-      "city": "Katowice",
-      "venue": "CEL",
+      "title": "Andrzejki są KOBIETĄ!",
+      "date": "2026-11-28T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
       "artists": [
-        "doomer saddancing"
+        "TOYA"
       ],
       "genres": [
-        "acid",
-        "techno",
-        "rave"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
+      "url": "https://stage24.pl/wydarzenia/toya-janavitligo-slodownia-club-10087",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1557,6 +1537,26 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/dirty-rush-ian-miedzymiastowa-10243",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Katowice",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Katowice",
+      "venue": "CEL",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "acid",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1766,7 +1766,7 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "MAGDA HOFFMANN"
+        "Banan on Sax"
       ],
       "genres": [
         "electronic"
@@ -2027,7 +2027,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "STARA"
+        "ME-ERROR"
       ],
       "genres": [
         "techno"
@@ -2134,7 +2134,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "CUBEHARD"
+        "Regain"
       ],
       "genres": [
         "hardstyle",
@@ -2148,12 +2148,30 @@
       ]
     },
     {
+      "title": "1 URODZINY SLODOWNIA CLUB",
+      "date": "2026-12-19T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "Skorup"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/dj-tonka-neevald-bartes-skorup-peqeno-kulterman-mold-flor-magda-hoffmann-mike-refsky-mihael-mar-tareev-slodownia-club-10348",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "🎉KOLORAVE 4 - TSUNAMI KONFETTI - SZCZECIN @Hala Odra",
       "date": "2026-12-19T22:00:00+01:00",
       "city": "Szczecin",
       "venue": "HALA ODRA",
       "artists": [
-        "KP_DJ"
+        "Qbacki"
       ],
       "genres": [
         "techno",
@@ -2161,24 +2179,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/kolorave-szczecin-hala-odra-10092",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "1 URODZINY SLODOWNIA CLUB",
-      "date": "2026-12-19T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "PEQENO"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dj-tonka-neevald-bartes-skorup-peqeno-kulterman-mold-flor-magda-hoffmann-mike-refsky-mihael-mar-tareev-slodownia-club-10348",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2310,7 +2310,7 @@
       "city": "Wrocław",
       "venue": "Terminal Event Center - Hala Orion",
       "artists": [
-        "Dr Obliterane"
+        "NICOLAS JULIAN"
       ],
       "genres": [
         "industrial",
@@ -2377,6 +2377,42 @@
       ]
     },
     {
+      "title": "SYLWESTER | SŁODO ROYALE 027",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "neevald"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/bartes-neevald-sylwester-impreza-noworoczna-slodownia-club-10206",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: NEW YEAR'S EVE",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "PAXTONE"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paxtone-miedzymiastowa-10315",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Sylwester na W/W Rooftop",
       "date": "2026-12-31T22:00:00+01:00",
       "city": "Wrocław",
@@ -2387,24 +2423,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SYLWESTER | SŁODO ROYALE 027",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "Bartes"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/bartes-neevald-sylwester-impreza-noworoczna-slodownia-club-10206",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2424,24 +2442,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/christian-loffler-klub-b17-10014",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: NEW YEAR'S EVE",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "PAXTONE"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paxtone-miedzymiastowa-10315",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2475,22 +2475,6 @@
       ]
     },
     {
-      "title": "KONCERT Z OKAZJI 13 URODZIN GIG PATROL WROCŁAW",
-      "date": "2027-01-08T19:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Klub Łącznik",
-      "artists": [],
-      "genres": [
-        "industrial"
-      ],
-      "price_min": 70.0,
-      "url": "https://biletomat.pl/wydarzenia/koncert-z-okazji-13-urodzin-gig-patrol-wroclaw-34333?eventId=360552",
-      "source": "biletomat",
-      "sources": [
-        "biletomat"
-      ]
-    },
-    {
       "title": "Westbam | X-Demon Poznań",
       "date": "2027-01-08T22:00:00+01:00",
       "city": "Poznań",
@@ -2512,7 +2496,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "Wix Colina"
+        "Diana d'Rouze"
       ],
       "genres": [
         "techno",
@@ -3206,7 +3190,7 @@
       "city": "Katowice",
       "venue": "P23 Katowice",
       "artists": [
-        "D.a.v.e The Drummer"
+        "Dj Tag Tresor Berlin"
       ],
       "genres": [
         "acid",
