@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T00:59:40+01:00",
-  "count": 182,
+  "updated": "2026-11-21T15:40:42+01:00",
+  "count": 185,
   "events": [
     {
       "title": "XVI Międzynarodowy Festiwal Ambientalny - dzień I",
@@ -71,6 +71,25 @@
       ]
     },
     {
+      "title": "HI FIVE with LULU MALINA – 5. URODZINY KLUBU PLASTELINA",
+      "date": "2026-11-21T21:00:00+01:00",
+      "city": "Koszalin",
+      "venue": "Plastelina",
+      "artists": [
+        "Lulu Malina"
+      ],
+      "genres": [
+        "drum-and-bass",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/lulu-malina-plastelina-10256",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "SECRET RAVE Ełk 21.11 // Bounce & Hard Techno & Hardstyle",
       "date": "2026-11-21T21:00:00+01:00",
       "city": "Ełk",
@@ -87,25 +106,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/hard-to-explain-elk-10012",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "HI FIVE with LULU MALINA – 5. URODZINY KLUBU PLASTELINA",
-      "date": "2026-11-21T21:00:00+01:00",
-      "city": "Koszalin",
-      "venue": "Plastelina",
-      "artists": [
-        "Lulu Malina"
-      ],
-      "genres": [
-        "drum-and-bass",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/lulu-malina-plastelina-10256",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -154,7 +154,7 @@
       "city": "Kraków",
       "venue": "Wesoła Immersive",
       "artists": [
-        "Max SoGood"
+        "G3TTOBOY"
       ],
       "genres": [
         "trance",
@@ -204,26 +204,6 @@
       ]
     },
     {
-      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Gdańsk",
-      "date": "2026-11-21T22:00:00+01:00",
-      "city": "Trójmiasto",
-      "venue": "Czudner SPOT",
-      "artists": [
-        "doomer saddancing"
-      ],
-      "genres": [
-        "acid",
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/trainspotting-gdansk-9337",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "KUKI NA WIXAPOLU W TORUNIU",
       "date": "2026-11-21T22:00:00+01:00",
       "city": "Toruń",
@@ -260,12 +240,32 @@
       ]
     },
     {
+      "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Gdańsk",
+      "date": "2026-11-21T22:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "Czudner SPOT",
+      "artists": [
+        "doomer saddancing"
+      ],
+      "genres": [
+        "acid",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/trainspotting-gdansk-9337",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Rave jak w '93 Kraków 👽 STK 47 Warehouse",
       "date": "2026-11-21T23:00:00+01:00",
       "city": "Kraków",
       "venue": "STK 47 - Warehouse",
       "artists": [
-        "MR. MESS"
+        "MIKOUAJ REJW"
       ],
       "genres": [
         "acid",
@@ -371,7 +371,7 @@
       "city": "Warszawa",
       "venue": "Smolna",
       "artists": [
-        "DJ PANZA"
+        "ANIKA"
       ],
       "genres": [
         "psytrance",
@@ -540,7 +540,7 @@
       "city": "Trójmiasto",
       "venue": "Crackhouse",
       "artists": [
-        "MIKOUAJ REJW"
+        "KURIOZUM"
       ],
       "genres": [
         "hardstyle",
@@ -755,24 +755,6 @@
       ]
     },
     {
-      "title": "Andrzejki są KOBIETĄ!",
-      "date": "2026-11-28T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "TOYA"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/toya-janavitligo-slodownia-club-10087",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "LUBLIN_HOUSE x Andrzejki: Foyer Sali Operowej (CSK)",
       "date": "2026-11-28T22:00:00+01:00",
       "city": "Lublin",
@@ -789,18 +771,18 @@
       ]
     },
     {
-      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
-      "date": "2026-11-28T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
+      "title": "Andrzejki są KOBIETĄ!",
+      "date": "2026-11-28T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
       "artists": [
-        "Paolo Ferrara"
+        "JanaVitligo"
       ],
       "genres": [
         "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
+      "url": "https://stage24.pl/wydarzenia/toya-janavitligo-slodownia-club-10087",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -839,6 +821,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-katowice-9338",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Paolo Ferrara | 28.11 | WROCŁAW",
+      "date": "2026-11-28T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "Ciało",
+      "artists": [
+        "Paolo Ferrara"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paolo-ferrara-cialo-9362",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1278,24 +1278,6 @@
       ]
     },
     {
-      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE: SANTA EDITION | 11.12 TFR",
-      "date": "2026-12-11T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "TRANSFORMATOR",
-      "artists": [],
-      "genres": [
-        "hardstyle",
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/transformator-10400",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "DUALISM pres. RAFAEL CERATO",
       "date": "2026-12-11T23:00:00+01:00",
       "city": "Warszawa",
@@ -1324,6 +1306,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rysy-hype-park-10263",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE: SANTA EDITION | 11.12 TFR",
+      "date": "2026-12-11T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [],
+      "genres": [
+        "hardstyle",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/transformator-10400",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1433,27 +1433,6 @@
       ]
     },
     {
-      "title": "Girls' Rave | 2 stages | Dom Technika, Poznań",
-      "date": "2026-12-12T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Dom Technika",
-      "artists": [
-        "Psyshroom Girl"
-      ],
-      "genres": [
-        "psytrance",
-        "techno",
-        "house",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/rita-raga-iraada-esquita-dusha-devi-divine-psyshroom-girl-illegible-dom-technika-10209",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "VOCAL HIGH!",
       "date": "2026-12-12T22:00:00+01:00",
       "city": "Poznań",
@@ -1466,6 +1445,27 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/martin-zoom-jacob-a-slodownia-club-10346",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Girls' Rave | 2 stages | Dom Technika, Poznań",
+      "date": "2026-12-12T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Dom Technika",
+      "artists": [
+        "Esquita"
+      ],
+      "genres": [
+        "psytrance",
+        "techno",
+        "house",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/rita-raga-iraada-esquita-dusha-devi-divine-psyshroom-girl-illegible-dom-technika-10209",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1513,7 +1513,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "SYNTHIA"
+        "h8me"
       ],
       "genres": [
         "techno"
@@ -1655,7 +1655,7 @@
       "city": "Rybnik",
       "venue": "ART CAFE RYBNIK",
       "artists": [
-        "Rita Raga"
+        "Jeetson"
       ],
       "genres": [
         "house"
@@ -1687,6 +1687,25 @@
       ]
     },
     {
+      "title": "🎉KOLORAVE 4 - TSUNAMI KONFETTI - SZCZECIN @Hala Odra",
+      "date": "2026-12-19T22:00:00+01:00",
+      "city": "Szczecin",
+      "venue": "HALA ODRA",
+      "artists": [
+        "Piksu"
+      ],
+      "genres": [
+        "techno",
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/kolorave-szczecin-hala-odra-10092",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "1 URODZINY SLODOWNIA CLUB",
       "date": "2026-12-19T22:00:00+01:00",
       "city": "Poznań",
@@ -1699,25 +1718,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/dj-tonka-neevald-bartes-skorup-peqeno-kulterman-mold-flor-magda-hoffmann-mike-refsky-mihael-mar-tareev-slodownia-club-10348",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "🎉KOLORAVE 4 - TSUNAMI KONFETTI - SZCZECIN @Hala Odra",
-      "date": "2026-12-19T22:00:00+01:00",
-      "city": "Szczecin",
-      "venue": "HALA ODRA",
-      "artists": [
-        "Chris Loud"
-      ],
-      "genres": [
-        "techno",
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/kolorave-szczecin-hala-odra-10092",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1755,6 +1755,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/730-huncho-ultraviolet-exclusive-club-10322",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "HI RAVE — SANTA EDITION 🎅🏻",
+      "date": "2026-12-26T21:00:00+01:00",
+      "city": "Skarżysko-Kamienna",
+      "venue": "Klub Semafor",
+      "artists": [
+        "WRK"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wrk-klub-semafor-10541",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1852,7 +1870,7 @@
       "city": "Wrocław",
       "venue": "DoSopotu Cocktails&Food - Wrocław",
       "artists": [
-        "DJ loco"
+        "DJ MATYS"
       ],
       "genres": [
         "electronic"
@@ -1883,19 +1901,16 @@
       ]
     },
     {
-      "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – NICOLAS JULIAN & more",
+      "title": "Sylwester w Lux Club Suwałki / Największa impreza w Centrum!",
       "date": "2026-12-31T21:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Terminal Event Center - Hala Orion",
-      "artists": [
-        "NICOLAS JULIAN"
-      ],
+      "city": "Suwałki",
+      "venue": "Lux Night Club",
+      "artists": [],
       "genres": [
-        "industrial",
-        "rave"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/nicolas-julian-charlie-sparks-negitiv-vraxx-schellt-dr-obliterane-terminal-event-center-hala-orion-9704",
+      "url": "https://stage24.pl/wydarzenia/sylwesterwluxie-10055",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1918,16 +1933,19 @@
       ]
     },
     {
-      "title": "Sylwester w Lux Club Suwałki / Największa impreza w Centrum!",
+      "title": "SCHISSMA x CIAŁO: NYE SPECIAL (WROCŁAW) – NICOLAS JULIAN & more",
       "date": "2026-12-31T21:00:00+01:00",
-      "city": "Suwałki",
-      "venue": "Lux Night Club",
-      "artists": [],
+      "city": "Wrocław",
+      "venue": "Terminal Event Center - Hala Orion",
+      "artists": [
+        "VRAXX"
+      ],
       "genres": [
-        "electronic"
+        "industrial",
+        "rave"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sylwesterwluxie-10055",
+      "url": "https://stage24.pl/wydarzenia/nicolas-julian-charlie-sparks-negitiv-vraxx-schellt-dr-obliterane-terminal-event-center-hala-orion-9704",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1976,31 +1994,13 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "neevald"
+        "pequeño"
       ],
       "genres": [
         "house"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/bartes-neevald-sylwester-impreza-noworoczna-slodownia-club-10206",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: NEW YEAR'S EVE",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "PAXTONE"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paxtone-miedzymiastowa-10315",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2036,6 +2036,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/christian-loffler-klub-b17-10014",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "MM: NEW YEAR'S EVE",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "PAXTONE"
+      ],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/paxtone-miedzymiastowa-10315",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2110,7 +2128,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "DJ Lopez"
+        "Wix Colina"
       ],
       "genres": [
         "techno",
@@ -2118,26 +2136,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/diana-drouze-dj-tag-nico-brix-dj-lopez-wix-colina-transformator-9873",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "WIXAPOL & SCHISSMA: ANGERFIST",
-      "date": "2027-01-15T23:00:00+01:00",
-      "city": "Poznań",
-      "venue": "KLUB TAMA",
-      "artists": [
-        "Wixapol"
-      ],
-      "genres": [
-        "hardcore",
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wixapol-schissma-angerfist-10401",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2154,6 +2152,26 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-10179",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "WIXAPOL & SCHISSMA: ANGERFIST",
+      "date": "2027-01-15T23:00:00+01:00",
+      "city": "Poznań",
+      "venue": "KLUB TAMA",
+      "artists": [
+        "MIKOUAJ REJW"
+      ],
+      "genres": [
+        "hardcore",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wixapol-schissma-angerfist-10401",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2178,6 +2196,22 @@
       ]
     },
     {
+      "title": "HELLGATE XII: PRES. LENZ",
+      "date": "2027-01-23T23:00:00+01:00",
+      "city": "Katowice",
+      "venue": "CEL",
+      "artists": [],
+      "genres": [
+        "hardcore"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/cel-10445",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "STAN CHRIST | NOCLIP x CIAŁO | 23.01",
       "date": "2027-01-23T23:00:00+01:00",
       "city": "Wrocław",
@@ -2194,22 +2228,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/stan-christ-cialo-9927",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "HELLGATE XII: PRES. LENZ",
-      "date": "2027-01-23T23:00:00+01:00",
-      "city": "Katowice",
-      "venue": "CEL",
-      "artists": [],
-      "genres": [
-        "hardcore"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/cel-10445",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -2272,6 +2290,22 @@
       ]
     },
     {
+      "title": "John Summit",
+      "date": "2027-02-11T18:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "Hala COS Torwar",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": 149.9,
+      "url": "https://www.ebilet.pl/muzyka/elektro-techno/john-summit",
+      "source": "ebilet",
+      "sources": [
+        "ebilet"
+      ]
+    },
+    {
       "title": "Don't Let Daddy Know Poland 2027",
       "date": "2027-02-13T19:00:00+01:00",
       "city": "Trójmiasto",
@@ -2313,7 +2347,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "EVIUS"
+        "Aen"
       ],
       "genres": [
         "rave"
@@ -2654,6 +2688,22 @@
       "source": "ebilet",
       "sources": [
         "ebilet"
+      ]
+    },
+    {
+      "title": "BONOBO. Distance In Static - Live",
+      "date": "2027-03-13T20:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "Hala Olivia",
+      "artists": [],
+      "genres": [
+        "house"
+      ],
+      "price_min": 217.0,
+      "url": "https://biletomat.pl/wydarzenia/bonobo-distance-in-static-live-33515?eventId=355181",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
