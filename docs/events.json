@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T18:46:29+01:00",
+  "updated": "2026-11-25T03:30:28+01:00",
   "count": 170,
   "events": [
     {
@@ -40,7 +40,7 @@
       "city": "Warszawa",
       "venue": "Smolna",
       "artists": [
-        "DJ PANZA"
+        "JĘGA"
       ],
       "genres": [
         "psytrance",
@@ -209,7 +209,7 @@
       "city": "Trójmiasto",
       "venue": "Crackhouse",
       "artists": [
-        "TORRENTZ"
+        "KURIOZUM"
       ],
       "genres": [
         "hardstyle",
@@ -608,7 +608,7 @@
       "city": "Kraków",
       "venue": "PLAYHAUS",
       "artists": [
-        "Enzio Etchaberri"
+        "MADI"
       ],
       "genres": [
         "electronic"
@@ -654,22 +654,6 @@
       ]
     },
     {
-      "title": "SCHISSMA: ŁÓDŹ (WILLA) – 04.12.2026",
-      "date": "2026-12-04T23:00:00+01:00",
-      "city": "Łódź",
-      "venue": "Willa w Parku",
-      "artists": [],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/willa-w-parku-schissma0412-10419",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "TRAINSPOTTING PARTY: Choose Dirty '90s British Sound - Warszawa",
       "date": "2026-12-04T23:00:00+01:00",
       "city": "Warszawa",
@@ -684,6 +668,22 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/trainspotting-warszawa-9533",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "SCHISSMA: ŁÓDŹ (WILLA) – 04.12.2026",
+      "date": "2026-12-04T23:00:00+01:00",
+      "city": "Łódź",
+      "venue": "Willa w Parku",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/willa-w-parku-schissma0412-10419",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -790,7 +790,7 @@
       "city": "Kraków",
       "venue": "Claudius Hair Treser",
       "artists": [
-        "NARASKA"
+        "PAPI"
       ],
       "genres": [
         "techno",
@@ -827,7 +827,7 @@
       "city": "Kraków",
       "venue": "MIĘDZYMIASTOWA",
       "artists": [
-        "IAN"
+        "CRUZZ"
       ],
       "genres": [
         "trance",
@@ -964,24 +964,6 @@
       ]
     },
     {
-      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE: SANTA EDITION | 11.12 TFR",
-      "date": "2026-12-11T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "TRANSFORMATOR",
-      "artists": [],
-      "genres": [
-        "hardstyle",
-        "techno",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/transformator-10400",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "RYSY | Hype Park Kraków 11.12.2026",
       "date": "2026-12-11T23:00:00+01:00",
       "city": "Kraków",
@@ -994,6 +976,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rysy-hype-park-10263",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "RAVE GIRLS POLAND PRES. MILKY RAVE: SANTA EDITION | 11.12 TFR",
+      "date": "2026-12-11T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [],
+      "genres": [
+        "hardstyle",
+        "techno",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/transformator-10400",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1119,12 +1119,30 @@
       ]
     },
     {
+      "title": "VOCAL HIGH!",
+      "date": "2026-12-12T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "Martin Zoom"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/martin-zoom-jacob-a-slodownia-club-10346",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "Girls' Rave | 2 stages | Dom Technika, Poznań",
       "date": "2026-12-12T22:00:00+01:00",
       "city": "Poznań",
       "venue": "Dom Technika",
       "artists": [
-        "Psyshroom Girl"
+        "Esquita"
       ],
       "genres": [
         "psytrance",
@@ -1134,24 +1152,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rita-raga-iraada-esquita-dusha-devi-divine-psyshroom-girl-illegible-dom-technika-10209",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "VOCAL HIGH!",
-      "date": "2026-12-12T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "Jacob A"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/martin-zoom-jacob-a-slodownia-club-10346",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1199,7 +1199,7 @@
       "city": "Wrocław",
       "venue": "Ciało",
       "artists": [
-        "SYNTHIA"
+        "STARA"
       ],
       "genres": [
         "techno"
@@ -1232,6 +1232,22 @@
       ]
     },
     {
+      "title": "SCHISSMA: GDAŃSK (CRACKHOUSE) – 12.12.2026",
+      "date": "2026-12-12T23:00:00+01:00",
+      "city": "Trójmiasto",
+      "venue": "Crackhouse",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/crackhouse1212-10340",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "ART GROOVE",
       "date": "2026-12-12T23:00:00+01:00",
       "city": "Wrocław",
@@ -1243,22 +1259,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/transformator-10496",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SCHISSMA: GDAŃSK (CRACKHOUSE) – 12.12.2026",
-      "date": "2026-12-12T23:00:00+01:00",
-      "city": "Trójmiasto",
-      "venue": "Crackhouse",
-      "artists": [],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/crackhouse1212-10340",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1323,7 +1323,7 @@
       "city": "Rzeszów",
       "venue": "GRAND CLUB",
       "artists": [
-        "J-GRO"
+        "LIO"
       ],
       "genres": [
         "electronic"
@@ -1376,7 +1376,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "REFREQX"
+        "V DENSITY"
       ],
       "genres": [
         "hardstyle",
@@ -1395,7 +1395,7 @@
       "city": "Szczecin",
       "venue": "HALA ODRA",
       "artists": [
-        "Daniel Stetting"
+        "Agawu"
       ],
       "genres": [
         "techno",
@@ -1446,24 +1446,6 @@
       ]
     },
     {
-      "title": "Koncert Huncho 730 + AfterParty - 26 Grudnia - Drugi Dzień Świąt",
-      "date": "2026-12-26T21:00:00+01:00",
-      "city": "Kielce",
-      "venue": "UltraViolet Exclusive Club",
-      "artists": [
-        "730 Huncho"
-      ],
-      "genres": [
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/730-huncho-ultraviolet-exclusive-club-10322",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "WRK | HI RAVE | SANTA EDITION",
       "date": "2026-12-26T21:00:00+01:00",
       "city": "Skarżysko-Kamienna",
@@ -1476,6 +1458,24 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/wrk-klub-semafor-10541",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Koncert Huncho 730 + AfterParty - 26 Grudnia - Drugi Dzień Świąt",
+      "date": "2026-12-26T21:00:00+01:00",
+      "city": "Kielce",
+      "venue": "UltraViolet Exclusive Club",
+      "artists": [
+        "730 Huncho"
+      ],
+      "genres": [
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/730-huncho-ultraviolet-exclusive-club-10322",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1620,16 +1620,16 @@
       ]
     },
     {
-      "title": "Sylwester 26/27 With Deep In My Soul and Proggcast",
+      "title": "Sylwester w Lux Club Suwałki / Największa impreza w Centrum!",
       "date": "2026-12-31T21:00:00+01:00",
-      "city": "Szczecin",
-      "venue": "After Ego",
+      "city": "Suwałki",
+      "venue": "Lux Night Club",
       "artists": [],
       "genres": [
-        "house"
+        "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/after-ego-10059",
+      "url": "https://stage24.pl/wydarzenia/sylwesterwluxie-10055",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1655,16 +1655,16 @@
       ]
     },
     {
-      "title": "Sylwester w Lux Club Suwałki / Największa impreza w Centrum!",
+      "title": "Sylwester 26/27 With Deep In My Soul and Proggcast",
       "date": "2026-12-31T21:00:00+01:00",
-      "city": "Suwałki",
-      "venue": "Lux Night Club",
+      "city": "Szczecin",
+      "venue": "After Ego",
       "artists": [],
       "genres": [
-        "electronic"
+        "house"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/sylwesterwluxie-10055",
+      "url": "https://stage24.pl/wydarzenia/after-ego-10059",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1713,13 +1713,29 @@
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "neevald"
+        "pequeño"
       ],
       "genres": [
         "house"
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/bartes-neevald-sylwester-impreza-noworoczna-slodownia-club-10206",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "Sylwester na W/W Rooftop",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "WDECH WYDECH ROOFTOP",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1757,22 +1773,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/paxtone-miedzymiastowa-10315",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Sylwester na W/W Rooftop",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "WDECH WYDECH ROOFTOP",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1847,7 +1847,7 @@
       "city": "Poznań",
       "venue": "SCHRON44",
       "artists": [
-        "JÓZEF KEUNER"
+        "SYNTHIA"
       ],
       "genres": [
         "electronic"
