@@ -1,23 +1,7 @@
 {
-  "updated": "2026-11-25T03:30:28+01:00",
-  "count": 170,
+  "updated": "2026-11-25T18:14:26+01:00",
+  "count": 171,
   "events": [
-    {
-      "title": "TECHNO YOGA W KLUBIE TAMA | POZNAN",
-      "date": "2026-11-25T18:00:00+01:00",
-      "city": "Poznań",
-      "venue": "KLUB TAMA",
-      "artists": [],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/klub-tama-9790",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
     {
       "title": "DJ BLIK & Dominika Płonka",
       "date": "2026-11-26T18:00:00+01:00",
@@ -608,7 +592,7 @@
       "city": "Kraków",
       "venue": "PLAYHAUS",
       "artists": [
-        "MADI"
+        "ROBI LORA"
       ],
       "genres": [
         "electronic"
@@ -790,7 +774,7 @@
       "city": "Kraków",
       "venue": "Claudius Hair Treser",
       "artists": [
-        "PAPI"
+        "MICZEK"
       ],
       "genres": [
         "techno",
@@ -822,6 +806,23 @@
       ]
     },
     {
+      "title": "SYNKRETIC 2: GROOVE & BOUNCE ALL NIGHTER",
+      "date": "2026-12-05T23:00:00+01:00",
+      "city": "Kraków",
+      "venue": "STK 47 - Warehouse",
+      "artists": [],
+      "genres": [
+        "bounce",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-10215",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "MM: AMAZONICA",
       "date": "2026-12-05T23:00:00+01:00",
       "city": "Kraków",
@@ -835,23 +836,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/cruzz-ian-miedzymiastowa-10452",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "SYNKRETIC 2: GROOVE & BOUNCE ALL NIGHTER",
-      "date": "2026-12-05T23:00:00+01:00",
-      "city": "Kraków",
-      "venue": "STK 47 - Warehouse",
-      "artists": [],
-      "genres": [
-        "bounce",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/stk-47-warehouse-10215",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -948,22 +932,6 @@
       ]
     },
     {
-      "title": "DUALISM pres. RAFAEL CERATO",
-      "date": "2026-12-11T23:00:00+01:00",
-      "city": "Warszawa",
-      "venue": "OCZKI",
-      "artists": [],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/oczki-10228",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "RYSY | Hype Park Kraków 11.12.2026",
       "date": "2026-12-11T23:00:00+01:00",
       "city": "Kraków",
@@ -976,6 +944,22 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/rysy-hype-park-10263",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "DUALISM pres. RAFAEL CERATO",
+      "date": "2026-12-11T23:00:00+01:00",
+      "city": "Warszawa",
+      "venue": "OCZKI",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/oczki-10228",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1119,6 +1103,27 @@
       ]
     },
     {
+      "title": "Girls' Rave | 2 stages | Dom Technika, Poznań",
+      "date": "2026-12-12T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Dom Technika",
+      "artists": [
+        "Rita Raga"
+      ],
+      "genres": [
+        "psytrance",
+        "techno",
+        "house",
+        "rave"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/rita-raga-iraada-esquita-dusha-devi-divine-psyshroom-girl-illegible-dom-technika-10209",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "VOCAL HIGH!",
       "date": "2026-12-12T22:00:00+01:00",
       "city": "Poznań",
@@ -1131,27 +1136,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/martin-zoom-jacob-a-slodownia-club-10346",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "Girls' Rave | 2 stages | Dom Technika, Poznań",
-      "date": "2026-12-12T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Dom Technika",
-      "artists": [
-        "Esquita"
-      ],
-      "genres": [
-        "psytrance",
-        "techno",
-        "house",
-        "rave"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/rita-raga-iraada-esquita-dusha-devi-divine-psyshroom-girl-illegible-dom-technika-10209",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1194,24 +1178,6 @@
       ]
     },
     {
-      "title": "PARANØIA: MYU:SA [BE] | MUZAN [SKG] 12.12.2026 | Wrocław, Ciało",
-      "date": "2026-12-12T23:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "Ciało",
-      "artists": [
-        "STARA"
-      ],
-      "genres": [
-        "techno"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paranoiacialo12122k26-10178",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
       "title": "Drop w/ Tanukichi, Original Sin, Magnetude",
       "date": "2026-12-12T23:00:00+01:00",
       "city": "Kraków",
@@ -1226,6 +1192,23 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/drop-hype-park-9829",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "ART GROOVE",
+      "date": "2026-12-12T23:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "TRANSFORMATOR",
+      "artists": [],
+      "genres": [
+        "schranz",
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/transformator-10496",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1248,17 +1231,18 @@
       ]
     },
     {
-      "title": "ART GROOVE",
+      "title": "PARANØIA: MYU:SA [BE] | MUZAN [SKG] 12.12.2026 | Wrocław, Ciało",
       "date": "2026-12-12T23:00:00+01:00",
       "city": "Wrocław",
-      "venue": "TRANSFORMATOR",
-      "artists": [],
+      "venue": "Ciało",
+      "artists": [
+        "STARA"
+      ],
       "genres": [
-        "schranz",
         "techno"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/transformator-10496",
+      "url": "https://stage24.pl/wydarzenia/paranoiacialo12122k26-10178",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1323,7 +1307,7 @@
       "city": "Rzeszów",
       "venue": "GRAND CLUB",
       "artists": [
-        "LIO"
+        "J-GRO"
       ],
       "genres": [
         "electronic"
@@ -1358,7 +1342,7 @@
       "city": "Rybnik",
       "venue": "ART CAFE RYBNIK",
       "artists": [
-        "Etnochowa"
+        "Jeetson"
       ],
       "genres": [
         "house"
@@ -1376,7 +1360,7 @@
       "city": "Trójmiasto",
       "venue": "DOKI1",
       "artists": [
-        "V DENSITY"
+        "Konzi DJ"
       ],
       "genres": [
         "hardstyle",
@@ -1390,12 +1374,30 @@
       ]
     },
     {
+      "title": "1 URODZINY SLODOWNIA CLUB",
+      "date": "2026-12-19T22:00:00+01:00",
+      "city": "Poznań",
+      "venue": "Słodownia Club",
+      "artists": [
+        "Skorup"
+      ],
+      "genres": [
+        "house"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/dj-tonka-neevald-bartes-skorup-peqeno-kulterman-mold-flor-magda-hoffmann-mike-refsky-mihael-mar-tareev-slodownia-club-10348",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "🎉KOLORAVE 4 - TSUNAMI KONFETTI - SZCZECIN @Hala Odra",
       "date": "2026-12-19T22:00:00+01:00",
       "city": "Szczecin",
       "venue": "HALA ODRA",
       "artists": [
-        "Agawu"
+        "Qbacki"
       ],
       "genres": [
         "techno",
@@ -1422,24 +1424,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/le-bask-underground-pub-9640",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "1 URODZINY SLODOWNIA CLUB",
-      "date": "2026-12-19T22:00:00+01:00",
-      "city": "Poznań",
-      "venue": "Słodownia Club",
-      "artists": [
-        "PEQENO"
-      ],
-      "genres": [
-        "house"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/dj-tonka-neevald-bartes-skorup-peqeno-kulterman-mold-flor-magda-hoffmann-mike-refsky-mihael-mar-tareev-slodownia-club-10348",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1506,7 +1490,7 @@
       "city": "Poznań",
       "venue": "Klub 58",
       "artists": [
-        "Bart Sucharski"
+        "Michał Łęcki"
       ],
       "genres": [
         "house"
@@ -1641,7 +1625,7 @@
       "city": "Wrocław",
       "venue": "Terminal Event Center - Hala Orion",
       "artists": [
-        "NICOLAS JULIAN"
+        "Charlie Sparks"
       ],
       "genres": [
         "industrial",
@@ -1708,12 +1692,28 @@
       ]
     },
     {
+      "title": "Sylwester na W/W Rooftop",
+      "date": "2026-12-31T22:00:00+01:00",
+      "city": "Wrocław",
+      "venue": "WDECH WYDECH ROOFTOP",
+      "artists": [],
+      "genres": [
+        "electronic"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
       "title": "SYLWESTER | NEW YEARS EVE 2027",
       "date": "2026-12-31T22:00:00+01:00",
       "city": "Poznań",
       "venue": "Słodownia Club",
       "artists": [
-        "pequeño"
+        "neevald"
       ],
       "genres": [
         "house"
@@ -1726,16 +1726,18 @@
       ]
     },
     {
-      "title": "Sylwester na W/W Rooftop",
+      "title": "MM: NEW YEAR'S EVE",
       "date": "2026-12-31T22:00:00+01:00",
-      "city": "Wrocław",
-      "venue": "WDECH WYDECH ROOFTOP",
-      "artists": [],
+      "city": "Kraków",
+      "venue": "MIĘDZYMIASTOWA",
+      "artists": [
+        "PAXTONE"
+      ],
       "genres": [
         "electronic"
       ],
       "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/wdech-wydech-rooftop-10239",
+      "url": "https://stage24.pl/wydarzenia/paxtone-miedzymiastowa-10315",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1755,24 +1757,6 @@
       ],
       "price_min": null,
       "url": "https://stage24.pl/wydarzenia/christian-loffler-klub-b17-10014",
-      "source": "stage24",
-      "sources": [
-        "stage24"
-      ]
-    },
-    {
-      "title": "MM: NEW YEAR'S EVE",
-      "date": "2026-12-31T22:00:00+01:00",
-      "city": "Kraków",
-      "venue": "MIĘDZYMIASTOWA",
-      "artists": [
-        "PAXTONE"
-      ],
-      "genres": [
-        "electronic"
-      ],
-      "price_min": null,
-      "url": "https://stage24.pl/wydarzenia/paxtone-miedzymiastowa-10315",
       "source": "stage24",
       "sources": [
         "stage24"
@@ -1847,7 +1831,7 @@
       "city": "Poznań",
       "venue": "SCHRON44",
       "artists": [
-        "SYNTHIA"
+        "WNUK"
       ],
       "genres": [
         "electronic"
@@ -1865,7 +1849,7 @@
       "city": "Wrocław",
       "venue": "TRANSFORMATOR",
       "artists": [
-        "Wix Colina"
+        "DJ Lopez"
       ],
       "genres": [
         "techno",
@@ -1884,7 +1868,7 @@
       "city": "Poznań",
       "venue": "KLUB TAMA",
       "artists": [
-        "Schellt"
+        "BOBAIO"
       ],
       "genres": [
         "hardcore",
@@ -2103,7 +2087,7 @@
       "city": "Warszawa",
       "venue": "OCZKI",
       "artists": [
-        "EVIUS"
+        "PEGASSI"
       ],
       "genres": [
         "rave"
@@ -2328,6 +2312,7 @@
       "artists": [
         "2manydjs",
         "Kosma Król",
+        "Roni Size",
         "S.P.Y",
         "Łona x Konieczny x Krupa"
       ],
@@ -2671,7 +2656,7 @@
       "city": "Katowice",
       "venue": "P23 Katowice",
       "artists": [
-        "D.a.v.e The Drummer"
+        "Dj Tag Tresor Berlin"
       ],
       "genres": [
         "acid",
@@ -2781,6 +2766,40 @@
       "source": "ebilet",
       "sources": [
         "ebilet"
+      ]
+    },
+    {
+      "title": "DRUMCODE Wrocław",
+      "date": "2027-04-24T21:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Terminal Event Center - Hala Orion",
+      "artists": [
+        "DRUMCODE"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "price_min": null,
+      "url": "https://stage24.pl/wydarzenia/drumcode-wroclaw-hala-orion-10578",
+      "source": "stage24",
+      "sources": [
+        "stage24"
+      ]
+    },
+    {
+      "title": "DRUMCODE WROCŁAW",
+      "date": "2027-04-24T21:00:00+02:00",
+      "city": "Wrocław",
+      "venue": "Hala ORION",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
+      "price_min": 199.0,
+      "url": "https://biletomat.pl/wydarzenia/drumcode-wroclaw-34767?eventId=364071",
+      "source": "biletomat",
+      "sources": [
+        "biletomat"
       ]
     },
     {
